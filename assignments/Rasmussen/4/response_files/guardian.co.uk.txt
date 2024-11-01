@@ -1,0 +1,43 @@
+URL: https://guardian.co.uk
+Final URL: https://www.theguardian.com/us
+Status Code: 200
+
+Headers:
+connection: keep-alive
+content-length: 126243
+x-gu-dotcomponents: true
+link: <https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js?rum=0&features=es6%2Ces7%2Ces2017%2Ces2018%2Ces2019%2Cdefault-3.6%2CHTMLPictureElement%2CIntersectionObserver%2CIntersectionObserverEntry%2CURLSearchParams%2Cfetch%2CNodeList.prototype.forEach%2Cnavigator.sendBeacon%2Cperformance.now%2CPromise.allSettled&flags=gated&callback=guardianPolyfilled&unknown=polyfill&cacheClear=1>; rel=prefetch,<https://assets.guim.co.uk/assets/frameworks.client.web.291ea3346dc06fa0cd3f.js>; rel=prefetch,<https://assets.guim.co.uk/assets/index.client.web.a0e12e3e7645d0bbd3b4.js>; rel=prefetch,<https://assets.guim.co.uk/javascripts/commercial/07bdb9f2c273f0bc66fb/graun.standalone.commercial.js>; rel=prefetch,,<https://assets.guim.co.uk/>; rel=preconnect,<https://i.guim.co.uk>; rel=preconnect,<https://j.ophan.co.uk>; rel=preconnect,<https://ophan.theguardian.com>; rel=preconnect,<https://api.nextgen.guardianapps.co.uk>; rel=preconnect,<https://hits-secure.theguardian.com>; rel=preconnect,<https://interactive.guim.co.uk>; rel=preconnect,<https://phar.gu-web.net>; rel=preconnect,<https://static.theguardian.com>; rel=preconnect,<https://support.theguardian.com>; rel=preconnect
+etag: W/"hash5520349916129919557"
+onion-location: https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/us
+x-gu-frontend-git-commit-id: a09b6e37a0072fd08bc34766a60b61b3839f86c0
+content-type: text/html; charset=UTF-8
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:50 GMT
+age: 46
+set-cookie: GU_mvt_id=789055; expires=Wed, 29 Jan 2025 04:57:50 GMT; path=/; domain=.theguardian.com; Secure,GU_geo_country=US; path=/; Secure
+x-timer: S1730350671.613675,VS0,VS0,VE2
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+x-gu-edition: us
+cache-control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private,no-transform
+vary: Accept-Encoding,User-Agent
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+Content Snippet (first 500 characters):
+<!doctype html>
+        <html lang="en" >
+            <head>
+			    <!-- Hello there, HTML enthusiast! -->
+
+				<!-- DCR commit hash 686e02a16723b623f0b47dd05c2a1e097bb1f120 -->
+
+                <title>Latest news, sport and opinion from the Guardian</title>
+                <meta name="description" content="Latest US news, world news, sports, business, opinion, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice" />
+				<meta charset="utf-8">
+				<link rel="canonical" 

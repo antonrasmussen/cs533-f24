@@ -1,0 +1,30 @@
+URL: https://goo.ne.jp
+Final URL: https://www.goo.ne.jp/
+Status Code: 200
+
+Headers:
+cache-control: must-revalidate, no-cache, no-store, post-check=0, pre-check=0, private
+content-type: text/html; charset=UTF-8
+date: Thu, 31 Oct 2024 04:57:49 GMT
+set-cookie: XSRF-TOKEN=eyJpdiI6IkUvVnBpS3ovd2pLZHhjTHcwUG5xcXc9PSIsInZhbHVlIjoiZDJDU1VLSjhiT3o2NVJoS01sL1A0ZUd5MmdiaG1SaGtJcHFTcmFGVzk1aWpzM1BBSGVteVZXUlFNVXBMYU1oQiIsIm1hYyI6IjkzNjE0YWU5NmY2YzRiMmI0ZGNlNDc2MjM5OTkwYzI4MmVmOTYxZDhhMmMwNzMwNjU1ZGVhMWFkNjQ0OTk2M2YiLCJ0YWciOiIifQ%3D%3D; expires=Thu, 31 Oct 2024 06:57:49 GMT; Max-Age=7200; path=/; secure,top_session=eyJpdiI6ImR0eGh4Nzc5UHFaRUtTZERxazVHdnc9PSIsInZhbHVlIjoiSjNlMklZbGlrbHdaYjNpVWtpUjVUQjVnT2JnVXhLdE1kWlVDdHhNTHpxZlFtMjQveXR3Z1owSEhZbWRMWDM2diIsIm1hYyI6IjRjODFkODRlMTc5ZDljNjZiMDUyYWEyZDI1Yjc0ZjFiODc5YThiOWUzODYyMjE5ZjQ1NmI5NTIxZGYyNjRmZDUiLCJ0YWciOiIifQ%3D%3D; expires=Thu, 31 Oct 2024 06:57:49 GMT; Max-Age=7200; path=/; secure; httponly,gootop=NE:0&SJA:0_1535601469&CST:d8fcedcc507a4f8ed37f42166f79c2e0&SR:&PCE:1&SL:2_3_4_53_11_8_16_6_27; expires=Wed, 31 Oct 2040 04:57:49 GMT; Max-Age=504921600; path=/; secure,gootopstay=eyJpdiI6ImhGbmlYSm5ZazN0VmU2QUNPak5EUkE9PSIsInZhbHVlIjoiUXY0bFJaZkZDSUtCN3pqMHc0R2svQT09IiwibWFjIjoiZjkwMjI4M2YzZWQxNzgwNzc2MmMyMzk5ZDhiZGNmNjRjOWIxYWVkYmRkNDllMTA1NjRkMGUwMWYyNDU1ODIwNyIsInRhZyI6IiJ9; expires=Fri, 31 Oct 2025 04:57:49 GMT; Max-Age=31536000; path=/; secure,mental=eyJpdiI6IkNDWkVUQVk5ZlRlUmtKWklHUHp0VGc9PSIsInZhbHVlIjoiUHlwNEx2VXF5M1lBZHZzcFlORUJyUT09IiwibWFjIjoiNmMzZjUyZTQzZjc0ZTg3ZmI5ZDlhZTQ5N2Y3OGRiN2VmNDg3M2VjZTZmYWVkODE5ZThhNjVhMDgyYzMyNzcxYSIsInRhZyI6IiJ9; expires=Fri, 01 Nov 2024 04:57:49 GMT; Max-Age=86400; path=/; secure; httponly,gooproperty=AR%3D%26HO%3D1%26MD%3D%26TH%3DM13%26HH%3D%26WEATHER%3D; expires=Sat, 31 Oct 2026 04:57:49 GMT; Max-Age=63072000; path=/; domain=.goo.ne.jp; secure,searchstate=deleted; expires=Wed, 01 Nov 2023 04:57:48 GMT; Max-Age=0; path=/; domain=goo.ne.jp; secure; httponly,TS01ea13e3=016952d21eee934a8575e76eba907c7dc8bff1c5752ad1a5d37dd1ea11335195e6335b201d60701bb785172811a8334e358bb9ed2b; Path=/,TS011bfe84=016952d21eee934a8575e76eba907c7dc8bff1c5752ad1a5d37dd1ea11335195e6335b201d60701bb785172811a8334e358bb9ed2b; path=/; domain=.goo.ne.jp,TS011667c7=016952d21eee934a8575e76eba907c7dc8bff1c5752ad1a5d37dd1ea11335195e6335b201d60701bb785172811a8334e358bb9ed2b; path=/; domain=goo.ne.jp
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-vcap-request-id: 91ead05c-4b72-4858-4cdf-a3409d84e17f
+x-xss-protection: 1; mode=block
+transfer-encoding: chunked
+
+Content Snippet (first 500 characters):
+<!DOCTYPE HTML>
+
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="unsafe-url">
+<!--[if !IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+
+<title>goo</title>
+<meta name="csrf-token" content="dkPZP6UfJm2rW3niTyDEkPvg5lKKWE6zP4b1VOd5">
+<meta name="keywords" content="goo,グー,ぐー,ポータル,portal,検索">
+<meta name="description" content="NTTドコモが運営する安心・安全のポータルサイト。使えば使うほど、あなたの興味・関心、趣味・嗜好を学習し、限られた時間で効率よく「あなた専用」のポータルサイトとして必要な情報を収集することができます。">
+<meta property="og:tit

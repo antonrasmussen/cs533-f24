@@ -1,0 +1,38 @@
+URL: https://goodreads.com
+Final URL: https://www.goodreads.com/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+connection: keep-alive
+server: Server
+date: Thu, 31 Oct 2024 04:57:47 GMT
+x-amz-rid: N3KJCFF44Q9GNMS9KSH1
+set-cookie: ccsid=388-7157999-3776057; path=/; expires=Mon, 31 Oct 2044 04:57:46 -0000,logged_out_browsing_page_count=1; path=/; expires=Tue, 31 Oct 2034 04:57:46 -0000,locale=en; path=/,_session_id2=e5257b050395aca541bd94027a7a4089; path=/; expires=Thu, 31 Oct 2024 10:57:47 -0000; HttpOnly
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff, nosniff
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+etag: W/"647071de3c917f7359add8df263e837c"
+cache-control: max-age=0, private, must-revalidate
+x-request-id: N3KJCFF44Q9GNMS9KSH1
+x-runtime: 0.102938
+vary: User-Agent,Content-Type,Accept-Encoding,User-Agent
+x-cache: Miss from cloudfront
+via: 1.1 0d5152d594f96742d61c8aadd196aec6.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD12-P4
+x-amz-cf-id: RkE0vqsx9_5cG7-3c9hMM3XcwTsWqxFiRAYmGoEuiErv1j1Of6wRqw==
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html class="desktop withSiteHeaderTopFullImage
+">
+<head>
+  <title>Goodreads | Meet your next favorite book</title>
+
+<meta content='Find and read more books you’ll love, and keep track of the books you want to read. Be part of the world’s largest community of book lovers on Goodreads.' name='description'>
+<meta content='telephone=no' name='format-detection'>
+<link href='https://www.goodreads.com/' rel='canonical'>
+  <meta property="og:url" content="https://www.goodreads.com/"/>
+ 

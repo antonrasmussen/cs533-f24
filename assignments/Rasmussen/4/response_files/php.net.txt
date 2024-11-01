@@ -1,0 +1,33 @@
+URL: https://php.net
+Final URL: https://www.php.net/
+Status Code: 200
+
+Headers:
+server: myracloud
+date: Thu, 31 Oct 2024 04:57:49 GMT
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+connection: keep-alive
+last-modified: Thu, 31 Oct 2024 04:50:09 GMT
+content-language: en
+permissions-policy: interest-cohort=()
+x-frame-options: SAMEORIGIN
+set-cookie: COUNTRY=NA%2C98.183.222.96; expires=Thu, 07 Nov 2024 04:57:49 GMT; Max-Age=604800; path=/; domain=.php.net,LAST_NEWS=1730350669; expires=Fri, 31 Oct 2025 04:57:49 GMT; Max-Age=31536000; path=/; domain=.php.net
+link: <https://www.php.net/index>; rel=shorturl
+vary: accept-encoding
+expires: Thu, 31 Oct 2024 04:57:49 GMT
+cache-control: max-age=0
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>PHP: Hypertext Preprocessor</title>
+
+ <link rel="icon" type="image/svg+xml" sizes="any" href="https://www.php.net/favicon.svg?v=2">
+ <link rel="icon" type="image/png" sizes="196x196" href="https://www.php.net/favicon-196x196.png?v=2">
+ <link rel="icon" type="image/png" sizes="32x32" href="https://www.php.net/favi

@@ -1,0 +1,31 @@
+URL: https://ovhcloud.com
+Final URL: https://us.ovhcloud.com/
+Status Code: 200
+
+Headers:
+server: nginx
+date: Thu, 31 Oct 2024 04:57:50 GMT
+content-type: text/html
+transfer-encoding: chunked
+vary: Accept-Encoding
+x-frame-options: ORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+access-control-allow-origin: *
+x-toujours-debout-location: BHS
+x-toujours-debout-branch: B
+cache-control: public, must-revalidate, max-age=90, private
+x-iplb-request-id: 0A6F20CA:547E_C063418B:01BB_67230E4E_75E0A:61DD, 62B7DE60:C785_93870066:01BB_67230E4E_1BB69D98:5EC6
+strict-transport-security: max-age=15768000
+x-iplb-instance: 58927
+set-cookie: SERVERID116590=411b079e|ZyMOU|ZyMOU; path=/; HttpOnly
+
+Content Snippet (first 500 characters):
+
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<link rel="canonical" href="https://us.ovhcloud.com/" />
+<meta name="robots" content="index,

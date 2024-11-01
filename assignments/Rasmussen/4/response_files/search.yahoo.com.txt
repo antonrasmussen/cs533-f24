@@ -1,0 +1,26 @@
+URL: https://search.yahoo.com
+Final URL: https://search.yahoo.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:45 GMT
+p3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+set-cookie: PROMO=ono_sc=1&ono_fts=1730350665&ltv_pid=&ltv_new=1&ltv_ts=1730350665&ltv_sts=1730350665&ltv_c=1; expires=Fri, 31-Oct-2025 04:57:45 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com,A1=d=AQABBEkOI2cCEL6eVjjj17rcwPsck33sHUsFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAmN8Uq-687T7ZKovvFJtuko; Expires=Fri, 31 Oct 2025 10:57:45 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure; HttpOnly,A3=d=AQABBEkOI2cCEL6eVjjj17rcwPsck33sHUsFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAmN8Uq-687T7ZKovvFJtuko; Expires=Fri, 31 Oct 2025 10:57:45 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly,A1S=d=AQABBEkOI2cCEL6eVjjj17rcwPsck33sHUsFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAmN8Uq-687T7ZKovvFJtuko; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure
+secure_search_bypass: true
+x-frame-options: DENY
+content-security-policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-3iX4XMh2M53iuZxc1DBbFQ==' 'unsafe-eval' https://*.yahoo.net https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com https://*.hereapi.com https://*.youtube.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://assets.video.yahoo.net https://*.yimg.com; img-src 'self' data: blob: https://*.aol.com https://s.aolcdn.com https://*.bing.net https://*.yimg.com https://s.ytimg.com yahoo.com https://*.yahoo.com https://*.bing.com https://bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com https://*.adaptv.advertising.com https://*.vidible.tv https://*.yahoo.net https://*.footprint.net https://*.akamaized.net https://*.cloudfront.net https://*.llnwd.net; frame-src 'self' https://*.yahoo.net https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com https://*.vidible.tv https://*.advertising.com https://fun.games.com/ https://interactives.ap.org; media-src * blob:; object-src *; connect-src * blob:; font-src * data:; child-src blob:;
+vary: Accept-Encoding
+cache-control: private
+content-length: 41525
+content-type: text/html; charset=UTF-8
+x-envoy-upstream-service-time: 42
+server: ATS
+age: 0
+connection: keep-alive
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+referrer-policy: no-referrer-when-downgrade
+
+Content Snippet (first 500 characters):
+<!doctype html><html id="atomic" class="NoJs" lang="en-US"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Yahoo Search - Web Search</title><meta name="description" content="The search engine that helps you find exactly what you're looking for. Find the most relevant information, video, images, and answers from all across the Web."><meta name="oath:guce:consent-host" content="guce.yahoo.com"/><link rel="apple-touch-icon" sizes="76x76" href="https://s.yimg.com/pv/s

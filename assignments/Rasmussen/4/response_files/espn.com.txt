@@ -1,0 +1,33 @@
+URL: https://espn.com
+Final URL: https://www.espn.com/
+Status Code: 200
+
+Headers:
+content-type: text/html;charset=UTF-8
+content-length: 44045
+connection: keep-alive
+date: Thu, 31 Oct 2024 04:57:46 GMT
+cache-control: max-age=0, must-revalidate
+access-control-allow-origin: *
+content-security-policy: frame-ancestors  'self' asia.espn.com:* asia.espnqa.com:* *.espn.com:* *.espnqa.com:* *.espnsb.com:* *.espnsb.com *.espn.co.uk *.espndeportes.espn.com *.espn.com.br *.espn.com.mx *.espn.com.ve *.espn.com.ar *.espn.com.co *.espnfc.com.au *.espn.com.au *.espn.in *.espn.com.sg *.espn.cl *.espn.ph *.espn.ph:* *.espn.com.pe *.espn.com.gt *.espn.com.do *.espn.com.ec *.espn.com.uy *.espn.com.pa *.espn.co.cr qa.abcnews.go.com preview.abcnews.go.com abc7ny.com abc7.com *.abcotvssb.com preview.goodmorningamerica.com http://*.espnqa.com:* http://*.espn.com:* *.abcotvssb.com *.abcnews.go.com *.abcnews.go.com:* http://*.abcnews.go.com:* abc30.com abc7news.com abc13.com abc7chicago.com 6abc.com abc11.com *.goodmorningamerica.com qa.abc7.com qa.abc30.com qa.abc7news.com qa.abc13.com qa.abc7chicago.com qa.6abc.com qa.abc7ny.com qa.abc11.com *.abcnews.go.com:* abcnews.go.com qa.secsports.com *.secsports.com https://*.espn.com:* *.espnqa.com:*
+etag: W/"a65e78d1e35ead249d47fc95939030389f4350e7"
+via: 1.1 varnish (Varnish/6.0), 1.1 cf7e8b3887a490b60a55be14eb004b54.cloudfront.net (CloudFront)
+vary: Accept-Encoding
+accept-ranges: bytes
+set-cookie: edition=espn-en-us; path=/; Expires=Thu, 07 Nov 2024 04:57:46 GMT;,connectionspeed=full; path=/; Expires=Thu, 07 Nov 2024 04:57:46 GMT;,country=us; path=/;,edition-view=espn-en-us; path=/; Expires=Thu, 07 Nov 2024 04:57:46 GMT;,region=ccpa; path=/; Expires=Thu, 07 Nov 2024 04:57:46 GMT;,_dcf=1; path=/; Expires=Thu, 07 Nov 2024 04:57:46 GMT;,SWID=FD23F179-D026-4AFB-CA21-A8EC0E2E440E; path=/; Expires=Mon, 31 Oct 2044 04:57:46 GMT; domain=espn.com;,userab_1=eplus_pw_pre_mobile-55%2Apre-168%2Cespn_app_playlists_fallback-283%2Aplethora-a-1102%2Cespn_app_playlists_home-281%2Aplethora-a-1092%2Cespn_app_playlists_home_article-284%2Aplethora-a-1110%2Cespn_app_playlists_score-282%2Aplethora-a-1098%2Cespn_my_news_design_a-87%2Amy_news_variation1-308%2Cespn_onefeed_my_news-246%2Aplethora-a-934%2Cespn_watch_for_you-285%2Awatch-fy-a-1117%2Cespn_watch_rfy_latest-286%2Awatch-fy-d-1120%2Cespnplus_paywall_prepurchase-106%2Avariant_a-371%2Cgamecast_video-91%2Agamecast-319%2Cweb_index1_pres-99%2Aenhanced-346; Expires=Thu, 31 Oct 2024 08:57:46 GMT; Domain=www.espn.com; Path=/
+x-cache: Miss from cloudfront
+x-amz-cf-pop: IAD55-P5
+x-amz-cf-id: sxd2rbHaWB0vhNLEYifFoPDUitacFx2ONy3CU9wVzuq_XEEMDM8k9g==
+
+Content Snippet (first 500 characters):
+
+	<!DOCTYPE html>
+	<html class="no-icon-fonts" lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="referrer" content="origin-when-cross-origin">
+<link rel="canonical" href="https://www.espn.com" />
+<title>ESPN - Serving Sports Fans. Anytime. Anywhere.</title>
+<meta name="description" content="Vi

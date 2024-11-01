@@ -1,0 +1,20 @@
+URL: https://prezi.com
+Final URL: https://prezi.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:45 GMT
+content-type: text/html; charset=utf-8
+content-length: 13369
+connection: keep-alive
+vary: Cookie, Accept-Language, Accept-Encoding
+x-frame-options: DENY
+content-language: en
+x-content-type-options: nosniff, nosniff
+referrer-policy: strict-origin-when-cross-origin
+set-cookie: csrftoken=TFgGncQZtxB7X6bXqo4L9deMoiYgoTRJ; Domain=.prezi.com; expires=Thu, 30 Oct 2025 04:57:45 GMT; Max-Age=31449600; Path=/; SameSite=Lax,__putma=aacda290-9744-11ef-8471-1acb9170b702; Domain=.prezi.com; expires=Wed, 26 Oct 2044 04:57:45 GMT; Max-Age=630720000; Path=/; SameSite=none; Secure
+permissions-policy: usb=(), xr-spatial-tracking=()
+strict-transport-security: max-age=31536000; includeSubDomains
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html data-wf-page="66211787b03806cf39c1dffb" data-wf-site="64be3ac6d7e811ba37809e1c" lang="en"><head><!-- OneTrust Cookies Consent Notice start --><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="babb4261-7c8b-4e0d-9b99-ce4e6e126a13"></script><script src="https://package-bundles.prezi.com/cookie-consent/cookie-consent.1.0.6/cookie-consent.js"></script><!-- OneTrust Cookies

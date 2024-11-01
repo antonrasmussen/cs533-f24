@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cookie Security Demo - Attacker Page</title>
+    <style>
+        iframe {
+            width: 100%;
+            height: 200px;
+            border: 1px solid #ccc;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f8f8;
+            border: 1px solid #ddd;
+        }
+        .stolen {
+            color: #d63031;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cookie Security Demo</h1>
+    <p>This page demonstrates how cookies can be stolen from an iframe when only using Path attribute.</p>
+    
+    <h3>Vulnerable iframe:</h3>
+    <iframe src="/frame-path-attack/vulnerable-page" id="vulnerableFrame"></iframe>
+    
+    <div class="result">
+        <h3>Stolen Cookies:</h3>
+        <pre id="cookieDisplay"></pre>
+    </div>
+
+    <script>
+    // Listen for messages from the iframe
+    window.addEventListener('message', function(event) {
+        if (event.data.type === 'cookies') {
+            const cookies = event.data.cookies;
+            let formattedCookies = '';
+            
+            if (cookies) {
+                formattedCookies = cookies.split(';')
+                    .map(cookie => cookie.trim())
+                    .map(cookie => {
+                        if (cookie.includes('serverSecret')) {
+                            return `<span class="stolen">${cookie}</span>`;
+                        }
+                        return cookie;
+                    })
+                    .join('\n');
+            } else {
+                formattedCookies = 'No cookies found';
+            }
+
+            document.getElementById('cookieDisplay').innerHTML = formattedCookies;
+        }
+    });
+    </script>
+</body>
+</html>

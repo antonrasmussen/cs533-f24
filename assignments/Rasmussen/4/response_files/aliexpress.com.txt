@@ -1,0 +1,25 @@
+URL: https://aliexpress.com
+Final URL: https://www.aliexpress.com/
+Status Code: 200
+
+Headers:
+content-type: text/html;charset=UTF-8
+vary: Accept-Encoding
+p3p: CP="CAO PSA OUR"
+x-application-context: ae-fn-gateway-f:7001
+access-control-allow-origin: https://hz.aliexpress.com
+server: Tengine/Aserver
+eagleeye-traceid: 2101584917303430999113416e9fcc
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+x-akamai-transformed: 9 - 0 pmb=mRUM,2
+date: Thu, 31 Oct 2024 02:51:40 GMT
+transfer-encoding: chunked
+connection: keep-alive, Transfer-Encoding
+set-cookie: ali_apache_id=33.1.88.73.1730343099922.142684.4; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT,xman_us_f=x_locale=en_US&x_l=1&x_c_chg=1&acs_rt=ca3a214e6a7d4840a6179654d4364a3d; Domain=.aliexpress.com; Expires=Tue, 18-Nov-2092 06:05:46 GMT; Path=/; Secure; SameSite=None,intl_common_forever=w3cIZicXdxQnpKg5jLZf6DEYxwb6GmTLP6WW8Ce1H/9DzSvngEqF9A==; Domain=.aliexpress.com; Expires=Tue, 18-Nov-2092 06:05:46 GMT; Path=/; HttpOnly,intl_locale=en_US; Domain=.aliexpress.com; Path=/,xman_f=vzmHodCqEh5G3+rz7qp+kGobvnKaCqj8V2iT817XdeXWTlZyE76gi60I0uP0WMe3c+S28A7MU0xgsyjX3+lA1ayuOhMgDLRc7KkaX9sg0J3NA82juDBVRw==; Domain=.aliexpress.com; Expires=Tue, 18-Nov-2092 06:05:46 GMT; Path=/; Secure; SameSite=None; HttpOnly,acs_usuc_t=x_csrf=wmoec22w_hwi&acs_rt=ca3a214e6a7d4840a6179654d4364a3d; Domain=.aliexpress.com; Path=/; Secure; SameSite=None,xman_t=6p32JyLzbIX1MGP8Bbkpwh3f+1flVpHFcuQCArDBSWQDacPpFXcmBVSjipyh2Za5; Domain=.aliexpress.com; Expires=Wed, 29-Jan-2025 02:51:39 GMT; Path=/; Secure; SameSite=None; HttpOnly,aep_usuc_f=site=glo&c_tp=USD&region=US&b_locale=en_US; Domain=.aliexpress.com; Expires=Tue, 18-Nov-2092 06:05:46 GMT; Path=/; Secure; SameSite=None,AKA_A2=A; expires=Thu, 31-Oct-2024 03:51:40 GMT; path=/; domain=aliexpress.com; secure; HttpOnly
+link: <https://ae01.alicdn.com>;rel="preconnect",<https://assets.aliexpress-media.com>;rel="preconnect",<https://is.alicdn.com>;rel="preconnect",<https://g.alicdn.com>;rel="preconnect",<https://aeis.alicdn.com>;rel="preconnect",<https://www.googletagmanager.com>;rel="preconnect",<https://tags.creativecdn.com>;rel="preconnect",<https://static.criteo.net>;rel="preconnect",<https://s.pinimg.com>;rel="preconnect", <https://assets.alicdn.com>;rel="preconnect"
+server-timing: cdn-cache; desc=MISS, edge; dur=245, origin; dur=621, ak_p; desc="1730343099756_389073003_436568559_86458_6307_21_37_-";dur=1
+
+Content Snippet (first 500 characters):
+
+<!DOCTYPE html><html prefix="og: https://ogp.me/ns/website#" lang="en_US"><head><meta charSet="utf-8"/><meta name="data-spm" content="a2g0o"/><meta http-equiv="content-language" content="en_US"/><title>AliExpress - Affordable Prices on Top Brands with Free Shipping</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="aplus-waiting" content="MAN"/><meta name="aplus-auto-exp-visible" content="0.5"/><meta name="aplus-auto-exp-duration" content="500"/><meta nam

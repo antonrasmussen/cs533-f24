@@ -1,0 +1,31 @@
+URL: https://biblegateway.com
+Final URL: https://www.biblegateway.com/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=UTF-8
+transfer-encoding: chunked
+connection: keep-alive
+date: Thu, 31 Oct 2024 04:12:43 GMT
+server: nginx
+strict-transport-security: max-age=7776000
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 76981f78ed432cf4780450e6a032d178.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WsckWVOiq7iTmQRgZT-TEyJZFTH2plAaJSip4DOAYDdVYi6tMSdwNQ==
+age: 2703
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset='utf-8'>
+<meta http-equiv="Content-Language" content="en">
+<meta name="google" content="notranslate" />
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<title>BibleGateway.com: A searchable online Bible in over 150 versions and 50 languages.</title>
+<link rel="canonical" href="https://www.biblegateway.com/" />
+<meta property="og:image" content="https://www.biblegateway.com/assets/images/logos/logo_bg-sharing.png?0398a293

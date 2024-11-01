@@ -1,0 +1,49 @@
+URL: https://webmd.com
+Final URL: https://www.webmd.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:49 GMT
+content-type: text/html
+transfer-encoding: chunked
+connection: keep-alive
+cf-cache-status: HIT
+access-control-allow-origin: *
+age: 60
+cache-control: no-cache, no-store, must-revalidate
+set-cookie: lrt_wrk=lrt1_cached_k8_worker_4_19R_3W_2024-10-10_14:17:11_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr_null_config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1730350669158_hvid_false; domain=webmd.com; path=/,gtinfo={"ct":"Norfolk","c":"Norfolk City","cc":"51710","st":"VA","sc":"47","z":"23502","lat":"36.85","lon":"-76.21","dma":"544","cntr":"usa","cntrc":"840","tz":null,"ci":"98.183.222.96"}; domain=webmd.com; path=/,VisitorId=3941a7c5-55dd-470d-23f7-d750fac8fc9c; Expires=Tue, 31 Oct 2034 04:57:49 GMT; domain=webmd.com; path=/,ab=default; domain=.webmd.com; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT,__cf_bm=FZrjJqISd2G9uuXkisRdnnBjAKV9fhR2REPeVA0zntE-1730350669-1.0.1.1-LniRJz0y1ZX5lc7WbBhegid7s27PEJEgT.K0v4OsbPCNKzQMp1n4Cj8lyu0GdT5ub68KgF1c8F5qzxGRROljYQ; path=/; expires=Thu, 31-Oct-24 05:27:49 GMT; domain=.www.webmd.com; HttpOnly; Secure; SameSite=None
+cf-edge-cache-control: s-maxage=119, maxage=10, proxy-revalidate, stale-while-revalidate=30
+cf-wrk: lrt1_cached_k8_worker_4_19R_3W_2024-10-10_14:17:11_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr_null_config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1730350669158
+content-security-policy: upgrade-insecure-requests
+x-backend: default
+x-backend-by: default
+x-cache: HIT
+x-cache-control-by: override
+x-cache-duration: 0.083333333333333h
+x-cache-expiry: Thursday, 31-Oct-2024 04:59:45 GMT
+x-cache-reason: routing
+x-cache-time: Thursday, 31-Oct-2024 04:54:46 GMT
+x-datacenter: MA1
+x-dbg-gt: gtinfo={"ct":null,"c":null,"cc":null,"st":null,"sc":null,"z":null,"lat":"51.49640","lon":"-0.12240","dma":null,"cntr":"GBR","cntrc":"826","tz":"Europe/London","ci":"51.195.219.187","debug":"Cloudflare"}
+x-edge-cache-duration: 0.033333333333333h
+x-edge-cache-expiry: Thursday, 31-Oct-2024 04:56:45 GMT
+x-gt-setter: usr
+x-redis: redis_server_2
+x-route: pg
+x-route-akamai: N/A
+x-runtime: new
+x-true-client-ip: 98.183.222.96
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=wDfgWa%2Fv4WeaV4FRpQ%2FuIJMIIjTDfZeWX8yuduyp33nMwIaj5XYZmu7krq3tg5PHwAQe2BMthwWqerLug8XmGex%2BDDIWiadCZThK4QnIY4jcazS0T%2F9kcSHD10u7Ij4%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+vary: Accept-Encoding
+server: cloudflare
+cf-ray: 8db11101eb8c505f-ORF
+alt-svc: h3=":443"; ma=86400
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en" class="no-js home-page class-bg-ghost">
+<HEAD><script>window.isCa = true; </script><!-- webmd-Banner  -->
+                        <script>window.onetTrustLoaded = true;</script>
+                        <script id="sdkStub" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="797d052a-d0f4-447d-b9ae-0a293fb5e41f"></script>
+                        <script id="optWrapper"

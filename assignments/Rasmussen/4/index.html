@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Vulnerability Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .button {
+            display: block;
+            width: 300px;
+            margin: 20px auto;
+            padding: 15px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        
+        .button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Web Security Demonstration</h1>
+    
+    <a href="/check-frameable" class="button">
+        Check Frameable Websites
+    </a>
+    
+    <a href="/frame-path-attack/vulnerable-page" class="button">
+        Visit Vulnerable Page
+    </a>
+    
+    <a href="/frame-path-attack/attacker-page" class="button">
+        Visit Attacker Page
+    </a>
+</body>
+</html>

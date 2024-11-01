@@ -1,0 +1,36 @@
+URL: https://justgiving.com
+Final URL: https://justgiving.com/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+connection: keep-alive
+last-modified: Fri, 25 Oct 2024 13:09:25 GMT
+x-amz-server-side-encryption: AES256
+x-amz-version-id: Q8Ao97TRzKC6J7OtCbtfGn0hWXe2nHoc
+server: AmazonS3
+date: Thu, 31 Oct 2024 04:57:33 GMT
+cache-control: public, max-age=60
+etag: W/"55ebc441908c63a6d4b7887ecb377602"
+vary: accept-encoding
+x-cache: Hit from cloudfront
+via: 1.1 6306947fb6ab60dc617ca2e025941652.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD50-C2
+x-amz-cf-id: YkXC7BDkugiWWMzmZor-M3p0D2VD_RjYjwkeKvQO2XNH05sjs48IuA==
+age: 43
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+referrer-policy: same-origin
+x-content-type-options: nosniff
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="en"><head>
+  <meta data-application-version="941f930"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Online fundraising donations and ideas - JustGiving</title>
+  <meta name="title" content="JustGiving">
+  <meta name="description" content="Fundraise or donate with JustGiving, the worlds leading online fundraising platform, helping charities to make more with GiftAid">
+  <met

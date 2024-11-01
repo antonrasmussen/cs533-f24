@@ -1,0 +1,32 @@
+URL: https://abcnews.go.com
+Final URL: https://abcnews.go.com/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=utf-8
+content-length: 81370
+connection: keep-alive
+date: Thu, 31 Oct 2024 04:57:43 GMT
+server: nginx/1.24.0
+expires: Thu, 31 Oct 2024 04:57:44 GMT
+last-modified: Thu, 31 Oct 2024 04:57:44 GMT
+via: 1.1 varnish (Varnish/6.0), 1.1 3a60765023a93f6346539d2ca40f0b12.cloudfront.net (CloudFront)
+cache-control: max-age=2
+accept-ranges: bytes
+set-cookie: region=ccpa; path=/; Expires=Thu, 07 Nov 2024 04:57:43 GMT;,_dcf=1; path=/; Expires=Thu, 07 Nov 2024 04:57:43 GMT;
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+x-amz-cf-pop: IAD61-P2
+x-amz-cf-id: ZkjOlprFbv0hN92zOU6cckU5IIW1h5KlZBYhKEefDWxYl0dMQ4-f6g==
+
+Content Snippet (first 500 characters):
+
+        <!doctype html>
+        <html lang="en" lang="en">
+            <head>
+                <!-- ABCNEWS | fddb6a735c05 | 3404 | a2b444c0ce132515b5ca2ff50968c969934225ba | abcnews.go.com | Thu, 31 Oct 2024 04:57:35 GMT -->
+                <meta charSet="utf-8" />
+                <meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
+                <meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1" />
+                <meta property="og:locale" content="en_US" />
+  

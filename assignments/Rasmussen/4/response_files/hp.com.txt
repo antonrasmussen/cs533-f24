@@ -1,0 +1,42 @@
+URL: https://hp.com
+Final URL: https://www.hp.com/us-en/home.html
+Status Code: 200
+
+Headers:
+content-type: text/html;charset=utf-8
+server: Apache
+x-dispatcher: dispatcher3eastus2-28533384
+x-vhost: publish
+x-content-type-options: nosniff
+last-modified: Thu, 31 Oct 2024 01:36:24 GMT
+etag: "c32df-625bbd8a53a6b-gzip"
+accept-ranges: bytes
+x-akamai-transformed: 9 - 0 pmb=mTOE,1
+cache-control: max-age=852
+expires: Thu, 31 Oct 2024 05:12:03 GMT
+date: Thu, 31 Oct 2024 04:57:51 GMT
+transfer-encoding: chunked
+connection: keep-alive, Transfer-Encoding
+vary: Accept-Encoding
+set-cookie: aka_client_code=US-en,_abck=CF9AE71209E4D816F758D1291261D585~-1~YAAQSt/aF6LFvr+SAQAAO+Xv4AxbCCGs49e3H65EgyjbhnsjliX74feWO4y/Cdk1TeUza5mTQtJIzJgxkznk8dDlS9okU052TDJlgirlTa6XENFNrvup+myUo5YHRWXxjEqenLXEr6bcacSxZN4BUGuLk3LeFnjw7t0FeAJn3IqVv+c8evCfCFdsAEAFs8X+bib9SXk4y5R16evIHxPjyO/v0g1RsMJ4JhEtK3rY2lIKTLQH0I3/gSGjKWqESerA2hlP+ma8u/f+7mGhi9YYAZQToNlUqWR2iZRe+th+u+Gn/3f9tSNiwV5t9b+ZmSYZ0h0Ic2b2hYx7A/uzEwkeUpNDipk2kBU6yWOwzX1f/XpF9W86XUjeQGqECA3ntuohchnIMeb7I786LEs+V1uNciUTE6nMKN3DOg==~-1~-1~-1; Domain=.hp.com; Path=/; Expires=Fri, 31 Oct 2025 04:57:51 GMT; Max-Age=31536000; Secure,bm_sz=BBBBBBD5C92040C0B68EF094FBBEFE50~YAAQSt/aF6PFvr+SAQAAO+Xv4Bn9RAwMYzyHLyewgMfCarHCwm0xSrWw4hkUCA3pVmQ0AP8t351SwWfLPq5pdgd9CCsCzZnSSVn5OEsuc9VONk08YYWenvz85Gi66YiuGZIONsWy3rOF+9xSh6VRHTbXqbLlEpdkct1j+DOyFR26rh4SLU5x4CElDUC7FD+YrrjZREXzvmqlwpHCAlgko8v1iV7DwgeFAZY/HXh04DkH1F3scZRNm3PWLb+8m55CGdQhHXbeuV15GNL7mQEHvUl8TUaUBJDRVm6Z1eg9TRjFiLNFh2VmAFlDULDLR6Cy7PqLxeeYA7eiRciIL5PkFY4euRUJc2E57URDZ2cIr/ZkrQmRJN7MF7RtwbS5ULfKdDjlKuceRsXKxYLQ7Xp1SZD7Oc+Lg6yvL4dI~3488057~3425075; Domain=.hp.com; Path=/; Expires=Thu, 31 Oct 2024 08:57:51 GMT; Max-Age=14400
+x-frame-options: SAMEORIGIN, SAMEORIGIN, SAMEORIGIN
+strict-transport-security: max-age=600
+akamai-grn: 0.4adfda17.1730350671.a59ecdd8
+server-timing: ak_p; desc="1730350671098_400219978_2778648024_49_18784_19_31_-";dur=1
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html class=" " xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" dir="ltr">
+  
+    <head>
+    <meta charset="UTF-8"/>
+    <title>Laptop Computers, Desktops, Printers, Ink &amp; Toner  | HP® Official Site</title>
+    <script type="application/ld+json">
+      {
+        "@context" : "https://schema.org",
+        "@type" : "WebSite",
+        "name" : "HP",
+        "url" : "https://www.hp.com/"
+      }
+    </script>
+    <link href="/content/dam/sites/worldwide/dems/f

@@ -1,0 +1,46 @@
+URL: https://buzzfeed.com
+Final URL: https://www.buzzfeed.com/
+Status Code: 200
+
+Headers:
+connection: keep-alive
+content-length: 141121
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, must-revalidate
+content-language: en
+document-policy: js-profiling
+etag: "130561-aBp/S+nB21nK9zfunnaIXmr7aX8"
+expires: 0
+pragma: no-cache
+set-cookie: next-i18next=en; path=/; expires=Fri, 31 Oct 2025 04:56:51 GMT,dsl25_frhf=control;expires=Thu, 28 Nov 2024 04:57:46 GMT;,bf-browser-language=en-US,en;q=0.5; expires=Fri, 01 Nov 2024 04:57:46 GMT; path=/; domain=.buzzfeed.com;,bf-geo-country=US; expires=Fri, 01 Nov 2024 04:57:46 GMT; path=/; domain=.buzzfeed.com;,ccpa=true; expires=Thu, 14 Nov 2024 04:57:46 GMT; path=/; domain=www.buzzfeed.com;
+x-request-id: 75c971a09eed8f5119fd221cfe067034
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:46 GMT
+age: 55
+x-frame-options: SAMEORIGIN
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=31536000; preload
+timing-allow-origin: *
+x-served-by: cache-iad-kjyo7100086-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1730350666.419431,VS0,VE2
+vary: X-BF-User-Edition, Accept-Encoding, X-BF-Canary, X-BF-Canary-Site-Router, X-BF-Canary-Perimeter, X-BF-Canary-Feed-UI
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html class="undefined " lang="en-us"><head><script>
+  window.BZFD = window.BZFD || {};
+  window.BZFD.Config = {
+    bfwInfoCookie: 'bf2-b_info'
+  };
+</script><script>((env)=>{
+        window.BFADS = {
+            badges: env.badges || null,
+            buzz_id: null,
+            compilation_id: null,
+            cms_tag: env.cms_tags,
+            cms_tags: env.cms_tags,
+            dfp_keyword: env.dfp_keyword,
+            pagetype: env.pagetype,
+            recipe_id: null,
+    

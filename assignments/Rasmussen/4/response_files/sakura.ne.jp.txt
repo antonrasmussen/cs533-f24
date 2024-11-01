@@ -1,0 +1,30 @@
+URL: https://sakura.ne.jp
+Final URL: https://rs.sakura.ad.jp/
+Status Code: 200
+
+Headers:
+server: nginx
+date: Thu, 31 Oct 2024 04:57:52 GMT
+content-type: text/html; charset=UTF-8
+content-length: 9330
+connection: keep-alive
+vary: Accept-Encoding,User-Agent
+cache-control: max-age=0, must-revalidate, s-maxage=60, public
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=15768000
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+    content="高速、安定サーバーならさくらのレンタルサーバ！PHP7モジュールモードでWordPress高速化。無料SSL、Webフォント、バックアップ機能などWebサイト制作に便利な機能が充実。ドメイン取得、WordPressインストールも簡単。無料電話サポートで個人から法人まで安心してお使いいただけます。">
+  <meta name="keywords" content="レンタルサーバー,サーバー">
+  <meta name="format-detection" content="telephone=no">
+  <title>さく

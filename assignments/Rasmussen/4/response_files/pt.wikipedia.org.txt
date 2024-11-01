@@ -1,0 +1,29 @@
+URL: https://pt.wikipedia.org
+Final URL: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:02:19 GMT
+server: mw-web.eqiad.main-6fcbf9d8c6-qnsct
+x-content-type-options: nosniff
+content-language: pt
+accept-ch: 
+vary: Accept-Encoding,Cookie,Authorization
+last-modified: Thu, 31 Oct 2024 04:00:06 GMT
+content-type: text/html; charset=UTF-8
+age: 3329
+x-cache: cp1114 miss, cp1114 hit/434
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1114"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=31-Oct-2024;Path=/;HttpOnly;secure;Expires=Mon, 02 Dec 2024 00:00:00 GMT,WMF-Last-Access-Global=31-Oct-2024;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 02 Dec 2024 00:00:00 GMT,GeoIP=US:VA:Norfolk:36.89:-76.23:v4; Path=/; secure; Domain=.wikipedia.org,NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600
+x-client-ip: 2600:8805:1729:2d00:88f2:5fb0:d13f:d4a3
+cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
+accept-ranges: bytes
+content-length: 46049
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode

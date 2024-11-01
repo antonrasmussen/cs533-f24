@@ -1,0 +1,36 @@
+URL: https://jhu.edu
+Final URL: https://www.jhu.edu/
+Status Code: 200
+
+Headers:
+server: nginx/1.25.5
+content-type: text/html; charset=UTF-8
+content-length: 19860
+x-powered-by: PHP/8.3.12
+link: <https://www.jhu.edu/wp-json/>; rel="https://api.w.org/", <https://www.jhu.edu/wp-json/wp/v2/pages/12375>; rel="alternate"; title="JSON"; type="application/json", <https://www.jhu.edu/>; rel=shortlink
+x-frame-options: SAMEORIGIN, SAMEORIGIN
+x-content-type-options: nosniff, nosniff
+referrer-policy: strict-origin, strict-origin-when-cross-origin
+permissions-policy: geolocation=(),midi=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+strict-transport-security: max-age=31536000; includeSubDomains; preload, max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block, 1; mode=block
+cache-control: max-age=1316
+expires: Thu, 31 Oct 2024 05:19:43 GMT
+date: Thu, 31 Oct 2024 04:57:47 GMT
+connection: keep-alive
+vary: Accept-Encoding
+
+Content Snippet (first 500 characters):
+<!doctype html>
+
+<html class="no-js" lang="en">
+  <head>
+    <script>
+    dataLayer = [];
+    </script>
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P

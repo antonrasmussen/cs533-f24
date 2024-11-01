@@ -1,0 +1,39 @@
+URL: https://independent.co.uk
+Final URL: https://www.independent.co.uk/us
+Status Code: 200
+
+Headers:
+connection: keep-alive
+content-length: 56382
+content-type: text/html; charset=utf-8
+cache-tag: independent.co.uk,v8.14.2,us,section_1741
+content-language: en
+etag: W/"53c22-xXi0HspzvSkyqVtixo9NKsLrhYI"
+link: <https://static.independent.co.uk>; rel=dns-prefetch, <https://static.independent.co.uk>; rel=preconnect, <https://assets.the-independent.com>; rel=dns-prefetch, <https://assets.the-independent.com>; rel=preconnect
+speculation-rules: /speculationrules.json
+strict-transport-security: max-age=63072000;  preload
+x-head-hash: 
+via: 1.1 varnish, 1.1 varnish
+access-control-allow-origin: *
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:50 GMT
+age: 29
+canary: 1
+x-backend: flow-us
+content-security-policy: default-src https: 'unsafe-inline' data: blob:; frame-src https: data:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; media-src https: 'unsafe-inline' data: blob:; img-src https: http: data: blob:; frame-ancestors https:
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+set-cookie: Locale=US ; Path=/ ;,gdpr=0 ; Path=/ ;,subscriber_origin=us ; Path=/ ;,_pc_subscriber_origin=us ; Path=/ ;,feat__support_now_donate_copy=true ; Path=/ ; Secure ; HttpOnly ; Expires=Mon, 25 Nov 2024 04:57:50 GMT ;,feat__pubx_integration=true ; Path=/ ; Secure ; HttpOnly ; Expires=Mon, 30 Dec 2024 04:57:50 GMT ;,esi-uuid=adda6d78-2e40-4c8a-af2b-bcd1f843d158 ; Path=/ ; Secure; HttpOnly; Expires=Fri, 31 Oct 2025 04:57:50 GMT ;,esi-permutive-id=adda6d78-2e40-4c8a-af2b-bcd1f843d158; Path=/ ; Secure ;
+x-served-by: cache-lga21963-LGA, cache-iad-kiad7000116-IAD
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1730350671.615152,VS0,VE2
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html> <html lang="en"> <head> <title>The Independent | Latest news and features from US, UK and worldwide</title> <meta charset="utf-8"><meta name="amp-google-client-id-api" content="googleanalytics"><meta name="robots" content="max-image-preview:large,max-video-preview:-1"><meta property="fb:app_id" content="235586169789578"><meta property="fb:pages" content="https://www.facebook.com/TheIndependentOnline"><meta name="category" content="US"><meta name="sitename" content="The Independen
