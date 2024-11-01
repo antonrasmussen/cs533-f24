@@ -106,7 +106,7 @@ his course materials (although any errors are mine).
 
 * Week 11 - Local HTTP Server Security
     * [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://infosecwriteups.com/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
-    * [Class slides](https://docs.google.com/presentation/d/1onYeg9tRDaSFWs_bMqcUSwwzeoIfZGeBgZ34GZYeFbY/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1bY4q_uOauOXA65IcwxBpJmCCwUvcQQUh78kdp3l9JmU/edit)
 
 * Week 12 - DNS rebinding attacks
     * [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)

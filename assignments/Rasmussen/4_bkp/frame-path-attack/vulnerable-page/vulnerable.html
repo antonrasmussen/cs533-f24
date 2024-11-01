@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vulnerable Page</title>
+</head>
+<body>
+    <h2>Vulnerable Page (iframe content)</h2>
+    <p>This page sets a cookie with only Path attribute protection.</p>
+    <script>
+        // Set another cookie via JavaScript for demonstration
+        document.cookie = "clientSideSecret=sensitive_data;path=/frame-path-attack/vulnerable-page";
+    </script>
+</body>
+</html>
