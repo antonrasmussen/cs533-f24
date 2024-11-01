@@ -56,6 +56,7 @@ We were able to test for the ability to bypass using both the proxy technique an
 
 
 ### The project includes:
+
 - A main index page with links to both demonstrations
 - Individual HTML pages for each tested website showing whether it can be framed
     - For the 10 websites above we also show how it can be bypassed in a second box
