@@ -15,32 +15,19 @@ app.get('/', (req, res) => {
 });
 
 // Route for the vulnerable page
-app.get('/frame-path-attack/vulnerable-page', (req, res) => {
-    // Remove X-Frame-Options header to ensure framing works
-    res.removeHeader('X-Frame-Options');
-    
-    // Set multiple cookies to increase chances of demonstration
+app.get('/frame-path-attack/vulnerable.html', (req, res) => {
+    // Set a cookie with SameSite=None and Secure attributes
     res.cookie('sensitiveData', 'secret123', {
-        path: '/frame-path-attack/vulnerable-page',
-        httpOnly: false,
-        sameSite: 'Lax'  // Changed to Lax which is more permissive than Strict
+        httpOnly: false, // Accessible via JavaScript for demo purposes
+        sameSite: 'None', // Allow the cookie to be sent in cross-origin contexts (like iframes)
     });
     
-    res.cookie('sessionId', 'demo-session-12345', {
-        path: '/frame-path-attack/vulnerable-page',
-        httpOnly: false,
-        sameSite: 'Lax'
-    });
-    
-    // Add headers to explicitly allow framing
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Access-Control-Allow-Credentials', 'true');
-    
-    res.sendFile(path.join(__dirname, 'frame-path-attack/vulnerable-page', 'vulnerable.html'));
+    res.sendFile(path.join(__dirname, 'frame-path-attack', 'vulnerable.html'));
 });
+
 // Route for the attacker page
-app.get('/frame-path-attack/attacker-page', (req, res) => {
-    res.sendFile(path.join(__dirname, 'frame-path-attack/attacker-page', 'attacker.html'));
+app.get('/frame-path-attack/attacker.html', (req, res) => {
+    res.sendFile(path.join(__dirname, 'frame-path-attack', 'attacker.html'));
 });
 
 // Function to check if a website is frameable
