@@ -1,0 +1,30 @@
+URL: https://people.com
+Final URL: https://people.com/
+Status Code: 200
+
+Headers:
+connection: keep-alive
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+x-content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.people.com
+link: <//people.com/static/2.138.0/cache/eNqVVlu6nCAM3lD5XERfu4koGaUHwRKcy-4bIt7OWMo8zJCE_ORqoKEI0XTNCC5abDqiJknwR_O-YUboUU0WOhy81RiulEYMRhtwjXEan5uGbIFxu8CPk3foIjUQWMDwvKrOu8gbzeBHlL8SaEI_MSazu0dezxbpiAhgrLobjV68Eaqk3wLlhHQKNF06oeX3lodd42F0j7wOaPoh_hzA9fjLEMeH4VJYOKu3vgXLKNAChmMJavXej3VwNz3vedfM0VgTX4pFR7oAvvkwcoYQQjeoxBzpAm5EotRNLbiUiTNb5-wSmPi6k3XQ22wtdQHRCfzM1h1BvjNgBS49srFXFbnGlTGpt6zE1XoIuqpTbxafpk2fQ1H_cKzALs38q_1u3keu2LIU2u9ar1wW0V1KspEfQa1xX3Ri6uDaRw00qNmZOwbKBbqUFg7kuWd9n5eSYXyQxZh8zJA3SSGxn6Dfba9zM9X9-9A8qBF2KTEk83fiT5OTOgc1eYo79Skw-klR9MFgqSydtGW5FzcdpW4IcQ6o65yZAt9i4aVa67uvM1cwJzefpKw3tytDcgBtAb5UhP7M_ScYblZO0EZd2Uib1crvkceHz1XIRB2MjOt5oEgcJ6aQhtE788XNmJJwoAuI48F8CehvhhdRncPrK0JydGQq443AzgYQr3a6NE7pzwwhPxWErLNk-ZlFkfsX9ZGuA3cmpLiWNj4ydfBhUnHgC2_piBNXfUAWqmhSP38XFIotLy9pjo2qMzoCecdtmNfPG3gdFpfCyuNykPl1dWZLXbLE-vvB7-cXA1eizqo8FJdi7WRt_M8FuBJ1sBZhjuucPDKVQ59vzHXWn5hKePCjSu9IRtKZ-wvZyOLv.min.css>; rel=preload; as=style; nopush, <//people.com/static/fonts/limerick_serial-regular-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//people.com/static/fonts/limerick_serial-bold-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.googletagmanager.com/gtm.js?id=GTM-P3X3VT7>; rel=preload; as=script; nopush, <//people.com/static/fonts/limerick_serial-italic-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//people.com/static/fonts/limerick_serial-bolditalic-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.googletagmanager.com/gtag/js?id=G-31EK5CQB08&l=dataLayer&cx=c>; rel=preload; as=script; nopush, <//securepubads.g.doubleclick.net/tag/js/gpt.js>; rel=preload; as=script; nopush, <//people.com/static/2.138.0/cache/eNqFkm1uhCAQhi9UyhnapumvJpvGCyCMOisyhhncuKcvmk1XN6xNgADvA_OpWYyg1YMJ4kFbGkYKEIS1NzMl0WfOQ9kObP-i9_B5ga4z4xUyQaHB9hG5nTzWvMcxCEQGK0ih9C8ZB64gWKIegQtKEvQoZa0J6kh2NBzqEo3tMbSH0ATBUdTSRZJ8VSCGvFF1BNOPlOO_f5K1EWj08NzApjCWY7MuBRNjqjnVBeHj-3S_JZc8rAX5qd6X-UxaA8-bzwm2_m5CMnMNpddfp2qZJUlMbEGWdLJpwCNLiWKrjOOSEiF7k6C6FeUP2aQov1zIdpRSjkwLakK4HOS4lWHtNo-2V_JoaedME4E7U3t4c_xf-_NrChOg73IX8y8-ME7k.min.js>; rel=preload; as=script; nopush; group=top, <//people.com/static/2.138.0/cache/eNqNVG1y4yAMvdBqPT1D__YSMgisRkAWcFzn9AWcbp00oZnxGH28J0tC8pAyZlaDCu4YPPmchoW1pXKqOeXgQAmrA-SI6sDe3rf-GS5hHPos9KUJj2l4L8-_meJ6CyqOObNwZkowziwZFs4TPES7IsAJPYsgJBWDyC1qVwb7TNGjDJoMxcpvQiTdIakUTXs9yGIHRWNK8pgJhP0BIi2R8_ahgnIUFT3CdKLSx5Y1nzdO698P43eAoGehBhI8r4C94r4udiK2U36d0Ft645TJl7TvGTuxrISx9HYi1I1cj1-mAF9eVtCMEmwnsMcT2-IL_jIdKxTTXu6QTYguDYkwqgmqspc7PEcpoSUY0ddeXKsd3lbN5WhX81xlW79aYd_ic1Qzi5TZJ_KNfq3em4u6Jrjg-sO3iz9iahtmhD54FOrP0VXVvQ10pYk1rGXzH7bzJ1K1pDKQwdGxYgsmbj-VtJefI0vZs5TBEOm9DBJQgwuReh04saYA78tRcK1LfBF-GWlJf0ebKHebZTlMoKnG0zfqJ6U0GrM.min.js>; rel=preload; as=script; nopush; group=bottom
+content-type: text/html;charset=utf-8
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=15552000
+set-cookie: TMog=n841eece3a1d842579709ce4c2a4576d404; Path=/; Domain=.people.com; Expires=Tue, 18-Nov-2092 08:11:51 GMT; Max-Age=2147483647,globalTI_SID=86f0180d-504d-4916-8133-ad50a4dc0519; Path=/; Domain=.people.com; Expires=Sat, 31-Oct-2026 04:57:44 GMT; Max-Age=63072000,Mint=n841eece3a1d842579709ce4c2a4576d404; Path=/; Domain=.people.com; Expires=Thu, 31-Oct-2024 05:27:44 GMT; Max-Age=1800,pc=1; Path=/; Domain=.people.com; Expires=Thu, 31-Oct-2024 05:27:44 GMT; Max-Age=1800
+x-abt-application-version: 2.138.0
+content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.people.com
+x-content-type-options: nosniff
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:45 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kjyo7100111-IAD, cache-iad-kjyo7100105-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1730350665.853470,VS0,VE205
+nel: {"report_to":"network-errors","max_age":2592000,"success_fraction":0,"failure_fraction":1.0, "include_subdomains": true}
+report-to: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://r.3gl.net/hawklogserver/7815/re.p"}]}
+transfer-encoding: chunked
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html id="homeTemplate_1-0" class="comp homeTemplate html mntl-html no-js com.about.mantle.model.TaxeneLevelType@38492f42 taxlevel-0" data-ab="99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,81,53" data-mm-transactional-resource-version="1.15.10" data-people-resource-version="2.138.0" data-mm-ads-resource-version="1.2.146" data-mm-video-resource-version="1.4.10" data-mantle-resource-version="4.0.697" data-mm-digital-issues-resource-version="1.18.7" lang="en" data-tracking-contain

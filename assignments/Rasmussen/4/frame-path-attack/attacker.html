@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <h1>Cookie Security Demo - Parent Page</h1>
+    <h1>Cookie Security Demo</h1>
     <p>This page demonstrates how cookies can be stolen from an iframe when only using Path attribute.</p>
     
     <h3>Vulnerable iframe:</h3>
@@ -33,23 +33,29 @@
     </div>
 
     <script>
-        function extractCookies() {
-            const cookies = document.cookie.split(';');
-            const stolenCookies = cookies.filter(cookie => {
-                const [name] = cookie.trim().split('=');
-                return name === 'sensitiveData' || name === 'clientSideSecret';
-            });
+    // Listen for messages from the iframe
+    window.addEventListener('message', function(event) {
+        if (event.data.type === 'cookies') {
+            const cookies = event.data.cookies;
+            let formattedCookies = '';
             
-            document.getElementById('cookieDisplay').innerHTML = stolenCookies.length ? 
-                `<span class="stolen">${stolenCookies.join('\n')}</span>` : 
-                'No cookies accessed yet... (try refreshing the page)';
-        }
+            if (cookies) {
+                formattedCookies = cookies.split(';')
+                    .map(cookie => cookie.trim())
+                    .map(cookie => {
+                        if (cookie.includes('serverSecret')) {
+                            return `<span class="stolen">${cookie}</span>`;
+                        }
+                        return cookie;
+                    })
+                    .join('\n');
+            } else {
+                formattedCookies = 'No cookies found';
+            }
 
-        // Check for cookies periodically
-        setInterval(extractCookies, 1000);
-        
-        // Also check immediately
-        extractCookies();
+            document.getElementById('cookieDisplay').innerHTML = formattedCookies;
+        }
+    });
     </script>
 </body>
 </html>

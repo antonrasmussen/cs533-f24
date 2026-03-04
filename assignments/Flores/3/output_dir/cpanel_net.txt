@@ -1,7 +1,7 @@
 HTTP/1.1 302 Found
 Connection: Keep-Alive
 Keep-Alive: timeout=5, max=100
-date: Mon, 07 Oct 2024 23:33:05 GMT
+date: Fri, 01 Nov 2024 02:01:55 GMT
 server: LiteSpeed
 cache-control: no-cache, no-store, must-revalidate, max-age=0
 location: https://cpanel.net/
@@ -12,12 +12,12 @@ vary: User-Agent,User-Agent
 
 HTTP/2 200 
 cache-control: public, max-age=300
-expires: Mon, 07 Oct 2024 23:38:05 GMT
+expires: Fri, 01 Nov 2024 02:06:55 GMT
 content-type: text/html
-last-modified: Mon, 07 Oct 2024 17:04:41 GMT
+last-modified: Tue, 29 Oct 2024 14:48:01 GMT
 accept-ranges: bytes
-content-length: 49631
-date: Mon, 07 Oct 2024 23:33:05 GMT
+content-length: 49983
+date: Fri, 01 Nov 2024 02:01:55 GMT
 server: LiteSpeed
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
@@ -26,3 +26,4 @@ vary: User-Agent,User-Agent
 strict-transport-security: max-age=31536000
 alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
 
+Final-URL: https://cpanel.net/

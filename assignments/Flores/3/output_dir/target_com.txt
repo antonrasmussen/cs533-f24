@@ -5,43 +5,44 @@ Server: Varnish
 Retry-After: 0
 Location: https://target.com/
 Accept-Ranges: bytes
-Date: Mon, 07 Oct 2024 23:33:33 GMT
+Date: Fri, 01 Nov 2024 02:02:37 GMT
 Via: 1.1 varnish
-X-Served-By: cache-iad-kiad7000165-IAD
+X-Served-By: cache-iad-kiad7000129-IAD
 X-Cache: HIT
 X-Cache-Hits: 0
-X-Timer: S1728344014.521363,VS0,VE0
+X-Timer: S1730426557.136379,VS0,VE0
 
 HTTP/2 301 
 server: Varnish
 retry-after: 0
 location: https://www.target.com/
 accept-ranges: bytes
-date: Mon, 07 Oct 2024 23:33:33 GMT
+date: Fri, 01 Nov 2024 02:02:37 GMT
 via: 1.1 varnish
-x-served-by: cache-iad-kiad7000059-IAD
+x-served-by: cache-iad-kjyo7100120-IAD
 x-cache: HIT
 x-cache-hits: 0
-x-timer: S1728344014.553028,VS0,VE0
+x-timer: S1730426557.204317,VS0,VE0
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 content-length: 0
 
 HTTP/2 200 
-referrer-policy: no-referrer-when-downgrade
-etag: "164k2sieoqg9r04"
-x-frame-options: SAMEORIGIN
-cache-control: no-cache
-content-type: text/html; charset=utf-8
-x-content-type-options: nosniff
+etag: "xsbhkju6gf9vrv"
 accept-ranges: bytes
-set-cookie: webuiVisitorStatus=new; Path=/; Secure; SameSite=strict; Max-Age=60
-set-cookie: sapphire=1; Max-Age=2629746; Expires=Thu, 07 Nov 2024 10:02:39 GMT; Path=/; Domain=.target.com; Secure; SameSite=None
-set-cookie: visitorId=01926954BB460201AC843212B40D6627; Max-Age=63072000; Expires=Wed, 07 Oct 2026 23:33:33 GMT; Path=/; Domain=.target.com; Secure; SameSite=None
-set-cookie: TealeafAkaSid=wf80SDRa1pEiiZMyVl_Te56JVR3bfqOA; Expires=Wed, 06 Nov 2024 23:33:33 GMT; Path=/; Domain=target.com;
-set-cookie: GuestLocation=23529|36.880|-76.310|VA|US;Path=/; Secure; Max-Age=86400
-age: 273
-date: Mon, 07 Oct 2024 23:33:33 GMT
+cache-control: private, no-cache
+set-cookie: TealeafAkaSid=2mdSsTo3dNqhvlQ_oZHf5FLPBGpEbgox; Expires=Sun, 01 Dec 2024 02:02:37 GMT; Path=/; Domain=target.com;
+set-cookie: visitorId=0192E575D3910201A005AFD947429E73; Max-Age=63072000; Expires=Sun, 01 Nov 2026 02:02:37 GMT; Path=/; Domain=.target.com; Secure; SameSite=None
+set-cookie: sapphire=1; Max-Age=2629746; Expires=Sun, 01 Dec 2024 12:31:43 GMT; Path=/; Domain=.target.com; Secure; SameSite=None
+set-cookie: TealeafAkaSid=2mdSsTo3dNqhvlQ_oZHf5FLPBGpEbgox; Expires=Sun, 01 Dec 2024 02:02:37 GMT; Path=/; Domain=target.com;
+set-cookie: GuestLocation=23503|36.950|-76.250|VA|US;Path=/; Secure; Max-Age=86400
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=utf-8
+referrer-policy: no-referrer-when-downgrade
+date: Fri, 01 Nov 2024 02:02:37 GMT
 vary: Accept-Encoding
 content-security-policy: frame-ancestors 'self' https://*.target.com;
 strict-transport-security: max-age=31536000; includeSubDomains
+content-length: 461159
 
+Final-URL: https://www.target.com/

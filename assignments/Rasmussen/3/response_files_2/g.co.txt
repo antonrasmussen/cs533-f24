@@ -1,0 +1,23 @@
+URL: http://g.co
+Final URL: https://g.co/
+Status Code: 200
+
+Headers:
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+Content-Length: 2190
+Content-Security-Policy-Report-Only: script-src 'nonce-JjPwSm3vVqy5u1diCq5p-g' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/static-on-bigtable; base-uri 'none'
+Cross-Origin-Resource-Policy: cross-origin
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="static-on-bigtable"
+Report-To: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}
+Date: Fri, 01 Nov 2024 23:36:00 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Last-Modified: Tue, 17 Sep 2024 03:08:00 GMT
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

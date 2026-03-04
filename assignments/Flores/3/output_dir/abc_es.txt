@@ -2,18 +2,19 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.abc.es/
-Date: Mon, 07 Oct 2024 23:32:57 GMT
+Date: Fri, 01 Nov 2024 02:01:44 GMT
 Connection: keep-alive
-Akamai-Request-BC: [a=23.220.105.89,b=2518363823,c=g,n=US_VA_ASHBURN,o=20940]
+Akamai-Request-BC: [a=23.220.105.89,b=3154602397,c=g,n=US_VA_ASHBURN,o=20940]
 Vary: User-Agent,Cookie
 
 HTTP/2 200 
 server: nginx
 content-type: text/html; charset=UTF-8
-request-id: 1728343978-0694-ce158ac4-5b48-46b1-8d0b-40375fec367d
+request-id: 1730426504-9997-c41d2df5-ea62-4b40-824d-8787159a5e89
 cache-control: private, max-age=0
-date: Mon, 07 Oct 2024 23:32:58 GMT
+date: Fri, 01 Nov 2024 02:01:45 GMT
 alt-svc: h3=":443"; ma=93600
-akamai-request-bc: [a=23.220.105.75,b=145191829,c=g,n=US_VA_ASHBURN,o=20940],[c=c,n=US_VA_ASHBURN,o=20940],[a=35.227.249.198,c=o]
+akamai-request-bc: [a=23.220.105.75,b=578545736,c=g,n=US_VA_ASHBURN,o=20940],[c=c,n=US_VA_ASHBURN,o=20940],[a=35.227.249.198,c=o]
 vary: User-Agent,Cookie
 
+Final-URL: https://www.abc.es/

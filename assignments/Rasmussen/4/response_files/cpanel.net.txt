@@ -1,0 +1,36 @@
+URL: https://cpanel.net
+Final URL: https://cpanel.net/
+Status Code: 200
+
+Headers:
+connection: Keep-Alive
+keep-alive: timeout=5, max=100
+cache-control: public, max-age=300
+expires: Thu, 31 Oct 2024 05:02:43 GMT
+content-type: text/html
+last-modified: Tue, 29 Oct 2024 14:48:01 GMT
+accept-ranges: bytes
+vary: Accept-Encoding,User-Agent,User-Agent
+content-length: 10932
+date: Thu, 31 Oct 2024 04:57:43 GMT
+server: LiteSpeed
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<link href="https://cpanel.net/wp-content/themes/cPbase/assets/img/favicon.ico?v=1.0.2" rel="shortcut icon">
+    <link href="https://cpanel.net/wp-content/themes/cPbase/assets/img/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+
+
+	<!-- CSS -->
+    <!-- <link rel="stylesheet" href="https://use.font

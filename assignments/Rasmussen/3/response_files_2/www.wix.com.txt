@@ -1,0 +1,31 @@
+URL: http://www.wix.com
+Final URL: https://www.wix.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+Html-Cacheable: true
+ETag: W/"30cf0d1603f6c339814a0395c42c1c01"
+X-Meta-Site-Is-Wix-Site: 1
+Content-Language: en-US
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: public,max-age=0,must-revalidate
+Strict-Transport-Security: max-age=31536000
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:38:37 GMT
+Age: 127692
+X-Served-By: cache-iad-kjyo7100068-IAD
+X-Cache: HIT
+Vary: Accept-Encoding
+Server-Timing: cache;desc=hit, varnish;desc=hit_hit, dc;desc=fastly_g
+Set-Cookie: ssr-caching=cache#desc=hit#varnish=hit_hit#dc#desc=fastly_g; max-age=20, _wixCIDX=a13a9384-a408-4c99-a4ec-6e0dcb701060; Max-Age=7776000; Expires=Thu, 30 Jan 2025 23:38:37 GMT; Path=/; Domain=.wix.com; Secure; SameSite=None, _wixUIDX=null-user-id; Max-Age=7776000; Expires=Thu, 30 Jan 2025 23:38:37 GMT; Path=/; Domain=.wix.com; Secure; SameSite=None
+X-Wix-Request-Id: 1730504317.275604436043528213
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==
+Via: 1.1 google
+glb-x-seen-by: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

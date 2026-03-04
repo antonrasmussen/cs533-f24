@@ -1,0 +1,28 @@
+URL: http://cnil.fr
+Final URL: https://www.cnil.fr/fr
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:35:07 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Cache-Control: must-revalidate, no-cache, private
+x-drupal-dynamic-cache: UNCACHEABLE
+x-ua-compatible: IE=edge
+content-language: fr
+x-content-type-options: nosniff
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-generator: Drupal 9 (https://www.drupal.org)
+vary: Accept-Encoding
+content-security-policy: default-src *.openstreetmap.org *.openlayers.org *.arcgisonline.com 'self' data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; script-src-elem 'self' data: 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net cdnjs.cloudflare.com *.openstreetmap.org *.openlayers.org *.cnil.fr; img-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr data:; font-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; object-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-ancestors 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr ; form-action 'self' *.signal-spam.fr *.cnil.fr *.economie.gouv.fr ; block-all-mixed-content; base-uri 'self'
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+referrer-policy: strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+x-varnish: 21164985
+Age: 0
+via: 1.1 varnish (Varnish/6.5)
+cache-tags: MISS
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 8dbfb2f97e4a4fd2-ORF
+Content-Encoding: gzip

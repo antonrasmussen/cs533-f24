@@ -1,0 +1,27 @@
+URL: http://cnn.com
+Final URL: https://www.cnn.com/
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+Content-Length: 628677
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=utf-8
+x-content-hub: build-env=prod; unique-deployment-key=rn1016cw; build-version=v5.14.19-0-gc540148d1d; build-commit-hash=c540148d1da460a3ea5a4e18d8df555bc2608f98
+access-control-allow-origin: *
+x-content-type-options: nosniff
+x-last-modified: Fri, 01 Nov 2024 23:10:04 GMT
+cache-control: max-age=60
+content-security-policy: default-src 'self' blob: https://*.cnn.com:* http://*.cnn.com:* *.cnn.io:* *.cnn.net:* *.turner.com:* *.turner.io:* *.ugdturner.com:* courageousstudio.com *.vgtf.net:*; script-src 'unsafe-eval' 'unsafe-inline' 'self' *; style-src 'unsafe-inline' 'self' blob: *; child-src 'self' blob: *; frame-src 'self' *; object-src 'self' *; img-src 'self' data: blob: *; media-src 'self' data: blob: *; font-src 'self' data: *; connect-src 'self' data: *; frame-ancestors 'self' https://*.cnn.com:* http://*.cnn.com https://*.cnn.io:* http://*.cnn.io:* *.turner.com:* courageousstudio.com;
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:35:10 GMT
+Via: 1.1 varnish
+Age: 1114
+set-cookie: SecGpc=0; Domain=.cnn.com; Path=/; SameSite=None; Secure, countryCode=US; Domain=.cnn.com; Path=/; SameSite=None; Secure, stateCode=VA; Domain=.cnn.com; Path=/; SameSite=None; Secure, geoData=norfolk|VA|23513|US|NA|-400|broadband|36.890|-76.240|544; Domain=.cnn.com; Path=/; SameSite=None; Secure, FastAB=0=2075,1=6738,2=2755,3=2832,4=9293,5=5152,6=2631,7=1400,8=3620,9=4988,10=7047,11=5734,12=0345,13=2917,14=8138,15=4917,16=2690,17=2712,18=4595,19=9619; Domain=.cnn.com; Path=/; Expires=Sat, 01 Nov 2025 23:35:10 GMT; SameSite=Lax, wbdFch=36a3dc75f37def504e926e6070be1ed2f9d81261; Domain=www.cnn.com; Path=/; Max-Age=30; SameSite=None; Secure
+X-Served-By: cache-iad-kcgs7200038-IAD, cache-iad-kjyo7100100-IAD
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 5
+X-Timer: S1730504110.162283,VS0,VE2
+Vary: Accept-Encoding,Accept-Language
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

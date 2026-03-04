@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CORS Testing</title>
+</head>
+<body>
+    <h1>CORS Testing for JSON Response</h1>
+    <button onclick="fetchFavorites()">Fetch Favorites</button>
+    <pre id="output"></pre>
+
+    <script>
+        function fetchFavorites() {
+    fetch('http://localhost:4000/favorites')
+        .then(response => {
+            // Log response headers
+            console.log('Response headers:', [...response.headers.entries()]);
+            if (!response.ok) throw new Error('Network response was not ok');
+            return response.json();
+        })
+        .then(data => {
+            document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+            console.log('Favorite items:', data);
+        })
+        .catch(error => {
+            document.getElementById('output').textContent = `Error: ${error}`;
+            console.error('Fetch error:', error);
+        });
+}
+
+    </script>
+</body>
+</html>

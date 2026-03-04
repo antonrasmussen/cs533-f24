@@ -1,0 +1,18 @@
+URL: http://disqus.com
+Final URL: https://disqus.com/
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+Content-Length: 1579
+Server: nginx
+Content-Type: text/html; charset=utf-8
+p3p: CP="DSP IDC CUR ADM DELi STP NAV COM UNI INT PHY DEM"
+Cache-Control: no-cache, private, must-revalidate, s-maxage=60
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Encoding: gzip
+Date: Fri, 01 Nov 2024 23:35:12 GMT
+Age: 19
+Cross-Origin-Resource-Policy: cross-origin
+Strict-Transport-Security: max-age=300; includeSubdomains

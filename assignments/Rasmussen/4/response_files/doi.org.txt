@@ -1,0 +1,38 @@
+URL: https://doi.org
+Final URL: https://www.doi.org/
+Status Code: 200
+
+Headers:
+content-type: text/html
+content-length: 6951
+connection: keep-alive
+date: Thu, 31 Oct 2024 04:57:47 GMT
+last-modified: Tue, 17 Sep 2024 17:33:27 GMT
+etag: "40ca3249393c605326f122c98984af8a"
+x-amz-server-side-encryption: AES256
+x-amz-meta-md5chksum: 40ca3249393c605326f122c98984af8a
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Miss from cloudfront
+via: 1.1 9d3d57711186c70df25d455e0890cc8a.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD66-C2
+x-amz-cf-id: OjdSr5F8Wml-nTYEkbMe4WwULAOuS6ubyeEcX6zrSlbzLq_OBqfpKA==
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.101.0" />
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="ahrefs-site-verification" content="a4d19d13d080685e48094a2591188be35d7b5db05918a5eb84828500a14f3c5e">
+	
+	<title>Home Page</title>
+	
+	
+
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" 
+		  rel="stylesheet

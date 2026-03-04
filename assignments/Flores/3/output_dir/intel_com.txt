@@ -7,18 +7,18 @@ HTTP/2 301
 content-length: 0
 location: https://www.intel.com/
 strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
-x-haproxy-hostname: prd1haproxy06
+x-haproxy-hostname: prd1haproxy05
 
 HTTP/2 301 
 server: AkamaiGHost
 content-length: 0
 location: https://www.intel.com/content/www/us/en/homepage.html
-date: Mon, 07 Oct 2024 23:33:19 GMT
-set-cookie: detected_bandwidth=HIGH; path=/; domain=.intel.com; secure; HttpOnly
+date: Fri, 01 Nov 2024 02:02:07 GMT
+set-cookie: detected_bandwidth=LOW; path=/; domain=.intel.com; secure; HttpOnly
 set-cookie: src_countrycode=us; path=/; domain=.intel.com; secure; HttpOnly
 alt-svc: h3=":443"; ma=93600
 content-security-policy: frame-ancestors 'self' https://premiersupport.intel.com https://c0.avaamo.com *.intel.com; object-src 'self';
-x-grn: 0.8e6bdc17.1728343999.1115f701
+x-grn: 0.87dcda17.1730426527.56ee798c
 x-frame-options: SAMEORIGIN
 access-control-allow-origin: *
 x-xss-protection: 1; mode=block
@@ -28,22 +28,23 @@ x-content-type-options: nosniff
 HTTP/2 200 
 content-type: text/html;charset=utf-8
 server: Apache
-x-dispatcher: dispatcher3uswest1-b80
+x-dispatcher: dispatcher2uswest1-b80
 x-vhost: publish
-last-modified: Mon, 07 Oct 2024 19:13:33 GMT
-etag: "1f2d6-623e7d12244b7-gzip"
-expires: Mon, 07 Oct 2024 23:33:19 GMT
+last-modified: Thu, 31 Oct 2024 20:51:31 GMT
+etag: "1efc5-625cbfbae9693-gzip"
+expires: Fri, 01 Nov 2024 02:02:07 GMT
 cache-control: max-age=0, no-cache
 pragma: no-cache
-date: Mon, 07 Oct 2024 23:33:19 GMT
-set-cookie: detected_bandwidth=HIGH; path=/; domain=.intel.com; secure; HttpOnly
+date: Fri, 01 Nov 2024 02:02:07 GMT
+set-cookie: detected_bandwidth=LOW; path=/; domain=.intel.com; secure; HttpOnly
 set-cookie: src_countrycode=us; path=/; domain=.intel.com; secure; HttpOnly
 alt-svc: h3=":443"; ma=93600
 content-security-policy: frame-ancestors 'self' https://premiersupport.intel.com https://c0.avaamo.com *.intel.com; object-src 'self';
-x-grn: 0.8e6bdc17.1728343999.1115f789
+x-grn: 0.87dcda17.1730426527.56ee7ac1
 x-frame-options: SAMEORIGIN
 access-control-allow-origin: *
 x-xss-protection: 1; mode=block
 strict-transport-security: max-age=31536000 ; preload
 x-content-type-options: nosniff
 
+Final-URL: https://www.intel.com/content/www/us/en/homepage.html

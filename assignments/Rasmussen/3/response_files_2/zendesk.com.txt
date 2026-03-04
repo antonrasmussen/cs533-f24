@@ -1,0 +1,20 @@
+URL: http://zendesk.com
+Final URL: https://www.zendesk.com/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:38:42 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Cache-Control: public, max-age=3600
+vary: Accept-Encoding
+nc: T
+content-security-policy: default-src * wss://*.zopim.com 'unsafe-inline' 'unsafe-eval'; frame-ancestors 'self' app.optimizely.com *.zendesk.com *.zendesk.co.jp *.zendesk.co.uk *.zendesk.com.br *.zendesk.com.mx *.zendesk.de *.zendesk.es *.zendesk.fr *.zendesk.kr *.zendesk.nl *.zendesk.tw *.zendesk.hk; font-src * data:; img-src * data:; media-src * blob:;worker-src 'self' blob:
+Last-Modified: Fri, 01 Nov 2024 23:31:28 GMT
+CF-Cache-Status: HIT
+Expires: Sat, 02 Nov 2024 00:38:42 GMT
+Set-Cookie: __cf_bm=AB1LR1C29usKAAQl1B_SycYqTCL85U7pm986iYhDypc-1730504322-1.0.1.1-fU7DqilRLBapd6Ov_D9BholZbRuVH.i8e4cPC2z6FAoF5F3xYlfrIBMazJK4HUofNNEFYAA7c0YH45dlo4rkrQ; path=/; expires=Sat, 02-Nov-24 00:08:42 GMT; domain=.www.zendesk.com; HttpOnly; Secure; SameSite=None, __cfruid=1e39471b51b8cbf0a35ff3ddc7f670651315ef4a-1730504322; path=/; domain=.www.zendesk.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=0; preload
+Server: cloudflare
+CF-RAY: 8dbfb84c0e034fe5-ORF
+Content-Encoding: gzip

@@ -1,0 +1,29 @@
+URL: https://imageshack.us
+Final URL: https://imageshack.com/
+Status Code: 200
+
+Headers:
+server: nginx/1.2.8
+date: Thu, 31 Oct 2024 04:57:48 GMT
+content-type: text/html
+content-length: 2841
+connection: keep-alive
+x-powered-by: PHP/5.2.9
+x-frame-options: SAMEORIGIN
+accept-ranges: bytes
+x-varnish: 1995782457 1995781795
+age: 40
+via: 1.1 varnish
+x-varnish-hits: 33
+x-varnish-ip: 208.94.3.33
+x-varnish-port: 17001
+vary: Accept-Encoding, User-Agent
+
+Content Snippet (first 500 characters):
+<!-- 9.4.70 -->
+<!DOCTYPE html><html lang="en">
+    <head>
+        <title>ImageShack - Best place for all of your image hosting and image sharing needs</title>        <meta charset="utf-8">
+<meta name="copyright" content="Copyright 2024 ImageShack">
+<meta name="google-site-verification" content="gFE6jG6VX-EGA3a-RV5ICuiGS5o3Xxnec4cgcmy8WPM">
+<meta name="description" content="Unlimited space to host images, easy to use image uploader, albums, photo hosting, sharing, dynamic image resizing on web a

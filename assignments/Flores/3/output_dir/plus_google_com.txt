@@ -5,23 +5,24 @@ X-Content-Type-Options: nosniff
 Server: sffe
 Content-Length: 314
 X-XSS-Protection: 0
-Date: Mon, 07 Oct 2024 23:27:29 GMT
-Expires: Mon, 07 Oct 2024 23:57:29 GMT
+Date: Fri, 01 Nov 2024 01:48:34 GMT
+Expires: Fri, 01 Nov 2024 02:18:34 GMT
 Cache-Control: public, max-age=1800
 Content-Type: text/html; charset=UTF-8
-Age: 360
+Age: 822
 
 HTTP/2 200 
 strict-transport-security: max-age=86400; includeSubDomains
 content-type: text/html; charset=UTF-8
-expires: Mon, 07 Oct 2024 23:33:29 GMT
-date: Mon, 07 Oct 2024 23:33:29 GMT
+expires: Fri, 01 Nov 2024 02:02:16 GMT
+date: Fri, 01 Nov 2024 02:02:16 GMT
 cache-control: private, max-age=0
-last-modified: Mon, 07 Oct 2024 21:59:24 GMT
-etag: W/"693929ebfee21016aec93b3be8127a95aad7a7f6df587d373b64102caf43d9d6"
+last-modified: Thu, 31 Oct 2024 23:26:49 GMT
+etag: W/"fec885f387754ad073d156a693a7c93cb0ebaee5962d5b1fe4a7eb3bb0744902"
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 content-length: 0
 server: GSE
 alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 
+Final-URL: https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html

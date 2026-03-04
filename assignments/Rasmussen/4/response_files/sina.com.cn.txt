@@ -1,0 +1,39 @@
+URL: https://sina.com.cn
+Final URL: https://www.sina.com.cn/
+Status Code: 200
+
+Headers:
+server: Tengine
+content-type: text/html
+content-length: 115781
+connection: keep-alive
+date: Thu, 31 Oct 2024 04:57:50 GMT
+vary: Accept-Encoding
+etag: W/"67230e1e-5e0b8"V=5965C31
+x-powered-by: shci_v1.13
+expires: Thu, 31 Oct 2024 04:58:35 GMT
+cache-control: max-age=60
+x-via-ssl: ssl.26.wbg1.shx.lb.sinanode.com
+edge-copy-time: 1730350655261
+via: http/1.1 ctc.guangzhou.union.184 (ApacheTrafficServer/6.2.1 [cRs f ]), ens-cache2.l2us3[953,955,200-0,M], ens-cache17.l2us3[958,0], ens-cache14.us26[977,977,200-0,M], ens-cache12.us26[981,0]
+x-via-cdn: f=aliyun,s=ens-cache12.us26,c=2600:8805:1729:2d00:88f2:5fb0:d13f:d4a3;f=sinaedge,s=ctc.guangzhou.union.189.nb.sinaedge.com,c=163.181.67.150;f=Edge,s=ctc.guangzhou.union.184,c=10.31.50.189
+x-via-edge: 17303506708509643b5a3bd321f0a1be08c26
+age: 15
+ali-swift-global-savetime: 1730350671
+x-cache: MISS TCP_REFRESH_MISS dirn:12:736012755
+x-swift-savetime: Thu, 31 Oct 2024 04:57:51 GMT
+x-swift-cachetime: 60
+timing-allow-origin: *
+eagleid: 081952a017303506702892365e
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<!-- [ published at 2024-10-31 12:57:00 ] -->
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>新浪网</title>
+	<meta name="keywords" content="新浪,新浪网,SINA,sina,sina.com.cn,新浪首页,门户,资讯" />
+	<meta name="description" content="新浪网为全球用户24小时提供全面及时的中文资讯，内容覆盖国内外突发新闻事件、体坛赛事、娱乐时尚、产业资讯、实用信息等，设有新闻、体育、娱乐、财经、科技、房产、汽车等30多个内容频道，同时开设博客、视频、论坛等自由互动交流空间。" />
+	<meta content="always" name="referrer

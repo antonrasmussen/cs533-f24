@@ -1,0 +1,16 @@
+URL: http://hatena.ne.jp
+Final URL: https://www.hatena.ne.jp:443/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:36:13 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Server: nginx
+Set-Cookie: b=$1$1eqq40E8$XjCOvvuV.U.RPoLcNHj8R/; expires=Thu, 27-Oct-2044 23:36:13 GMT; domain=hatena.ne.jp; path=/
+Vary: Accept-Encoding, Accept-Encoding
+ETag: W/"4bc8e-CfBheHgL/F6EWpoCE86mtEcZNJU"
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Encoding: gzip

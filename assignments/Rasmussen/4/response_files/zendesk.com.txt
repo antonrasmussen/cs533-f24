@@ -1,0 +1,24 @@
+URL: https://zendesk.com
+Final URL: https://www.zendesk.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:49 GMT
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+connection: keep-alive
+cache-control: public, max-age=3600
+vary: Accept-Encoding
+nc: T
+content-security-policy: default-src * wss://*.zopim.com 'unsafe-inline' 'unsafe-eval'; frame-ancestors 'self' app.optimizely.com *.zendesk.com *.zendesk.co.jp *.zendesk.co.uk *.zendesk.com.br *.zendesk.com.mx *.zendesk.de *.zendesk.es *.zendesk.fr *.zendesk.kr *.zendesk.nl *.zendesk.tw *.zendesk.hk; font-src * data:; img-src * data:; media-src * blob:;worker-src 'self' blob:
+last-modified: Thu, 31 Oct 2024 04:30:37 GMT
+cf-cache-status: HIT
+age: 767
+expires: Thu, 31 Oct 2024 05:57:49 GMT
+set-cookie: __cf_bm=4Pu.SAHqJmc26FW4_qbaVyEm2D8zO5pgs3JTmCVza9Y-1730350669-1.0.1.1-1lz.LE1jkag6h_C9SU5RzJigsVe0H32cTpAFh0h5KFavCq4xeGNO.DQfq5NUBtRcb3v4ZK2yUPXwT9Q6oTN78A; path=/; expires=Thu, 31-Oct-24 05:27:49 GMT; domain=.www.zendesk.com; HttpOnly; Secure; SameSite=None,__cfruid=3cd477dda10b967be9300ca05ab17cb3453425d2-1730350669; path=/; domain=.www.zendesk.com; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=0; preload
+server: cloudflare
+cf-ray: 8db11105dd454fc9-ORF
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="en-US"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>Zendesk: The Complete Customer Service Solution</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><link rel="profile" href="https://gmpg.org/xfn/11"/><meta name="google-site-verification" content="2q8u-0_6HxJZdS7l7LYlf-WDEYwIPvdJ_XVujkTFNCY"/><meta name="naver-site-verification" content="0280b3893b4fa7c8bbe9bc24ef61756c9dccec97"/><link rel="preconnect" hre

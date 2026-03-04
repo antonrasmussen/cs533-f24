@@ -1,0 +1,37 @@
+URL: https://alibaba.com
+Final URL: https://www.alibaba.com/
+Status Code: 200
+
+Headers:
+content-type: text/html;charset=UTF-8
+link: <https://s.alicdn.com>; rel=preconnect;
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: 0
+x-frame-options: DENY
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+eagleid: 2101eeab17303506676298570ec6fa
+server-timing: rt;dur=0.008,eagleid;desc=2101eeab17303506676298570ec6fa, akamai;dur=43;desc=cache-miss
+access-control-allow-headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+access-control-allow-methods: POST, GET, OPTIONS, DELETE
+access-control-allow-credentials: true
+date: Thu, 31 Oct 2024 04:57:47 GMT
+transfer-encoding: chunked
+connection: keep-alive, Transfer-Encoding
+vary: Accept-Encoding
+set-cookie: ali_apache_id=33.1.238.171.1730350667631.416407.2; path=/; domain=.alibaba.com; expires=Wed, 30-Nov-2084 01:01:01 GMT,JSESSIONID=7D9B129C2D042EDB09E2934DB30D67D1; Path=/; HttpOnly,cna=S/ypHwmCyicCAS/2gME/yShI; Domain=.alibaba.com; Path=/; Expires=Tue, 18-Nov-2092 08:11:54 GMT; Secure; SameSite=None,ug_se_c=organic_1730350667636; Domain=.alibaba.com; Expires=Sun, 09-Jul-2056 06:44:26 GMT; Path=/; Secure; SameSite=None
+alt-svc: h3=":443"; ma=2592000
+object-status: ttl=-1,age=0
+edge-type: akamai
+
+Content Snippet (first 500 characters):
+
+    <!-- tangram:6763 begin-->
+<!DOCTYPE html>
+<html class="rwd">
+<script>window._timing = {};window._timing.html_start = Date.now();</script>
+<head>
+        <script>window.__defaultcall=function(){}; var domainToLanguageMap={'www.alibaba.com':'en_US','german.alibaba.com':'de_DE','portuguese.alibaba.com':'pt_PT','spanish.alibaba.com':'es_ES','french.alibaba.com':'fr_FR','italian.alibaba.com':'it_IT','hindi.alibaba.com':'hi_IN','russian.alibaba.com':'ru_RU','korean.alibaba.com':'ko_KR','japanes

@@ -1,0 +1,31 @@
+URL: https://bloomberg.com
+Final URL: https://www.bloomberg.com/
+Status Code: 200
+
+Headers:
+connection: keep-alive
+content-length: 117661
+cache-control: public, max-age=120
+content-security-policy: frame-ancestors 'self' http://*.bloomberg.com https://*.bloomberg.com, upgrade-insecure-requests
+content-type: text/html; charset=utf-8
+etag: "buv7u1ina3n3rz"
+permissions-policy: join-ad-interest-group=(), run-ad-auction=(), browsing-topics=()
+referrer-policy: no-referrer-when-downgrade
+server: openresty
+set-cookie: exp_pref=AMER; domain=bloomberg.com; path=/;,country_code=US; domain=www.bloomberg.com; path=/;,_pxhd=L/LkzwJPmJq0Bi3ra/h8k5Vcm4usRJT4S4dMdSEe2l-c35Qmr5Z/XL52G/vmdn49hkGb7cOOZ7wY-G4/aS3bwA==:av-4fa77bzU/P6qOEgSgWWj6DIcUuSPE11sYZLTst/Yox3e0bXEfM8GoaFsmlh3j9KvdOHRJqV6OtnpgXvLYlrlqTBiG/Pa9dTVqIH6203Y=; Expires=Fri, 01 Jan 2021 00:00:00 GMT; path=/;
+x-content-type-options: nosniff
+x-powered-by: Next.js
+fastly-restarts: 1
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:46 GMT
+age: 99
+x-served-by: cache-iad-kiad7000083-IAD
+x-cache: HIT
+x-cache-hits: 1
+strict-transport-security: max-age=31557600
+link: <https://assets.bwbx.io>; rel=preconnect; crossorigin, <https://assets.bwbx.io>; rel=preconnect, <https://sourcepointcmp.bloomberg.com>; rel=preconnect; crossorigin, <https://tpc.googlesyndication.com	>; rel=preconnect; crossorigin, <https://www.google-analytics.com>; rel=preconnect; crossorigin, <https://www.googletagmanager.com>; rel=preconnect, <https://www.googletagmanager.com>; rel=preconnect; crossorigin
+vary: Accept-Encoding, Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</title><link rel="icon" type="image/png" href="https://www.bloomberg.com/favicon-black.png"/><link rel="canonical" href="https://www.bloomberg.com/"/><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/><meta name="apple-itunes-app" content="app-id=281941097"/><meta n

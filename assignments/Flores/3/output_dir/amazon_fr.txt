@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: Server
-Date: Mon, 07 Oct 2024 23:33:03 GMT
+Date: Fri, 01 Nov 2024 02:01:52 GMT
 Content-Type: text/html
 Content-Length: 163
 Connection: keep-alive
@@ -8,16 +8,17 @@ Location: https://amazon.fr/
 
 HTTP/1.1 301 Moved Permanently
 Server: Server
-Date: Mon, 07 Oct 2024 23:33:03 GMT
+Date: Fri, 01 Nov 2024 02:01:53 GMT
 Content-Type: text/html
 Connection: keep-alive
 Location: https://www.amazon.fr/
 
 HTTP/2 405 
-server: Server
 content-type: text/html;charset=UTF-8
 content-length: 0
-x-amz-rid: JHGV39RTXNVH4NFAE6VQ
+server: Server
+date: Fri, 01 Nov 2024 02:01:53 GMT
+x-amz-rid: JYJ786YH980VXEPTMQEB
 cache-control: no-cache
 pragma: no-cache
 expires: -1
@@ -25,8 +26,10 @@ allow: GET, POST, PUT, DELETE, OPTIONS
 vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,User-Agent
 strict-transport-security: max-age=47474747; includeSubDomains; preload
 x-frame-options: SAMEORIGIN
-date: Mon, 07 Oct 2024 23:33:04 GMT
-alt-svc: h3=":443"; ma=93600
-x-amzn-cdn-id: ak-0.6fc83017.1728343983.3bce4ac8
-x-cache: NotCacheable from child
+x-cache: Error from cloudfront
+via: 1.1 055e2baf2b45486ed72581027dd7e4ac.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL59-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: KKnUULue2GrlfyNSrUj0HFHaK_3tC32sIO52HGU6V8dQQPun1mRZwQ==
 
+Final-URL: https://www.amazon.fr/

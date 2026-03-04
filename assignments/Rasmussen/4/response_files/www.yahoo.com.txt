@@ -1,0 +1,30 @@
+URL: https://www.yahoo.com
+Final URL: https://www.yahoo.com/
+Status Code: 200
+
+Headers:
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+set-cookie: yhome-viper=1; Domain=.www.yahoo.com; Path=/; Expires=Sat, 30 Nov 2024 04:57:45 GMT; HttpOnly; Secure,A1=d=AQABBEkOI2cCEFuvPCip2vJXCVJGvGWl4JoFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAnFg16njmylisfoQNuebKds; Expires=Fri, 31 Oct 2025 10:57:46 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure; HttpOnly,A3=d=AQABBEkOI2cCEFuvPCip2vJXCVJGvGWl4JoFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAnFg16njmylisfoQNuebKds; Expires=Fri, 31 Oct 2025 10:57:46 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly,A1S=d=AQABBEkOI2cCEFuvPCip2vJXCVJGvGWl4JoFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAnFg16njmylisfoQNuebKds; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure
+content-type: text/html; charset=utf-8
+date: Thu, 31 Oct 2024 04:57:46 GMT
+x-envoy-upstream-service-time: 70
+server: ATS
+age: 2
+cache-control: no-store, no-cache, max-age=0, private
+expires: -1
+transfer-encoding: chunked
+connection: keep-alive
+content-security-policy: frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://cdn.taboola.com https://ads.taboola.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=US&lang=en-US&device=desktop&yrid=6o9nr8tivmg0j&partner=;
+
+Content Snippet (first 500 characters):
+<!doctype html><html data-color-scheme id=atomic class="ltr fp  desktop  fp-none bktrocket_GA_desk_test-3-v1,seamless ua-chrome ua-91.0 isModern" lang=en-US><head><script nonce=84a264203b4141e53bbfddce984184af73d3186d80b287ad99e0242fd38a7238>
+        window.performance.mark('PageStart');
+        document.documentElement.className += ' JsEnabled jsenabled';
+        /**
+        * Empty darlaOnready method, to avoid JS error.
+        * This can happen when Async Darla JS file is loaded earlier than

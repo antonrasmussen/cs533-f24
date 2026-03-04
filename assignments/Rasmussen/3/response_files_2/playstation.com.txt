@@ -1,0 +1,22 @@
+URL: http://playstation.com
+Final URL: https://www.playstation.com/en-us/
+Status Code: 200
+
+Headers:
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Content-Type: text/html;charset=utf-8
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload;
+X-Content-Type-Options: nosniff
+X-Dispatcher: dispatcher3euwest2-b80
+X-Frame-Options: SAMEORIGIN
+X-Vhost: publish
+Content-Length: 68410
+Expires: Fri, 01 Nov 2024 23:37:32 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 01 Nov 2024 23:37:32 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: sbsd_o=71842F13ABCC09ED42C5742327630634EE4DF61F6A61DF9477AB8BC6AC6FD15D~sDoJlTX7t0ZYA04PXe4smu8/JLOtvHrjXmELq/qMyRKY3Q/H3KO6oqxicVsDjmnkA8T1qKbKaNArGtg8w5bQnSUU+CfgOqA5UALVA/uushgoaHJWTSm4TQ5IxeVQuYqkFeDOvnynRvkD1g/VaUn43aSTXgySEOhZahts95e7WJEuARbSKT7F+Nn8q+fRjEAaUoTg/S9tjDFyMceiiytZqFLN5kLxVaf1LvOhelSp0DxYYBK1A/4vPmatsj7eIJxHi; Secure; SameSite=None; Domain=.playstation.com; Path=/; Max-Age=86400, sbsd=suKgeRyxmROit6CXwvCutbzz4G8UxrDOXafl+Zwb9UUmDqClnpnB3APht+JW7MfObwlkrMivwL3rYp2q77XF/EphyRVppEBQ4fZDZylDntJenY44OXqwnZlogNTQ4RGDPmXMku5cri4BVG0+Zafb0QE7IP51+5SyVdUSuq+qW9QbZEcUv/K84wOHsDoUcEDfn; Secure; SameSite=None; Domain=.playstation.com; Path=/; HttpOnly; Max-Age=2678400

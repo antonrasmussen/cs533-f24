@@ -1,0 +1,19 @@
+URL: http://php.net
+Final URL: https://www.php.net/
+Status Code: 200
+
+Headers:
+Server: myracloud
+Date: Fri, 01 Nov 2024 23:37:28 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Last-Modified: Fri, 01 Nov 2024 22:50:09 GMT
+Content-language: en
+Permissions-Policy: interest-cohort=()
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: COUNTRY=NA%2C80.90.5.137; expires=Fri, 08 Nov 2024 23:37:28 GMT; Max-Age=604800; path=/; domain=.php.net, LAST_NEWS=1730504248; expires=Sat, 01 Nov 2025 23:37:28 GMT; Max-Age=31536000; path=/; domain=.php.net
+Link: <https://www.php.net/index>; rel=shorturl
+Content-Encoding: gzip
+vary: accept-encoding
+Expires: Fri, 01 Nov 2024 23:37:28 GMT
+Cache-Control: max-age=0

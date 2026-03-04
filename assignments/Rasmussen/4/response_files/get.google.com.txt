@@ -1,0 +1,24 @@
+URL: https://get.google.com
+Final URL: https://www.google.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:46 GMT
+expires: -1
+cache-control: private, max-age=0
+content-type: text/html; charset=UTF-8
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-CtTjEcX8kcwSVbD5xKydgw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+accept-ch: Sec-CH-Prefers-Color-Scheme, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Arch, Sec-CH-UA-Model, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64
+permissions-policy: unload=()
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+server: gws
+content-length: 64984
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: AEC=AVYB7crL28YLZJf7zF5XGdTu20aEbQ2VNEC65hSuo4rs24QpiVuEHOchrew; expires=Tue, 29-Apr-2025 04:57:46 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax,NID=518=KXOhYa0o97FV_v-o22sSgL2GYI07Vv-mfMIS8gTi1wmGtTjjMsKzeb35LVmCzWCROeLgB98j2yWcH8Z1jwZ20ZlDPi9Rw77WtdV7jX8Jh_ThikMWFgKQlqjykJGg6l92yjGLULYG9FS2dl8bxHA2ZNKc-vdCCAW3fkN_Zl-xRD97bNTcHeb0evjzxEsQic1pgw5c; expires=Fri, 02-May-2025 04:57:46 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+Content Snippet (first 500 characters):
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en"><head><meta charset="UTF-8"><meta content="origin" name="referrer"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="CtTjEcX8kcwSVbD5xKydgw">window._hst=Date.now();performance&&performance.mark&&performance.mark("SearchHeadStart");</script><script nonce="CtTjEcX8kcwSVbD5xKydgw">(function(){var _g={kEI:'Sg4jZ5rjL7af5NoPr7uEiA8',kEXPI:'31'

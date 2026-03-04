@@ -1,0 +1,33 @@
+URL: https://vistaprint.com
+Final URL: https://www.vistaprint.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:49 GMT
+content-type: text/html
+transfer-encoding: chunked
+connection: keep-alive
+cf-ray: 8db111015d894fd8-ORF
+cf-cache-status: DYNAMIC
+age: 14
+cache-control: no-cache, private, max-age=0
+expires: Thu, 01 Jan 1970 00:00:00 UTC
+set-cookie: userContext={%22ctc%22:{%22v1%22:[%22login_prompt_not_logged_in_customers%22%2C%22no_account%22%2C%22design_services_hub_inspiration%22%2C%22es_payment_before_brief_test%22%2C%22es__multi_step_brief%22%2C%22site_tagging_new_customer%22%2C%22new_user_registered_nonregistered%22%2C%22new_customer_fr_de_nl%22]}%2C%22userProfile%22:{%22v1%22:{%22culture%22:%22en-US%22}}}; path=/; domain=.vistaprint.com; expires=Thu, 31 Oct 2024 16:57:49 GMT,ucSearchParams=%7B%7D; path=/; domain=.vistaprint.com; expires=Sat, 30 Nov 2024 04:57:49 GMT,testUserId=_7e2a4a77-4a5e-4ca3-b369-976c95a4ca5e; path=/; domain=.vistaprint.com; Max-Age=15552000,optimizelyEndUserId=_7e2a4a77-4a5e-4ca3-b369-976c95a4ca5e; path=/; domain=.vistaprint.com; Max-Age=15552000,expCtx=; path=/; domain=.vistaprint.com; Max-Age=0,cf-ipcountry=US; Secure; Path=/; SameSite=None,__cf_bm=nq3YIhxI9_bCZbvOQCm_qUJgkrTohhuS569f8jnmBws-1730350669-1.0.1.1-qUVgcV2GWXItyerUGH8jAO_uWUF2CJZSLP6lEurt4H3yn.9uKp9HNjY2h6Xdr8Mo.20bW1ZxxvrFeA8ggIXGAg; path=/; expires=Thu, 31-Oct-24 05:27:49 GMT; domain=.vistaprint.com; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+via: 1.1 7e2fab32e11703f7384de4d8fef36848.cloudfront.net (CloudFront)
+pragma: no-cache
+alt-svc: h3=":443"; ma=86400
+vp-ingress-route: Default
+x-amz-cf-id: NGFfuyho2NRFOibyVMbvTnno4F-1FEKvIq-SE75kKZkM1v0Ra_v0SQ==
+x-amz-cf-pop: IAD12-P2
+x-amz-expiration: expiry-date="Fri, 08 Nov 2024 00:00:00 GMT", rule-id="NTFiMjNkZmYtN2ZlNS00OWQzLWI3MjYtZTFjOGZkNmE0NjVk"
+x-amz-meta-exclusive-hint: /page-data/en-us/slim_banner_on_homepage/test/camp/naoct30flashsaleextension/exp/slim_banner_on_homepage/test/page-data-8bb71278-397c-4581-8ed3-5bdf030e8c85.json
+x-amz-meta-hint-domain: /static/merch/home-page-vistaprint-na.prod
+x-amz-meta-shared-hint: /534f1d35-dc76a6030a1bda5551ee.js,/701-130d607492ab6ccc2a5d.js,/ajax-aggregate-b725f10e229642920a89.js,/app-b961c5007a6154ef9b69.js,/async-api-dba8a9e359def5203939.js,/basic-spa-aggregate-f3eab0a8bce4526eaec1.js,/c8f7fe3b0e41be846d5687592cf2018ff6e22687-c589bd9f3e47297693ae.js,/commons-dc19617083eaf109f7bb.js,/component---src-pages-404-jsx-224a7371ab58a5dce51f.js,/component---src-pages-healthcheck-jsx-f5595e3c4b61d5fe7878.js,/component---src-templates-auth-page-layout-jsx-462bc773209e68d793b2.js,/component---src-templates-home-page-layout-jsx-aeb712d598a821da1edc.js,/compressor-f0d43c35f358b7bbb4de.js,/framework-8094427122681b7d0a75.js,/generic_events-aggregate-b1bb1c8b1d54ee426496.js,/jserrors-aggregate-2423f1382d3841ec28ce.js,/lazy-feature-loader-fe3f03e75c958f148ae5.js,/logging-aggregate-465c754a7eb6175bb4cf.js,/metrics-aggregate-a379cfbc349329143a8f.js,/page_view_event-aggregate-21617308ab53d65d7ac8.js,/page_view_timing-aggregate-7bb980d2b01151a594f6.js,/recorder-f28133ec4557cf202570.js,/session-manager-6ed65897dad8169ac569.js,/session_replay-aggregate-5f3685daf30166a9c6d2.js,/session_trace-aggregate-1c32bbb44503c24defe1.js,/spa-aggregate-66ad12be684e8fb082e8.js,/styles.8356188b33c7990b0c33.css,/webpack-runtime-c8e98b6bb02d6c9f939c.js,/~partytown/partytown-atomics.js,/~partytown/partytown-media.js,/~partytown/partytown-sw.js,/~partytown/partytown.js,/~partytown/debug/partytown-atomics.js,/~partytown/debug/partytown-media.js,/~partytown/debug/partytown-sandbox-sw.js,/~partytown/debug/partytown-sw.js,/~partytown/debug/partytown-ww-atomics.js,/~partytown/debug/partytown-ww-sw.js,/~partytown/debug/partytown.js
+x-cache: Hit from cloudfront
+server-timing: cfCacheStatus;desc="DYNAMIC"
+server: cloudflare
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="en-US"><head><script type="text/javascript">(function() { window.__pageDataPath = "page-data-8bb71278-397c-4581-8ed3-5bdf030e8c85.json"; })();</script><script type="text/javascript">(function() { performance.mark("parseHeadStarted"); })();</script><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Gatsby 4.25.9"><meta name="descr

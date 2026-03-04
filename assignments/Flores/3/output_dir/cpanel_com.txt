@@ -1,41 +1,44 @@
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 07 Oct 2024 23:33:05 GMT
+Date: Fri, 01 Nov 2024 02:01:55 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Tue, 08 Oct 2024 00:33:05 GMT
+Expires: Fri, 01 Nov 2024 03:01:55 GMT
 Location: https://cpanel.com/
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Kedbk53YhuYvLLGEJhLMRohGNwHdaHubOsRfRu%2FmgC7QI1IehoFIFS9Oxl8wOqYMu7GYCC3VHQLIG2cTN6EwdTV79YxBCcqxrYJvMSCIa%2BK5YBFZat24LNDh4Qya"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=mDzBP9FzXS%2FpObJr1BA5YJF37Cgyi71cfD0gd%2FoB3AHX6%2BNM%2FXcAoDjBINOOUdvwT%2FHYatMpdOKhgazRgN2gtXHiispyL5rYfQL%2BlA86ibSsthL3czLEjPcsfdQmi3Ue7To3DrXuUoc0"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 X-Content-Type-Options: nosniff
-Speculation-Rules: "/cdn-cgi/speculation"
 Server: cloudflare
-CF-RAY: 8cf1b1b2d82c78e1-EWR
+CF-RAY: 8db84cb6fb853988-IAD
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17887&sent=1&recv=3&lost=0&retrans=0&sent_bytes=0&recv_bytes=75&delivery_rate=0&cwnd=249&unsent_bytes=0&cid=0000000000000000&ts=0&x=0"
 
 HTTP/2 302 
-date: Mon, 07 Oct 2024 23:33:05 GMT
+date: Fri, 01 Nov 2024 02:01:55 GMT
 location: https://cpanel.net/
 cache-control: no-cache, no-store, must-revalidate, max-age=0
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=86400
 x-turbo-charged-by: LiteSpeed
 cf-cache-status: DYNAMIC
-report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=VOhhbsDdXGZstTCBX68sDEGWpPNYbKDW1O2OlAV%2Bjfzxn%2BL4cHoluF9IZ%2BNg63JPPdP83Koi3IOcCr5avBTf2Csfpcp8N0ADU%2F0I8mJ8jmw%2FKK404CdSypI%2FJ7NV"}],"group":"cf-nel","max_age":604800}
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=B1DF99cVBfRPmz3CR5n6dWl8e6TlgvC9ukH3z3eHiGBUhdptHVTLVksNKIFJSJuV%2BcwpkFzqIm%2F7laIASX7spMfZ8gI1mpyzKhHwwK49TwYjsR9zV7Ihdt%2BhR6DYtYzqyp5%2BP98xnfHb"}],"group":"cf-nel","max_age":604800}
 nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 strict-transport-security: max-age=15552000; preload
 server: cloudflare
-cf-ray: 8cf1b1b34f2b8c51-EWR
+cf-ray: 8db84cb7888f177e-IAD
+server-timing: cfL4;desc="?proto=TCP&rtt=18530&sent=7&recv=8&lost=0&retrans=0&sent_bytes=3400&recv_bytes=821&delivery_rate=167439&cwnd=253&unsent_bytes=0&cid=984bb90826a4dc72&ts=154&x=0"
 
 HTTP/2 200 
 cache-control: public, max-age=300
-expires: Mon, 07 Oct 2024 23:38:05 GMT
+expires: Fri, 01 Nov 2024 02:06:55 GMT
 content-type: text/html
-last-modified: Mon, 07 Oct 2024 17:04:41 GMT
+last-modified: Tue, 29 Oct 2024 14:48:01 GMT
 accept-ranges: bytes
-content-length: 49631
-date: Mon, 07 Oct 2024 23:33:05 GMT
+content-length: 49983
+date: Fri, 01 Nov 2024 02:01:55 GMT
 server: LiteSpeed
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
@@ -44,3 +47,4 @@ vary: User-Agent,User-Agent
 strict-transport-security: max-age=31536000
 alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
 
+Final-URL: https://cpanel.net/

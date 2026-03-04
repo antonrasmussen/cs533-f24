@@ -1,0 +1,23 @@
+URL: https://liberation.fr
+Final URL: https://www.liberation.fr/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=utf-8
+content-length: 1364215
+server: openresty
+etag: W/"70a59c-PZSYMxBhJl53P5b070D5SBD0HBQ"
+x-arc-pb-mx-id: 00000000
+x-arc-pb-request-id: 7985b1ac-e8a5-44ca-8778-5d78832f0f35, cd660c83-2903-45ac-bfd8-904b97fd2c4b
+last-modified: Thu, 31 Oct 2024 04:56:03 GMT
+vary: Accept-Encoding
+cache-control: private, max-age=60
+expires: Thu, 31 Oct 2024 04:58:48 GMT
+date: Thu, 31 Oct 2024 04:57:48 GMT
+connection: keep-alive
+content-security-policy: upgrade-insecure-requests
+x-arc-ttl: 120
+x-arc-request-id: 0.aeee2e17.1730350668.1fadc3b
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="fr"><head><meta name="viewport" content="width=device-width, initial-scale=1"/><script async="" src="https://client.px-cloud.net/PXTW9veCqb/main.min.js"></script><script async=""></script><script defer="" crossorigin="anonymous" src="https://cdn.speedcurve.com/js/lux.js?id=4360634937"></script><title>Libération - Actualité en direct, infos en France et dans le monde</title><meta property="og:title" content="Libération - Actualité en direct, infos en France et dans le m

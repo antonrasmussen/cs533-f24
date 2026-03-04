@@ -1,0 +1,29 @@
+URL: https://globo.com
+Final URL: https://www.globo.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:48 GMT
+content-type: text/html; charset=UTF-8
+content-length: 351942
+connection: keep-alive
+cache-control: max-age=10
+show-page-version: 0
+x-request-id: 7adba2ad-501a-49cf-ac56-423566fb4fd7
+x-mobile: desktop
+x-served-from: Router Home PROD, BS Show Services
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+expires: Thu, 31 Oct 2024 04:57:50 GMT
+x-location-rule: location-barra
+link: <https://s2-home-globo.glbimg.com>; rel="preconnect", <https://s3.glbimg.com>; rel="preconnect"
+age: 7
+vary: X-Forwarded-Proto, User-Agent, Accept-Encoding
+x-bip: 819342268 asra03mp05lx01ca17.globoi.com
+via: 2.0 CachOS
+accept-ranges: bytes
+x-thanos: 0AB1D128
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="pt-BR"> <head><title>globo.com - Absolutamente tudo sobre notícias, esportes e entretenimento</title><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="canonical" href="https://www.globo.com/"><meta name="title" content="globo.com - Absolutamente tudo sobre notícias, esportes e entretenimento"><meta name="description" content="globo.com - Absolutamente tudo s

@@ -1,0 +1,25 @@
+URL: http://pl.wikipedia.org
+Final URL: https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna
+Status Code: 200
+
+Headers:
+date: Fri, 01 Nov 2024 21:23:23 GMT
+server: mw-web.eqiad.main-64476968cd-2kfp7
+x-content-type-options: nosniff
+content-language: pl
+accept-ch: 
+vary: Accept-Encoding,Cookie,Authorization
+last-modified: Fri, 01 Nov 2024 21:23:11 GMT
+content-type: text/html; charset=UTF-8
+content-encoding: gzip
+age: 8046
+x-cache: cp1100 miss, cp1100 hit/57
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1100"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+x-client-ip: 2600:8805:1729:2d00:d8ae:985c:6853:a904
+cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
+accept-ranges: bytes
+content-length: 23337

@@ -1,0 +1,24 @@
+URL: https://aol.com
+Final URL: https://www.aol.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:46 GMT
+content-type: text/html; charset=utf-8
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+vary: Accept-Encoding
+content-security-policy: upgrade-insecure-requests; block-all-mixed-content; sandbox allow-modals allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;
+cache-control: no-cache, no-store, private, must-revalidate
+age: 0
+server: ATS
+transfer-encoding: chunked
+connection: keep-alive
+set-cookie: A1=d=AQABBEoOI2cCEDtBG0QgjVSYmhkczrnpvbAFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAoPs7cFbICoV6kACKo8G-XQ; Expires=Fri, 31 Oct 2025 10:57:46 GMT; Max-Age=31557600; Domain=.aol.com; Path=/; SameSite=Lax; Secure; HttpOnly,A3=d=AQABBEoOI2cCEDtBG0QgjVSYmhkczrnpvbAFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAoPs7cFbICoV6kACKo8G-XQ; Expires=Fri, 31 Oct 2025 10:57:46 GMT; Max-Age=31557600; Domain=.aol.com; Path=/; SameSite=None; Secure; HttpOnly,A1S=d=AQABBEoOI2cCEDtBG0QgjVSYmhkczrnpvbAFEgEBAQFfJGcsZ9xV0iMA_eMAAA&S=AQAAAoPs7cFbICoV6kACKo8G-XQ; Domain=.aol.com; Path=/; SameSite=Lax; Secure
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html id="atomic" class="NoJs chrome desktop" lang="en-US"><head prefix="og: http://ogp.me/ns#"><script>window.performance && window.performance.mark && window.performance.mark('PageStart');</script><meta charSet="utf-8"/><meta http-equiv="content-type" content="text/html; charset=UTF-8"/><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/><meta http-equiv="x-dns-prefetch-control" content="on"/><meta name="author" content="AOL"/><meta name="google-site-verification" con

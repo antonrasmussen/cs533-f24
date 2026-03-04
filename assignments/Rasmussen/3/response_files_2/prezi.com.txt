@@ -1,0 +1,13 @@
+URL: http://prezi.com
+Final URL: https://prezi.com/
+Status Code: 406
+
+Headers:
+Date: Fri, 01 Nov 2024 23:37:33 GMT
+Content-Type: text/html
+Content-Length: 562
+Connection: keep-alive
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: usb=(), xr-spatial-tracking=()
+Strict-Transport-Security: max-age=31536000; includeSubDomains

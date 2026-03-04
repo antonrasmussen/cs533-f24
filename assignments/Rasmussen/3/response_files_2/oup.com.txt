@@ -1,0 +1,15 @@
+URL: http://oup.com
+Final URL: http://global.oup.com
+Status Code: 202
+
+Headers:
+Server: awselb/2.0
+Date: Fri, 01 Nov 2024 23:37:21 GMT
+Content-Length: 0
+Connection: keep-alive
+x-amzn-waf-action: challenge
+Cache-Control: no-store, max-age=0
+Content-Type: text/html; charset=UTF-8
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Methods: OPTIONS,GET,POST

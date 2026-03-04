@@ -1,0 +1,25 @@
+URL: http://apache.org
+Final URL: https://apache.org/
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+Content-Length: 15993
+Server: Apache
+Last-Modified: Fri, 01 Nov 2024 22:25:26 GMT
+ETag: "fd51-625e1696dc147-gzip"
+Cache-Control: max-age=3600
+Expires: Fri, 01 Nov 2024 23:25:29 GMT
+Content-Encoding: gzip
+Content-Security-Policy: default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' https://www.apache.org/;
+Content-Type: text/html
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:34:55 GMT
+Age: 543
+X-Served-By: cache-hel1410034-HEL, cache-iad-kiad7000087-IAD
+X-Cache: HIT, HIT
+X-Cache-Hits: 2, 1
+X-Timer: S1730504095.202157,VS0,VE1
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

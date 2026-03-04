@@ -1,0 +1,16 @@
+URL: http://com.com
+Final URL: http://com.com/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:35:11 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+set-cookie: XYZSRV=wtc2-a-3; path=/
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=8aQ744U7ruUAifwmYEi4WV1LxucdLtOreXrOUxJHMsgrvg%2BhuipzthJ45qhASWvdHWOu9HQT5PdaknmIXYuuH68U78X%2FfPa77wdAtKiaKuqt9Jgy4moi2q%2BpHY7z1deTYZIP8sA%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8dbfb324fd7e0848-IAD
+Content-Encoding: gzip
+server-timing: cfL4;desc="?proto=TCP&rtt=20378&sent=1&recv=3&lost=0&retrans=0&sent_bytes=0&recv_bytes=232&delivery_rate=0&cwnd=248&unsent_bytes=0&cid=0000000000000000&ts=0&x=0"

@@ -1,0 +1,22 @@
+URL: https://support.google.com
+Final URL: https://support.google.com/
+Status Code: 200
+
+Headers:
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info.", CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000; includeSubdomains
+content-type: text/html; charset=UTF-8
+date: Thu, 31 Oct 2024 04:57:45 GMT
+expires: Thu, 31 Oct 2024 04:57:45 GMT
+cache-control: private, max-age=0
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-jx30HaOi7/iKC4d7ZKvH' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http: 'report-sample';report-uri https://csp.withgoogle.com/csp/scfe
+x-content-type-options: nosniff
+server: support-content-ui
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: NID=518=pJbVsiCWuMX3guzMhm5LDBx3Th4LlbBqQv1gVKiMLcmZ-tEZLfirn1pbZXGKEG-_JZMwWiEuPnqLte5XrJxAZ4msS_UZR21LCXJC0OpdpLDOtCgZNJb_RCaoGWsrhiBqDlcuUEroYZzxaEVwaoevVYFYX-6F23QFn7Vnt9FSIfL2Ogs9r4w; expires=Fri, 02-May-2025 04:57:45 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none,NID=518=pJbVsiCWuMX3guzMhm5LDBx3Th4LlbBqQv1gVKiMLcmZ-tEZLfirn1pbZXGKEG-_JZMwWiEuPnqLte5XrJxAZ4msS_UZR21LCXJC0OpdpLDOtCgZNJb_RCaoGWsrhiBqDlcuUEroYZzxaEVwaoevVYFYX-6F23QFn7Vnt9FSIfL2Ogs9r4w; expires=Fri, 02-May-2025 04:57:45 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+transfer-encoding: chunked
+
+Content Snippet (first 500 characters):
+<!doctype html><html class="hcfe" data-page-type="PORTAL" lang="en"><head><title>Google Help</title><meta content="email=no" name="format-detection"><meta content="follow,index" name="robots"><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><meta content="" name="description"><meta content="XDaf09mosy9iTj6dOnwb6sKTrNhfKwOS6v98lPV0dEE" name="google-site-verification"><link href="https://support.google.com/?hl=en" rel="canonical"><meta content="width=device-width,initial-scale=1,minim

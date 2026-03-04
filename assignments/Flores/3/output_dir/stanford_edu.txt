@@ -1,5 +1,5 @@
 HTTP/1.1 302 Found
-Date: Mon, 07 Oct 2024 23:33:31 GMT
+Date: Fri, 01 Nov 2024 02:02:35 GMT
 Server: Apache
 Location: https://www.stanford.edu/
 Content-Type: text/html; charset=iso-8859-1
@@ -13,16 +13,17 @@ link: <https://www.stanford.edu/>; rel=shortlink
 server: nginx
 strict-transport-security: max-age=300
 x-frame-options: SAMEORIGIN
-x-pantheon-styx-hostname: styx-fe1-b-7788459589-9jj28
-x-styx-req-id: 0476a3f2-8504-11ef-9764-3a6d92c39cf2
-age: 234
+x-pantheon-styx-hostname: styx-fe1-a-5bbb8f6849-986tb
+x-styx-req-id: 538de05a-97f4-11ef-8682-aae77b5c9804
+age: 445
 accept-ranges: bytes
 via: 1.1 varnish, 1.1 varnish, 1.1 varnish
-date: Mon, 07 Oct 2024 23:33:32 GMT
-x-served-by: cache-chi-klot8100064-CHI, cache-chi-klot8100064-CHI, cache-iad-kiad7000028-IAD
+date: Fri, 01 Nov 2024 02:02:35 GMT
+x-served-by: cache-chi-klot8100064-CHI, cache-chi-klot8100064-CHI, cache-iad-kjyo7100174-IAD
 x-cache: HIT, MISS, MISS
-x-cache-hits: 161, 0, 0
-x-timer: S1728344012.033050,VS0,VE27
+x-cache-hits: 239, 0, 0
+x-timer: S1730426555.178338,VS0,VE32
 vary: Accept-Encoding, Cookie
-content-length: 138928
+content-length: 138734
 
+Final-URL: https://www.stanford.edu/

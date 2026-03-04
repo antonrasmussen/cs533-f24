@@ -1,0 +1,25 @@
+URL: http://people.com
+Final URL: https://people.com/
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+referrer-policy: no-referrer-when-downgrade
+x-content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.people.com
+content-type: text/html
+x-content-type-options: nosniff
+content-security-policy: frame-ancestors 'self' *.specless.io *.specless.tech http://*.seo.aws.about.com https://*.seo.aws.about.com http://*.dotdash.com https://*.dotdash.com *.people.com
+link: <//people.com/static/2.140.0/cache/eNqlV1uW2yAM3VA5XkR_uwkMsq0Ggwt4MpnVV8jvhKHk9CNBErp6IR5uQpQRVTNKGw00KoQmSeBH8zqBo-xBTEYqGJzR4HNKI3jUKG2DVsPnrsFTEu0hcOPkLNgYGulJQPB1FMrZSBPN4EbgvxJoAjcRZmWPiJyeDYQzwks04gM1OI6GqZJ-K8NaECWkDtkgNP9e6nBo3FH3QOMA2A_x5yBtD78wUH7gs8KCrd64VhpCSc1geV6CWr1Xs1Z-YE9zzjZzRIPxIUh0pgvgzvmRKgTSq0Ek5kwXcCOEkLqplTZV4srWBbskxrEeZB20m40JygNYhl_ZOhPBKZSG4dwjO5tbkTwug_m-gayL2KFiI1vVkuOM_D-sBYwgSAnEWSOX0mYpj3jDUNpDhtevddLrqh3ZGfjENm37ov7JLMOybr7bZp1zkaqyDIVtltcrtx_rLq23k29BDdpbuDB1cO2ilmEQs8UP8GFtxKy0YJDOd-P6dSg5hnswEFOMK-RFUijsO-hX39v9kNb9-XI4qQVQqTCB75mJjiAq6uzF5EI8qHeB0U0iROcRSsuiuC3LvbjrCNGBjLMHXRfM5Om29g_RGqduV67gjm94LlmPXc4RGwh7gg8RZX_l_pEMNSsVaKdyPtJktfJr5vHu1lVYiTpYQNvTgcJ5XJhCGUZn8UbNmIpwoguIs2E6d_WT40VUF_D2WuIanZk6OE1wdcQ0f30ZOsCeBZVli5Jy9pKTO-jSqRz-zNKvLysm6zwZepVSdB2APtN1YIU-lWfZDWemDj5MIg70Plga68JVG1iFImLaFs-CQs_wQ5V7bKfqnI4yOEvdvI7v74PtzMkKK82tSa6P0Stb6pIl1993-tx4EHAj6rzyu3pZrIOszf9zAW5EHawFOcftuD0zlXcHXbzblXFhKuHejSI9uwkZrtxfRvtY2w.min.css>; rel=preload; as=style; nopush, <//people.com/static/fonts/limerick_serial-regular-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//people.com/static/fonts/limerick_serial-bold-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.googletagmanager.com/gtm.js?id=GTM-P3X3VT7>; rel=preload; as=script; nopush, <//people.com/static/fonts/limerick_serial-italic-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//people.com/static/fonts/limerick_serial-bolditalic-webfont.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin; nopush, <//www.googletagmanager.com/gtag/js?id=G-31EK5CQB08&l=dataLayer&cx=c>; rel=preload; as=script; nopush, <//securepubads.g.doubleclick.net/tag/js/gpt.js>; rel=preload; as=script; nopush, <//people.com/static/2.140.0/cache/eNqFkm1uhCAQhi9UyhnapumvJpvGCyCMOisyhhncuKcvmk1XN6xNgADvA_OpWYyg1YMJ4kFbGkYKEIS1NzMl0WfOQ9kObP-i9_B5ga4z4xUyQaHB9hG5nTzWvMcxCEQGK0ih9C8ZB64gWKIegQtKEvQoZa0J6kh2NBzqEo3tMbSH0ATBUdTSRZJ8VSCGvFF1BNOPlOO_f5K1EWj08NzApjCWY7MuBRNjqjnVBeHj-3S_JZc8rAX5qd6X-UxaA8-bzwm2_m5CMnMNpddfp2qZJUlMbEGWdLJpwCNLiWKrjOOSEiF7k6C6FeUP2aQov1zIdpRSjkwLakK4HOS4lWHtNo-2V_JoaedME4E7U3t4c_xf-_NrChOg73IX8y8-ME7k.min.js>; rel=preload; as=script; nopush; group=top, <//people.com/static/2.140.0/cache/eNqNVG1y4yAMvdBqPT3D_t1LyCCwEgFZwHHd0xdwsnXShGbGYyTxnqxPDyljZjWo4E7Bk89pWFhbKqeaUw4OlLA6Qo6ojuztY-uv4eLGoc9CV014TMOhPP9mius9qFzMmYUzU4JxZsmwcJ7gKdoVAc7oWQQhqRhE7lG7NNhnih5l0GQoVn4TIukOSaVo2utJFDsoGlOCx0wg7I8QaYmctw8VlKOo6Bmm45Xet6j5Y-O0-n0zfjkIehZqIMGPFbCX3LWxE7Gd8p8JvaW_nDL5EvYjY8eXlTCW2k6EupHr8cMU4NvbCppRgu049nhmW-6Cv0zHCsW0lztkE6JLQyKMaoKq7OUOz1FKaAlG9LUWt2qHt2VzOVprXstsq1dL7Et8jWpmkTL7RL7Rb9UXmu9DZsOqObvme3hofjRkdedwwfXb3e5LI6a2rkbonUeh_lDelLC3zq50pLq1bP7DdveJVI29THdwdKrYgonbHyrt5dfIUpY2ZTBEei-DBNTgQqReBc6sKcBhOQmutbwX4Yf9kPR7tIlyt1iWwwSaqj99p34CFdg4nw.min.js>; rel=preload; as=script; nopush; group=bottom
+set-cookie: TMog=na5800e4b7d6549c9a5e5c96e756dc69223; Path=/; Domain=.people.com; Expires=Thu, 20-Nov-2092 02:51:33 GMT; Max-Age=2147483647, globalTI_SID=c0356aaa-aea3-4e4b-b489-13bf3b89a9cd; Path=/; Domain=.people.com; Expires=Sun, 01-Nov-2026 23:37:26 GMT; Max-Age=63072000, Mint=na5800e4b7d6549c9a5e5c96e756dc69223; Path=/; Domain=.people.com; Expires=Sat, 02-Nov-2024 00:07:26 GMT; Max-Age=1800, pc=1; Path=/; Domain=.people.com; Expires=Sat, 02-Nov-2024 00:07:26 GMT; Max-Age=1800
+strict-transport-security: max-age=15552000
+x-abt-application-version: 2.140.0
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:37:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kjyo7100022-IAD, cache-iad-kjyo7100022-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1730504246.100141,VS0,VE253
+NEL: {"report_to":"network-errors","max_age":2592000,"success_fraction":0,"failure_fraction":1.0, "include_subdomains": true}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://r.3gl.net/hawklogserver/7815/re.p"}]}

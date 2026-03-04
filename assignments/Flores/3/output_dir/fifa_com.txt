@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Cache-Control: no-store
-Date: Mon, 07 Oct 2024 23:33:16 GMT
+Date: Fri, 01 Nov 2024 02:02:02 GMT
 Location: https://www.fifa.com/
 Server: ECAcc (dce/26DE)
 Content-Length: 0
@@ -8,11 +8,12 @@ Content-Length: 0
 HTTP/2 401 
 content-encoding: gzip
 content-type: text/html
-date: Mon, 07 Oct 2024 23:33:16 GMT
-ip: 128.82.16.2
-reference: 51221534084393671878104746636233345059
+date: Fri, 01 Nov 2024 02:02:02 GMT
+ip: 98.166.237.183
+reference: 34809326763637532011223542720223355516
 server: ECAcc (dce/26DE)
 url: https://www.fifa.com/
 x-ec-acl: 403
-content-length: 765
+content-length: 1566
 
+Final-URL: https://www.fifa.com/

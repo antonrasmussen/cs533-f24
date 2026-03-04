@@ -1,0 +1,23 @@
+URL: https://4shared.com
+Final URL: https://www.4shared.com/
+Status Code: 200
+
+Headers:
+server: 573
+set-cookie: day1host=h; Domain=.4shared.com; Expires=Fri, 01-Nov-2024 04:57:46 GMT; Path=/
+pragma: no-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+cache-control: no-cache
+content-type: text/html;charset=UTF-8
+content-language: en
+transfer-encoding: chunked
+date: Thu, 31 Oct 2024 04:57:46 GMT
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>4shared.com - free file sharing and storage</title>
+  <meta name="Description" content="Online file sharing and storage - 15 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
+  <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting, i

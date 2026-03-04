@@ -1,0 +1,34 @@
+URL: https://samsung.com
+Final URL: https://www.samsung.com/us/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+last-modified: Thu, 31 Oct 2024 04:39:35 GMT
+etag: W/"bdc2d-625be67c95670"
+strict-transport-security: max-age=31536000
+x-xss-protection: 0
+x-akamai-transformed: 9 - 0 pmb=mRUM,3
+date: Thu, 31 Oct 2024 04:57:50 GMT
+transfer-encoding: chunked
+connection: keep-alive, Transfer-Encoding
+set-cookie: country_region=CA-ON; path=/; domain=.samsung.com,s_fpid=52db5861-5afb-4369-8946-74de4d89db70; expires=Sat, 31-Oct-2026 04:57:50 GMT; path=/; domain=.samsung.com; secure; HttpOnly,AKA_A2=A; expires=Thu, 31-Oct-2024 05:57:50 GMT; path=/; domain=samsung.com; secure; HttpOnly,country_codes=us; path=/; domain=.samsung.com,device_type=pc; path=/; domain=.samsung.com
+server-timing: cdn-cache; desc=HIT, edge; dur=1, ak_p; desc="1730350670754_400320660_806734284_37_28071_24_35_-";dur=1
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+
+<html lang="en">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/us.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta

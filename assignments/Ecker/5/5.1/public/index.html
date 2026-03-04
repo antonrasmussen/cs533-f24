@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CORS Demo</title>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1>CORS Demo</h1>
+    <h2>Blocked Response (No CORS):</h2>
+    <p id="no-cors"></p>
+    <button onclick="fetchWithoutCORS()">Fetch Without CORS</button>
+
+    <h2>Allowed Response (With CORS):</h2>
+    <p id="with-cors"></p>
+    <button onclick="fetchWithCORS()">Fetch With CORS</button>
+</body>
+</html>
+

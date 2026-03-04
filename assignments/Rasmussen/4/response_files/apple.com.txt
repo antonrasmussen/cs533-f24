@@ -1,0 +1,103 @@
+URL: https://apple.com
+Final URL: https://www.apple.com/
+Status Code: 200
+
+Headers:
+server: Apple
+content-type: text/html; charset=utf-8
+set-cookie: geo=US; path=/; domain=.apple.com
+x-frame-options: SAMEORIGIN
+vary: Accept-Encoding
+content-security-policy: default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+cache-control: max-age=78
+expires: Thu, 31 Oct 2024 04:59:04 GMT
+date: Thu, 31 Oct 2024 04:57:46 GMT
+content-length: 40593
+x-cache: TCP_MEM_HIT from a23-15-7-191.deploy.akamaitechnologies.com (AkamaiGHost/11.6.5-0c617a4be13e71cac2c90d10d87ecf54) (-)
+connection: keep-alive
+
+Content Snippet (first 500 characters):
+
+
+
+	
+
+
+	
+
+	
+
+
+	
+
+
+	
+
+	
+		
+	
+
+	
+
+		
+		
+
+	
+
+
+	
+
+
+				
+
+					
+						
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js" data-layout-name="mountains">
+<head>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8" />
+<link rel="canonical" href="https://www.apple.com/" />
+
+
+	
+	<link rel="alternate" href="https://www.apple.com/" hreflang="en-US" /><link rel="alternate" href="https://www.apple.com/ae-ar/" hreflang="ar

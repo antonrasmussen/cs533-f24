@@ -1,0 +1,29 @@
+URL: http://buzzfeed.com
+Final URL: https://www.buzzfeed.com/
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+Content-Length: 198341
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Encoding: gzip
+Content-Language: en
+Document-Policy: js-profiling
+Etag: "1317c5-LVMGbIjbWOQqhe/MOV+zKaYbWsQ"
+Expires: 0
+Pragma: no-cache
+Set-Cookie: next-i18next=en; path=/; expires=Sat, 01 Nov 2025 23:34:02 GMT, dsl25_frhf=control;expires=Fri, 29 Nov 2024 23:35:01 GMT;
+X-Request-Id: 312641704ca6f4eec8b869856af0d508
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:35:01 GMT
+Age: 58
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; preload
+Timing-Allow-Origin: *
+X-Served-By: cache-iad-kjyo7100131-IAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1730504101.004154,VS0,VE3
+Vary: X-BF-User-Edition, Accept-Encoding, X-BF-Canary, X-BF-Canary-Site-Router, X-BF-Canary-Perimeter, X-BF-Canary-Feed-UI

@@ -1,0 +1,24 @@
+URL: http://ea.com
+Final URL: https://www.ea.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=UTF-8
+Last-Modified: Fri, 01 Nov 2024 23:27:09 UTC
+Content-Encoding: gzip
+Content-Length: 27493
+Cache-Control: max-age=475
+Expires: Fri, 01 Nov 2024 23:43:11 GMT
+Date: Fri, 01 Nov 2024 23:35:16 GMT
+Connection: keep-alive
+Set-Cookie: EDGESCAPE_COUNTRY=US; path=/, EDGESCAPE_REGION=VA; path=/, EDGESCAPE_TIMEZONE=EST; path=/
+Vary: Accept-Encoding
+Alt-Svc: h3=":443"; ma=93600
+X-LDNR-IS-EN-US: yes
+X-LDNR-ROOT-HL-SET: yes
+X-L-Path: inert
+X-Environment-Context: prod
+X-Application-Context: eacom
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15768000

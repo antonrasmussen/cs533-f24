@@ -1,0 +1,25 @@
+URL: https://cointernet.com.co
+Final URL: https://www.cointernet.com.co/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:46 GMT
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+connection: keep-alive
+server: nginx/1.20.1
+vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding
+x-nextjs-cache: HIT
+x-powered-by: Next.js
+cache-control: s-maxage=31536000, stale-while-revalidate
+etag: "sx9t0m5p6llak"
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: no-referrer
+permissions-policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+content-security-policy: default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * blob: data: 'unsafe-inline';connect-src * 'unsafe-inline'; frame-src *
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" as="image" href="/images/ui/home-arrow-down.png"/><link rel="preload" as="image" href="/images/ui/ind-search.png"/><link rel="preload" as="image" href="/images/ui/ind-compra.png"/><link rel="preload" as="image" href="/images/ui/ind-comm.png"/><link rel="preload" as="image" href="/images/ui/ind-icon-globehand.png"/><link rel="preload" as="image" href

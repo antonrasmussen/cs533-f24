@@ -4,16 +4,16 @@ Content-Length: 162
 Content-Type: text/html
 Location: https://utexas.edu/
 Server: nginx
-X-Pantheon-Styx-Hostname: styx-fe4-b-b586bd68-2lhnd
-X-Styx-Req-Id: 4465ac8b-8498-11ef-8a12-3e06126c13ad
+X-Pantheon-Styx-Hostname: styx-fe4-b-7f998d8f5-hfssn
+X-Styx-Req-Id: 801521fb-97b3-11ef-b7a7-6e139f02b313
 Cache-Control: public, max-age=86400
-Date: Mon, 07 Oct 2024 23:33:41 GMT
-X-Served-By: cache-chi-klot8100033-CHI, cache-iad-kcgs7200150-IAD
+Date: Fri, 01 Nov 2024 02:02:43 GMT
+X-Served-By: cache-chi-klot8100033-CHI, cache-iad-kiad7000073-IAD
 X-Cache: HIT, HIT
 X-Cache-Hits: 9, 0
-X-Timer: S1728344021.002049,VS0,VE9
+X-Timer: S1730426564.950853,VS0,VE5
 Vary: Cookie, Cookie
-Age: 46522
+Age: 28296
 Accept-Ranges: bytes
 Via: 1.1 varnish, 1.1 varnish
 
@@ -23,15 +23,15 @@ content-type: text/html; charset=UTF-8
 location: https://www.utexas.edu/
 server: nginx
 strict-transport-security: max-age=300
-x-pantheon-styx-hostname: styx-fe4-b-77dcff9f9-c464x
-x-styx-req-id: 1b4b5cc8-7feb-11ef-9de3-b61050ccc7e3
-date: Mon, 07 Oct 2024 23:33:41 GMT
-x-served-by: cache-chi-klot8100126-CHI, cache-iad-kiad7000128-IAD
+x-pantheon-styx-hostname: styx-fe4-b-7f998d8f5-dbdts
+x-styx-req-id: 7f84dcbe-9170-11ef-9d40-eeb635b720b1
+date: Fri, 01 Nov 2024 02:02:44 GMT
+x-served-by: cache-chi-klot8100126-CHI, cache-iad-kiad7000052-IAD
 x-cache: HIT, HIT
-x-cache-hits: 10, 0
-x-timer: S1728344021.042610,VS0,VE5
+x-cache-hits: 12, 0
+x-timer: S1730426564.030027,VS0,VE5
 vary: Cookie, Cookie
-age: 560699
+age: 716781
 accept-ranges: bytes
 via: 1.1 varnish, 1.1 varnish
 content-length: 0
@@ -40,9 +40,9 @@ HTTP/2 200
 cache-control: public, max-age=300
 content-language: en
 content-type: text/html; charset=utf-8
-etag: W/"1728340820-0"
+etag: W/"1730425226-0"
 expires: Sun, 19 Nov 1978 05:00:00 GMT
-last-modified: Mon, 07 Oct 2024 22:40:20 GMT
+last-modified: Fri, 01 Nov 2024 01:40:26 GMT
 link: <https://www.utexas.edu>; rel="canonical",<https://www.utexas.edu>; rel="shortlink"
 server: nginx
 strict-transport-security: max-age=300
@@ -50,16 +50,17 @@ x-content-type-options: nosniff
 x-drupal-cache: HIT
 x-frame-options: SAMEORIGIN
 x-generator: Drupal 7 (http://drupal.org)
-x-pantheon-styx-hostname: styx-fe4-a-6c9ddd647d-dgw7n
-x-styx-req-id: 234102ed-84fd-11ef-807a-a2c2c43d6021
-date: Mon, 07 Oct 2024 23:33:41 GMT
-x-served-by: cache-chi-klot8100133-CHI, cache-iad-kcgs7200172-IAD
+x-pantheon-styx-hostname: styx-fe4-b-7f998d8f5-d6kgt
+x-styx-req-id: cce4877a-97f3-11ef-893c-6ae6a8918bbb
+date: Fri, 01 Nov 2024 02:02:44 GMT
+x-served-by: cache-chi-klot8100133-CHI, cache-iad-kiad7000160-IAD
 x-cache: HIT, HIT
-x-cache-hits: 5, 1
-x-timer: S1728344021.079151,VS0,VE5
+x-cache-hits: 3, 0
+x-timer: S1730426564.138011,VS0,VE28
 vary: Accept-Encoding, Cookie, Cookie, Cookie
-age: 118
+age: 3
 accept-ranges: bytes
 via: 1.1 varnish, 1.1 varnish
-content-length: 85591
+content-length: 83192
 
+Final-URL: https://www.utexas.edu/

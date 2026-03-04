@@ -1,0 +1,22 @@
+URL: http://cpanel.net
+Final URL: https://cpanel.net/
+Status Code: 200
+
+Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+cache-control: public, max-age=300
+expires: Fri, 01 Nov 2024 23:40:11 GMT
+content-type: text/html
+last-modified: Tue, 29 Oct 2024 14:48:01 GMT
+accept-ranges: bytes
+content-encoding: gzip
+vary: Accept-Encoding,User-Agent,User-Agent
+content-length: 11794
+date: Fri, 01 Nov 2024 23:35:11 GMT
+server: LiteSpeed
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

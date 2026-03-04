@@ -1,0 +1,20 @@
+URL: http://elmundo.es
+Final URL: https://www.elmundo.es/
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+Content-Length: 115291
+Content-Type: text/html; charset=iso-8859-15
+Content-Encoding: gzip
+Referrer-Policy: unsafe-url
+Cache-Control: s-maxage=60
+x-backend: CONTENT
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:35:38 GMT
+Age: 16
+X-Served-By: cache-ams2100138-AMS, cache-iad-kiad7000053-IAD
+X-Cache: HIT, HIT
+X-Cache-Hits: 4, 1
+X-Timer: S1730504138.084571,VS0,VE4
+Vary: Accept-Encoding, User-Agent

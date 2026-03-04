@@ -1,0 +1,22 @@
+URL: http://whitehouse.gov
+Final URL: https://www.whitehouse.gov/
+Status Code: 200
+
+Headers:
+Server: nginx
+Date: Fri, 01 Nov 2024 23:38:34 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Build-Back-Better: https://usds.gov/
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000;includeSubdomains;preload
+x-rq: dca6 96 185 443
+accept-ranges: bytes
+cache-control: max-age=300, must-revalidate
+x-cache: HIT

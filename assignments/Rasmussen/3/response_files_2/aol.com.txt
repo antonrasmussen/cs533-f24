@@ -1,0 +1,19 @@
+URL: http://aol.com
+Final URL: https://www.aol.com/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:34:54 GMT
+Content-Type: text/html; charset=utf-8
+Expect-CT: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Vary: Accept-Encoding
+content-security-policy: upgrade-insecure-requests; block-all-mixed-content; sandbox allow-modals allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;
+cache-control: no-cache, no-store, private, must-revalidate
+Age: 0
+Server: ATS
+Connection: keep-alive

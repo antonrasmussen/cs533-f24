@@ -1,0 +1,26 @@
+URL: http://justgiving.com
+Final URL: https://justgiving.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Last-Modified: Fri, 25 Oct 2024 13:09:25 GMT
+Content-Encoding: gzip
+x-amz-server-side-encryption: AES256
+x-amz-version-id: Q8Ao97TRzKC6J7OtCbtfGn0hWXe2nHoc
+Server: AmazonS3
+Date: Fri, 01 Nov 2024 23:36:30 GMT
+Cache-Control: public, max-age=60
+ETag: W/"55ebc441908c63a6d4b7887ecb377602"
+Vary: accept-encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 165ed32c12154887fba331169c8022ee.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD50-C2
+X-Amz-Cf-Id: 486LBeQkMG9tmokSDsMEuDBcQXHXsMgfndojkFeVw-KNt2C4E9iJ6w==
+Age: 2
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

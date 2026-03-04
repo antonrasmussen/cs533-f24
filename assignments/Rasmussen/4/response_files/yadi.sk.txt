@@ -1,0 +1,25 @@
+URL: https://yadi.sk
+Final URL: https://360.yandex.com/disk/
+Status Code: 200
+
+Headers:
+cache-control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+content-security-policy: default-src 'none'; script-src yastatic.net https://*.static-dev.mail.yandex.net/s3/psf/ 'unsafe-eval' 'nonce-b8u3/h/Qzh22dqpdSnCTHg==' 'self' 'unsafe-inline' mc.yandex.ru mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru yastatic.net; style-src yastatic.net https://*.static-dev.mail.yandex.net/s3/psf/ 'unsafe-inline' 'self' fonts.googleapis.com; font-src yastatic.net https://*.static-dev.mail.yandex.net/s3/psf/ fonts.gstatic.com; media-src yastatic.net https://*.static-dev.mail.yandex.net/s3/psf/ 'unsafe-inline' 'self' storage.yandexcloud.net storage.cloud-preprod.yandex.net s3.mds.yandex.net; img-src yastatic.net https://*.static-dev.mail.yandex.net/s3/psf/ 'self' data: blob: mc.yandex.ru mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru yastatic.net downloader.disk.yandex.com downloader.disk.yandex.net yandex.ru favicon.yandex.net storage.yandexcloud.net storage.cloud-preprod.yandex.net s3.mds.yandex.net yc-www-community-images.storage.yandexcloud.net avatars.mds.yandex.net *.storage.yandex.net *.disk.yandex.net; connect-src yandex.ru mc.yandex.ru mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru yandexmetrica.com:* 'self' api.passport.yandex.com mail.yandex.com https://pdd.yandex.ru:* https://pdd.yandex.com:* api-stable.dst.yandex.ru cloud-api.yandex.ru s3.mds.yandex.net yastatic.net https://*.static-dev.mail.yandex.net/s3/psf/; frame-src yastatic.net https://*.static-dev.mail.yandex.net/s3/psf/ 'self' blob: mc.yandex.ru forms.yandex.ru www.youtube.com yandex.com trust.yandex.com calendar.yandex.ru; child-src 'self' blob: mc.yandex.ru; base-uri 'self'; frame-ancestors 'self' https://*.webvisor.com https://metrika.yandex.com https://metrika.yandex.ru https://*.mail.yandex.com https://mail.yandex.com https://disk.yandex.com https://*.disk.yandex.com https://*.disk.dsp.yandex.com https://*.disk.dst.yandex.com https://*.disk-dev.dsd.yandex.com https://*.regtests.dsp.yandex.com https://disk.dst.yandex.com https://disk.dsp.yandex.com; report-uri https://csp.yandex.net/csp?from=tuning&project=tuning&yandex_login=&yandexuid=5394441981730350671;
+content-type: text/html; charset=utf-8
+date: Thu, 31 Oct 2024 04:57:51 GMT
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+pragma: no-cache
+set-cookie: _yasc=7xOezJzaWmJGBXzRBkGMfqlMgmn4tyvykm+9rWEaJdPRkRC3miiK103zoTs4H5kj; domain=.yandex.com; path=/; expires=Sun, 29 Oct 2034 04:57:51 GMT; secure,i=CnH4OVDrLZWLxDy+qleCOw4OmFJPcg3hYBzkPvElF8jFeQ2awNmPT9wsAwF94kScIxmFz7ZhIZvj6Ij4XY7VbQIXym8=; Expires=Sat, 31-Oct-2026 04:57:51 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly; SameSite=None,yandexuid=5394441981730350671; Expires=Sat, 31-Oct-2026 04:57:51 GMT; Domain=.yandex.com; Path=/; Secure; SameSite=None,yashr=3529083051730350671; Path=/; Domain=.yandex.com; Expires=Fri, 31 Oct 2025 04:57:51 GMT; SameSite=None; Secure; HttpOnly
+transfer-encoding: chunked
+vary: Accept-Encoding
+x-response-with: YMail
+
+Content Snippet (first 500 characters):
+
+        <!DOCTYPE html>
+        <html itemScope itemType="https://schema.org/WebPage" lang="en">
+            <head>
+                <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                <title data-react-helmet="true" itemprop="name">Yandex Disk</title>
+                <link rel="canonical" href="https://360.yandex.com/disk/" />
+                <link rel="stylesheet" href="https://yastatic.net/s3/psf/ps-tuning/disk-public-landing.f950883be43fc509b

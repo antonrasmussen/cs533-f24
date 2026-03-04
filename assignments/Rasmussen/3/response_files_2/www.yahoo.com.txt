@@ -1,0 +1,20 @@
+URL: http://www.yahoo.com
+Final URL: https://www.yahoo.com/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:38:37 GMT
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Cache-Control: no-store, no-cache, max-age=0, private
+Content-Type: text/html
+Content-Language: en
+Expires: -1
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Length: 12
+Age: 0
+Connection: keep-alive
+Content-Security-Policy: frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://cdn.taboola.com https://ads.taboola.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=US&lang=en-US&device=desktop&yrid=6o9nr8tivmg0j&partner=;

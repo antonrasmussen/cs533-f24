@@ -1,0 +1,21 @@
+URL: http://ovhcloud.com
+Final URL: https://us.ovhcloud.com/
+Status Code: 200
+
+Headers:
+server: nginx
+date: Fri, 01 Nov 2024 23:37:24 GMT
+content-type: text/html
+vary: Accept-Encoding
+x-frame-options: ORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+access-control-allow-origin: *
+x-toujours-debout-location: BHS
+x-toujours-debout-branch: B
+cache-control: public, must-revalidate, max-age=90, private
+content-encoding: gzip
+x-iplb-request-id: 0A6F301D:BC16_C063418B:01BB_67256634_13D55F:0569, 62B7DE60:C976_93870066:01BB_67256634_1C94AC35:31B1
+strict-transport-security: max-age=15768000
+x-iplb-instance: 58919
+set-cookie: SERVERID116590=411b079e|ZyVmN|ZyVmN; path=/; HttpOnly

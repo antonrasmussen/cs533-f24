@@ -1,0 +1,32 @@
+URL: https://gsmarena.com
+Final URL: https://www.gsmarena.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:48 GMT
+server: Apache
+upgrade: h2
+connection: Upgrade, Keep-Alive
+x-powered-by: PHP/7.4.33
+vary: Accept-Encoding
+content-security-policy: frame-ancestors 'self' *.gsmarena.com;
+content-length: 14409
+keep-alive: timeout=15, max=100
+content-type: text/html; charset=utf-8
+
+Content Snippet (first 500 characters):
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>GSMArena.com - mobile phone reviews, news, specifications and more...</title>
+<script>
+DESKTOP_BASE_URL = "https://www.gsmarena.com/";
+MOBILE_BASE_URL = "https://m.gsmarena.com/";
+ASSETS_BASE_URL  = "https://fdn.gsmarena.com/vv/assets12/";
+CDN_BASE_URL = "//fdn.gsmarena.com/";
+CDN2_BASE_URL = "//fdn2.gsmarena.com/";
+</script>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content

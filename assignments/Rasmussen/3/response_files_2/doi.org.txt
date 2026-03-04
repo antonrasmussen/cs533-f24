@@ -1,0 +1,20 @@
+URL: http://doi.org
+Final URL: https://www.doi.org/
+Status Code: 200
+
+Headers:
+Content-Type: text/html
+Content-Length: 6951
+Connection: keep-alive
+Date: Fri, 01 Nov 2024 23:35:14 GMT
+Last-Modified: Tue, 17 Sep 2024 17:33:27 GMT
+ETag: "40ca3249393c605326f122c98984af8a"
+x-amz-server-side-encryption: AES256
+x-amz-meta-md5chksum: 40ca3249393c605326f122c98984af8a
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 6946167499a4b8f515865d62f0b0b284.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD61-P1
+X-Amz-Cf-Id: aqTuN65LGKkyII-flPI5ty93e8FkU2HlZZrY2uWXgbx74M8-IVu55w==

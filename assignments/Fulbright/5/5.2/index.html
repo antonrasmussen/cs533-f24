@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+     <html>
+       <head>
+         <meta charset="utf-8">
+         <title>Hello, world!</title>
+       </head>
+       <body>
+        This is a landing page
+        <script>
+            const url = "http://localhost:4001";
+            fetch(url).then((response) => {
+              console.log(response.headers.get('x-cs533f24-all-good-things'));
+              console.log(response.headers.get('X-CS533f24-Aviators'));
+              console.log(response.headers.get('X-CS533f24-Williams'));
+              console.log(response.headers.get('X-CS533f24-Loki'));
+            })
+        </script>
+       </body>
+     </html>

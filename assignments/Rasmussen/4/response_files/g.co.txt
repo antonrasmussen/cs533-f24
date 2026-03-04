@@ -1,0 +1,40 @@
+URL: https://g.co
+Final URL: https://g.co/
+Status Code: 200
+
+Headers:
+accept-ranges: bytes
+vary: Accept-Encoding
+content-type: text/html
+content-security-policy-report-only: script-src 'nonce-UB02Gt2pliblRq30Lsxl6g' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/static-on-bigtable; base-uri 'none'
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy-report-only: same-origin; report-to="static-on-bigtable"
+report-to: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}
+date: Thu, 31 Oct 2024 04:57:43 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+last-modified: Tue, 17 Sep 2024 03:08:00 GMT
+strict-transport-security: max-age=31536000; preload
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+transfer-encoding: chunked
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html class="google mmfb" lang="en">
+  <head>
+
+    <script nonce="UB02Gt2pliblRq30Lsxl6g">
+(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <title>
+      g.co
+    </title>
+    <script src="//www.google.com/js/gweb/analytics/autotrack.js" nonce="UB02Gt2pliblRq30Lsxl6g">
+</script>
+    <script nonce="

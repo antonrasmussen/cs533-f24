@@ -1,0 +1,16 @@
+URL: http://hp.com
+Final URL: https://www.hp.com/us-en/home.html
+Status Code: 503
+
+Headers:
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 280
+Expires: Fri, 01 Nov 2024 23:36:16 GMT
+Date: Fri, 01 Nov 2024 23:36:16 GMT
+Connection: keep-alive
+Set-Cookie: aka_client_code=US-, _abck=8224E4211638F5E19DA3A32163B34415~-1~YAAQUd/aFxGcf+mSAQAAkDEW6gxFz8Xg5ZBpdG5oi+6rFep/5dOVmn5HukoDhFgMc8++e6J59njhgK5iaosIin4a1deMpa71UK7L5yxSrU8exFLd99BeXoyrXiz6mQQQbTMRaP4SREt78WdZfYScdfuTLuoftC2JMHTqr8+jWnsZJHaNSp0mJe74VV25Yp02U7VdG1Y+HkyRg3NHKvTlGZaklnPWp63J1LRdCuYEd4IrcSUD4SghSdWg6KZuukbJSBOc17Cato7Tqcl16ewhrGxjFBN+C6vC5BPI8we1SeOS5hQM42fDWBc3O3fdZM4nmRiN3otCtDiCZ75uNbHaC03tf5A2q1voF3RbIP8hVmCxTRmznjh0gfL3CKM3PCMzffRYgFDzykx77j6VLTD6qBTM5QXXIC7S+A==~-1~-1~-1; Domain=.hp.com; Path=/; Expires=Sat, 01 Nov 2025 23:36:16 GMT; Max-Age=31536000; Secure, bm_sz=5DACC0673AD5100172F533D679903376~YAAQUd/aFxKcf+mSAQAAkDEW6hkG9hbXflXUMPan7ljSD7hgQxwwrjxFvpppohCxeQbRW6sDtXJ99XjKjZHc5zrc9ujI5XKtCcqgR692wIWJLUO54CJCJoA4UVCTCihx3bvlxkJhHqSY5Ra2rGDT/lNvpLrSTSIOE6Bk8pkgGrnv0vH6VTd18GohuxQR/0Co7dGmch6BeArWichlVKbvm1uK8azKpcaJm/FGtU9kSWbEuyEDojbqBQL9SsLgwgiiGGoKyBTRItx7tJYCmGGXZ74uDqI81MIWW8v+svvBLV7gicKbbg8FFWSdbZWh20CTL6H8VPxF6fCSSqTKwAPt/oQ87yM6JJr+yOgKRatr1IfanI25s+7pFMaqy0OtXY0Y532UeQ==~3425841~3687219; Domain=.hp.com; Path=/; Expires=Sat, 02 Nov 2024 03:36:16 GMT; Max-Age=14400
+Strict-Transport-Security: max-age=600
+Akamai-GRN: 0.51dfda17.1730504176.1d5b871
+Server-Timing: ak_p; desc="1730504175977_400219985_30783601_30_10191_18_22_-";dur=1

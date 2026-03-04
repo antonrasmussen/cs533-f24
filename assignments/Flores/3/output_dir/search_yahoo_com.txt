@@ -1,5 +1,5 @@
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 07 Oct 2024 23:33:30 GMT
+Date: Fri, 01 Nov 2024 02:02:33 GMT
 Connection: close
 Server: ATS
 X-Content-Type-Options: nosniff
@@ -10,15 +10,15 @@ Content-Length: 25
 Content-Type: text/html
 
 HTTP/2 200 
-date: Mon, 07 Oct 2024 23:33:31 GMT
+date: Fri, 01 Nov 2024 02:02:33 GMT
 p3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
-set-cookie: PROMO=ono_sc=1&ono_fts=1728344011&ltv_pid=&ltv_new=1&ltv_ts=1728344011&ltv_sts=1728344011&ltv_c=1; expires=Tue, 07-Oct-2025 23:33:31 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com
+set-cookie: PROMO=ono_sc=1&ono_fts=1730426553&ltv_pid=&ltv_new=1&ltv_ts=1730426553&ltv_sts=1730426553&ltv_c=1; expires=Sat, 01-Nov-2025 02:02:33 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com
 secure_search_bypass: true
 x-frame-options: DENY
-content-security-policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-+/RaLmbEYgXIq6acmXJBNA==' 'unsafe-eval' https://*.yahoo.net https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com https://*.hereapi.com https://*.youtube.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://assets.video.yahoo.net https://*.yimg.com; img-src 'self' data: blob: https://*.aol.com https://s.aolcdn.com https://*.bing.net https://*.yimg.com https://s.ytimg.com yahoo.com https://*.yahoo.com https://*.bing.com https://bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com https://*.adaptv.advertising.com https://*.vidible.tv https://*.yahoo.net https://*.footprint.net https://*.akamaized.net https://*.cloudfront.net https://*.llnwd.net; frame-src 'self' https://*.yahoo.net https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com https://*.vidible.tv https://*.advertising.com https://fun.games.com/ https://interactives.ap.org; media-src * blob:; object-src *; connect-src * blob:; font-src * data:; child-src blob:;
+content-security-policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-Sr5u8mBW8duZaRiVqfgSkw==' 'unsafe-eval' https://*.yahoo.net https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com https://*.hereapi.com https://*.youtube.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://assets.video.yahoo.net https://*.yimg.com; img-src 'self' data: blob: https://*.aol.com https://s.aolcdn.com https://*.bing.net https://*.yimg.com https://s.ytimg.com yahoo.com https://*.yahoo.com https://*.bing.com https://bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com https://*.adaptv.advertising.com https://*.vidible.tv https://*.yahoo.net https://*.footprint.net https://*.akamaized.net https://*.cloudfront.net https://*.llnwd.net; frame-src 'self' https://*.yahoo.net https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com https://*.vidible.tv https://*.advertising.com https://fun.games.com/ https://interactives.ap.org; media-src * blob:; object-src *; connect-src * blob:; font-src * data:; child-src blob:;
 cache-control: private
 content-type: text/html; charset=UTF-8
-x-envoy-upstream-service-time: 27
+x-envoy-upstream-service-time: 39
 server: ATS
 age: 0
 strict-transport-security: max-age=31536000
@@ -26,3 +26,4 @@ x-content-type-options: nosniff
 x-xss-protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
 referrer-policy: no-referrer-when-downgrade
 
+Final-URL: https://search.yahoo.com/

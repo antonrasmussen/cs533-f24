@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 5.1, CS533 Web Security, Fall 2024</title>
+</head>
+<body>
+  <h1>CORS: Blocking and reading responses from another origin</h1>
+  <button id="fetchData">Fetch Data from Data Server</button>
+
+  <script>
+    document.getElementById('fetchData').addEventListener('click', () => {
+      fetch('http://localhost:4201/data.json')
+        .then(response => response.json())
+        .then(data => {
+          console.log('Data received:', data);
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    });
+  </script>
+</body>
+</html>

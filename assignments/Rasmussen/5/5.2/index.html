@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 5.2, CS533 Web Security, Fall 2024</title>
+</head>
+<body>
+  <h1>CORS: Blocking and reading HTTP response headers from another origin </h1>
+  <button id="fetchData">Fetch Data</button>
+  
+  <div id="output"></div>
+
+  <script>
+    document.getElementById('fetchData').addEventListener('click', () => {
+      fetch('http://localhost:3001/data.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+
+          // Read custom headers
+          const drums = response.headers.get('X-CS533f24-drums');
+          const comedy = response.headers.get('X-CS533f24-comedy');
+          const music = response.headers.get('X-CS533f24-music');
+          const videogames = response.headers.get('X-CS533f24-videogames');
+
+          console.log('X-CS533f24-drums:', drums);
+          console.log('X-CS533f24-comedy:', comedy);
+          console.log('X-CS533f24-music:', music);
+          console.log('X-CS533f24-videogames:', videogames);
+
+          return response.json();
+        })
+        .then(data => {
+          console.log('Data received:', data);
+          const outputDiv = document.getElementById('output');
+          outputDiv.innerHTML = `
+            <p><strong>Drums:</strong> ${data.drums}</p>
+            <p><strong>Comedy:</strong> ${data.comedy}</p>
+            <p><strong>Music:</strong> ${data.music}</p>
+            <p><strong>Videogame:</strong> ${data.videogame}</p>
+          `;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+          const outputDiv = document.getElementById('output');
+          outputDiv.innerHTML = `<p style="color:red;">Error fetching data: ${error.message}</p>`;
+        });
+    });
+  </script>
+</body>
+</html>

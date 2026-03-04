@@ -1,0 +1,28 @@
+URL: https://ign.com
+Final URL: https://www.ign.com/
+Status Code: 200
+
+Headers:
+connection: keep-alive
+content-length: 51012
+content-type: text/html; charset=utf-8
+etag: "8cuo816jl56pbx"
+cache-control: max-age=10
+x-ua: desktop
+x-hash: authfalse:
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:47 GMT
+age: 28
+x-served-by: cache-iad-kiad7000099-IAD, cache-iad-kjyo7100026-IAD
+x-cache: MISS, HIT
+x-cache-hits: 0, 1
+x-timer: S1730350667.157923,VS0,VE1
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT
+access-control-allow-headers: Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Authorization
+vary: Accept-Encoding
+set-cookie: geoCC=US; path=/
+strict-transport-security: max-age=300
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="en" data-build-id="fcTQeVnlVDKzN7_jz-r_w" data-kraken-env="production" data-release="v0.78.0"><head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# fb: http://www.facebook.com/2008/fbml"><meta charSet="utf-8"/><title>Video Game News, Reviews, and Walkthroughs - IGN</title><meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/><meta name="theme-color" content="#BF1313"/><meta name="description" content="IGN is your #1

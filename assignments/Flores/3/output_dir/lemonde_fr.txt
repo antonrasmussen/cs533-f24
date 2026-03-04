@@ -4,34 +4,35 @@ Content-Length: 0
 Server: Varnish
 Retry-After: 0
 Accept-Ranges: bytes
-Date: Mon, 07 Oct 2024 23:33:20 GMT
+Date: Fri, 01 Nov 2024 02:02:07 GMT
 Via: 1.1 varnish
-X-Served-By: cache-iad-kcgs7200064-IAD
+X-Served-By: cache-iad-kjyo7100142-IAD
 X-Cache: MISS
 X-Cache-Hits: 0
-X-Timer: S1728344000.112241,VS0,VE0
+X-Timer: S1730426528.965767,VS0,VE0
 Location: https://www.lemonde.fr/
 
 HTTP/2 200 
-expires: Mon, 07 Oct 2024 23:33:28 GMT
-content-type: text/html;charset=UTF-8
-x-frame-options: SAMEORIGIN
-last-modified: Mon, 07 Oct 2024 23:32:28 GMT
-cache-control: public, max-age=60
-content-security-policy: default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss:; media-src https: blob:; object-src https:; child-src https: data: blob:; form-action https:; block-all-mixed-content;
+last-modified: Fri, 01 Nov 2024 02:02:01 GMT
 x-xss-protection: 1; mode=block
-via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+content-security-policy: default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss:; media-src https: blob: data:; object-src https:; child-src https: data: blob:; form-action https:; block-all-mixed-content;
 x-content-type-options: nosniff
+expires: Fri, 01 Nov 2024 02:03:01 GMT
+cache-control: public, max-age=60
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+x-frame-options: SAMEORIGIN
+content-type: text/html;charset=UTF-8
 accept-ranges: bytes
-age: 52
+age: 7
 set-cookie: lmd_a_c=0; Path=/; Domain=.lemonde.fr; Expires=Thu, 01 Jan 1970 00:00:00 GMT
-date: Mon, 07 Oct 2024 23:33:20 GMT
-x-served-by: cache-par-lfpg1960085-PAR, cache-par-lfpg1960091-PAR, cache-iad-kcgs7200071-IAD
+date: Fri, 01 Nov 2024 02:02:08 GMT
+x-served-by: cache-par-lfpg1960093-PAR, cache-par-lfpg1960034-PAR, cache-iad-kiad7000112-IAD
 x-cache: MISS, HIT, MISS
-x-cache-hits: 0, 6, 0
-x-timer: S1728344000.161273,VS0,VE84
+x-cache-hits: 0, 3, 0
+x-timer: S1730426528.137687,VS0,VE82
 vary: Accept-Encoding, X-device
 set-cookie: lmd_a_c=0; Path=/; Domain=.lemonde.fr; Expires=Thu, 01 Jan 1970 00:00:00 GMT
 strict-transport-security: max-age=31557600
-content-length: 333550
+content-length: 163942
 
+Final-URL: https://www.lemonde.fr/

@@ -1,45 +1,47 @@
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 07 Oct 2024 23:33:41 GMT
+Date: Fri, 01 Nov 2024 02:02:44 GMT
 Server: Apache
 Location: https://www.webmd.com/
 Content-Type: text/html; charset=iso-8859-1
 Set-Cookie: BIGipServerredirects.ma1.webmd.com-80=1897078026.20992.0000; path=/; Httponly
 
 HTTP/2 200 
-date: Mon, 07 Oct 2024 23:33:41 GMT
+date: Fri, 01 Nov 2024 02:02:44 GMT
 content-type: text/html
 cf-cache-status: HIT
 access-control-allow-origin: *
-age: 90
+age: 72
 cache-control: no-cache, no-store, must-revalidate
-set-cookie: lrt_wrk=lrt1_cached_k8_worker_4_16R_3W_2024-09-12_14:42:13_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr_null_config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1728344021556_hvid_false; domain=webmd.com; path=/
+set-cookie: lrt_wrk=lrt1_cached_k8_worker_4_19R_3W_2024-10-10_14:17:11_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr_null_config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1730426564772_hvid_false; domain=webmd.com; path=/
 cf-edge-cache-control: s-maxage=119, maxage=10, proxy-revalidate, stale-while-revalidate=30
-cf-wrk: lrt1_cached_k8_worker_4_16R_3W_2024-09-12_14:42:13_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr_null_config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1728344021556
+cf-wrk: lrt1_cached_k8_worker_4_19R_3W_2024-10-10_14:17:11_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr_null_config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1730426564772
 content-security-policy: upgrade-insecure-requests
 x-backend: default
 x-backend-by: default
 x-cache: HIT
 x-cache-control-by: override
 x-cache-duration: 0.083333333333333h
-x-cache-expiry: Monday, 07-Oct-2024 23:35:47 GMT
+x-cache-expiry: Friday, 01-Nov-2024 02:01:22 GMT
 x-cache-reason: routing
-x-cache-time: Monday, 07-Oct-2024 23:30:48 GMT
+x-cache-time: Friday, 01-Nov-2024 01:56:22 GMT
 x-datacenter: MA1
-x-dbg-gt: gtinfo={"ct":"New York","c":"New York","cc":"36061","st":"NY","sc":"33","z":"10014","lat":"40.73","lon":"-74.01","dma":"501","cntr":"usa","cntrc":"840","tz":null,"ci":"98.158.201.2"}
+x-dbg-gt: gtinfo={"ct":null,"c":null,"cc":null,"st":null,"sc":null,"z":null,"lat":"40.41720","lon":"-3.68400","dma":null,"cntr":"ESP","cntrc":"724","tz":"Europe/Madrid","ci":"81.46.247.95","debug":"Cloudflare"}
 x-edge-cache-duration: 0.033333333333333h
-x-edge-cache-expiry: Monday, 07-Oct-2024 23:32:47 GMT
+x-edge-cache-expiry: Friday, 01-Nov-2024 01:58:22 GMT
 x-gt-setter: usr
 x-redis: redis_server_2
 x-route: pg
 x-route-akamai: N/A
 x-runtime: new
-x-true-client-ip: 128.82.16.2
-set-cookie: gtinfo={"ct":"Norfolk","c":"Norfolk City","cc":"51710","st":"VA","sc":"47","z":"23529","lat":"36.88","lon":"-76.31","dma":"544","cntr":"usa","cntrc":"840","tz":null,"ci":"128.82.16.2"}; domain=webmd.com; path=/
-set-cookie: VisitorId=79ea49e9-5404-4bfb-4c45-ffd4bedd8bb8; Expires=Sat, 07 Oct 2034 23:33:41 GMT; domain=webmd.com; path=/
+x-true-client-ip: 98.166.237.183
+set-cookie: gtinfo={"ct":"Chesapeake","c":"Chesapeake City","cc":"51550","st":"VA","sc":"47","z":"23320","lat":"36.74","lon":"-76.23","dma":"544","cntr":"usa","cntrc":"840","tz":null,"ci":"98.166.237.183"}; domain=webmd.com; path=/
+set-cookie: VisitorId=736b65cb-1c91-4fc6-0fad-badf21a55989; Expires=Wed, 01 Nov 2034 02:02:44 GMT; domain=webmd.com; path=/
 set-cookie: ab=default; domain=.webmd.com; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT
-set-cookie: __cf_bm=Jv0DrFOQzBhOtZ_H8ZyJaaGTLXqd8ddgsgEO557dnDY-1728344021-1.0.1.1-q9_0xid38ScQqCimMJ0t5q1sZcQ95dkqwaIvoSdrFEZt6U4z629eJWg7PC.fG8OOxmtbfc3u1ko2442wkyWgMw; path=/; expires=Tue, 08-Oct-24 00:03:41 GMT; domain=.www.webmd.com; HttpOnly; Secure; SameSite=None
-report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ns8cXEAUZML7VupUda0Kthg5JunNiQ%2Bmqa7neyhTIvy44rmg%2B4laeilPyrPMGULgdt8vKiHo2UFci5QwnOlorEy77luGjDMFrvOMI%2BVeLRqkUOJYKscroCZVAYLs72E%3D"}],"group":"cf-nel","max_age":604800}
+set-cookie: __cf_bm=KsRa61WDNtdLs.bR03PH8dvddxOz_CsfshC9vMt0RY4-1730426564-1.0.1.1-38cdtlcS4poe7H.wFhYnQDa7YINh8HVkn8rWltQK_fpmFj7PphMfk7eoeOaPMXi6L2eEa7Pm_g_bBg3SvOm_1Q; path=/; expires=Fri, 01-Nov-24 02:32:44 GMT; domain=.www.webmd.com; HttpOnly; Secure; SameSite=None
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=OeJAO9i0TEcQlbD5A7WbxvdEZKowZzjoaG0zNpSz8uYyH%2FLCfTK6cZURBx%2FLnEd2iZkrEWod4WIudmRbol8IFx96yTO0%2F8VKd5Cy5iVM%2Fm26FEyGNMxkiIvprDZ4VVI%3D"}],"group":"cf-nel","max_age":604800}
 nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
 server: cloudflare
-cf-ray: 8cf1b2962a787c81-EWR
+cf-ray: 8db84ded6ad94fe8-ORF
+alt-svc: h3=":443"; ma=86400
 
+Final-URL: https://www.webmd.com/

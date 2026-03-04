@@ -1,0 +1,22 @@
+URL: http://news.com.au
+Final URL: https://www.news.com.au/
+Status Code: 403
+
+Headers:
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Length: 1328
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+Expires: 0, Fri, 01 Nov 2024 23:37:19 GMT
+Content-Type: text/html
+Date: Fri, 01 Nov 2024 23:37:19 GMT
+Connection: keep-alive
+Content-Security-Policy-Report-Only: frame-ancestors 'self'; report-uri https://www.news.com.au/csp-reports
+Content-Security-Policy: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+X-ARRRG5: /blaize/decision-engine?path=http%3a%2f%2fwww.news.com.au%2f&blaizehost=cdn.news.newscorp.blaize.io&content_id=
+X-ARRRG4: 
+X-PathQS: TRUE
+X-R: GIYDUUZ2IZAUYU2FHJKFGTSTFUYTKNJQHJXHK3DMHJSGKZTBOVWHIOSSKM5EIORRFU4TOOSBHI4TQLJZHA5EEORZHEWTSOJ2IM5DCMBQFUYTAMB2JA5EMQKMKNCTUVCTJZEC2MJVGUYDU3TVNRWDUZDFMZQXK3DUHJJEQOSEHIYS2OJXHJATUOJYFU4TQOSCHI4TSLJZHE5EGORRGAYC2MJQGA5DCNZTGA2TANBSGM4Q
+Vary: User-Agent
+Akamai-GRN: 0.ce070f17.1730504239.8ae4bf6

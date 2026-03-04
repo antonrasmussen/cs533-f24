@@ -1,0 +1,69 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 01 Nov 2024 02:01:49 GMT
+Content-Type: text/html
+Content-Length: 357
+Connection: keep-alive
+Location: https://aliexpress.com/
+Server: Tengine/Aserver
+EagleEye-TraceId: 2151e66217304265092951263e38ed
+Timing-Allow-Origin: *
+
+HTTP/2 301 
+date: Fri, 01 Nov 2024 02:01:50 GMT
+content-type: text/html
+content-length: 357
+location: https://www.aliexpress.com/
+via: global-aserver033081230098.sg52[web,301]
+server: Tengine/Aserver
+eagleeye-traceid: 2151e66217304265103986319e390e
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+
+HTTP/2 302 
+content-type: text/html
+content-length: 337
+p3p: CP="CAO PSA OUR"
+location: https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US
+access-control-allow-origin: https://hz.aliexpress.com
+server: Tengine/Aserver
+eagleeye-traceid: 2101ec1a17304265106335304eea9d
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+date: Fri, 01 Nov 2024 02:01:50 GMT
+set-cookie: ali_apache_id=33.1.236.26.1730426510637.136945.4; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+set-cookie: xman_us_f=x_locale=en_US&x_l=0&x_c_chg=1&acs_rt=c32eec20e5004bd5b162ced1052a3a70; Domain=.aliexpress.com; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/
+set-cookie: acs_usuc_t=x_csrf=ujcnthcay6i2&acs_rt=c32eec20e5004bd5b162ced1052a3a70; Domain=.aliexpress.com; Path=/
+set-cookie: intl_locale=en_US; Domain=.aliexpress.com; Path=/
+set-cookie: aep_usuc_f=site=usa&c_tp=USD&region=US&b_locale=en_US; Domain=.aliexpress.com; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/
+set-cookie: xman_t=gKSzjPhoc4TZlqvmcoYMWKDduAvMLMR4Ulgs18tNu6Dyigc0rHzWYB5oGlWAgPCd; Domain=.aliexpress.com; Expires=Thu, 30-Jan-2025 02:01:50 GMT; Path=/; HttpOnly
+set-cookie: intl_common_forever=yHQNdFvmtVQQ0MLXDMPvruGgoAZYsHdAOq9sJhJkgVeimnWe2WIVtg==; Domain=.aliexpress.com; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/; HttpOnly
+set-cookie: xman_f=63/jIt39a7Q2LNLUrZPfN7a/jVy7tncyY6FzBkF8fMCkfL1IVTcWwCiu10cWDCQi/HeOUtWJ9FQ9L1HJxJxU/Wrjqap+N60MqaL9eUoA3yzvvPu8EnyFfQ==; Domain=.aliexpress.com; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/; HttpOnly
+x-akamai-fwd-auth-sha: 17A99A5DED7DC066BE2BC9485983A3E6BB235B1631D1A26076B2598EF0448105
+x-akamai-fwd-auth-data: 1177217417, 23.220.107.139, 1730426510, 98.166.237.183
+x-akamai-fwd-auth-sign: p5YD0nALvUICCT7bmTirZOKSLYL2tBSV+xDJxiYwr39Fp3jkcQPcjDElNLlj14Rxsx0uUxHUYRYZJc+ZH54asMQKXikimWABrVIqmuaAcyU=
+server-timing: ak_p; desc="1730426510599_400321419_1096508632_1501_8155_17_24_15";dur=1
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+p3p: CP="CAO PSA OUR"
+x-application-context: ae-fn-gateway-f:7001
+access-control-allow-origin: https://hz.aliexpress.com
+server: Tengine/Aserver
+eagleeye-traceid: 2103241117304265107671479ed4a8
+strict-transport-security: max-age=31536000
+timing-allow-origin: *
+date: Fri, 01 Nov 2024 02:01:51 GMT
+set-cookie: ali_apache_id=33.3.36.17.1730426510773.136957.4; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+set-cookie: intl_common_forever=c1IhCaTLLjiFYiWkIXCuUKiJ8Mq4H+9c9ZwEMdxatxQ402vmJCkL9A==; Domain=.aliexpress.us; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/; HttpOnly
+set-cookie: intl_locale=en_US; Domain=.aliexpress.us; Path=/
+set-cookie: xman_us_f=x_locale=en_US&x_l=0&x_c_chg=1; Domain=.aliexpress.us; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/
+set-cookie: xman_f=Qebk80bsF8bvmp/Uxv+DS4wtcZSnueAhU7jZtpj/NfkBtmygV1q4jRhj6OhGzb1c; Domain=.aliexpress.us; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/; HttpOnly
+set-cookie: acs_usuc_t=x_csrf=2ax79zm6jytv&acs_rt=ffe91268b94d4f35ad3b13ed5ca5726f; Domain=.aliexpress.us; Path=/
+set-cookie: xman_t=FYL0MpVgtMP2nSW52C8NKqwuKGDjCPZWnvLJg+a5ti6RoTOh4kO/V9k12koz0wbC; Domain=.aliexpress.us; Expires=Thu, 30-Jan-2025 02:01:50 GMT; Path=/; HttpOnly
+set-cookie: aep_usuc_f=site=usa&c_tp=USD&region=US&b_locale=en_US; Domain=.aliexpress.us; Expires=Wed, 19-Nov-2092 05:15:57 GMT; Path=/
+x-akamai-fwd-auth-sha: 3B6E77D954C5F36FF77AEE2576EB4A5D6A0216C76FE8E9E009E6E175FBF387AA
+x-akamai-fwd-auth-data: 1491933077, 23.220.107.139, 1730426511, 98.166.237.183
+x-akamai-fwd-auth-sign: 59i0BLQw9WD5BQhRzxl6EdPdNDNzIu/jcM+daIs/fw9vcG7Sb+bl+jgEeMonv3kJljy1ZgYUWbiytRIvY48LCHd3l/0+Q0EUwzqKzLeyR/U=
+server-timing: ak_p; desc="1730426510725_400321419_1096508899_77015_10516_18_30_15";dur=1
+
+Final-URL: https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US

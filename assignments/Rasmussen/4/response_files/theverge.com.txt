@@ -1,0 +1,25 @@
+URL: https://theverge.com
+Final URL: https://www.theverge.com/
+Status Code: 200
+
+Headers:
+connection: keep-alive
+content-length: 62447
+content-type: text/html; charset=utf-8
+content-security-policy: frame-ancestors https://voxmedia.stories.usechorus.com 'self'
+etag: "wky59qjd54jdt6"
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:49 GMT
+via: 1.1 varnish
+age: 1664
+x-served-by: cache-iad-kjyo7100087-IAD
+x-cache: HIT
+x-cache-hits: 22
+x-timer: S1730350669.013638,VS0,VE0
+set-cookie: _vm_consent_type=opt-out; expires=Fri, 01 Nov 2024 04:57:49 GMT; path=/;,_chorus_geoip_continent=NA; expires=Fri, 01 Nov 2024 04:57:49 GMT; path=/;,vmidv1=c4d56ca6-0996-4a89-bca6-a1cd17e13659;Expires=Tue, 30 Oct 2029 04:57:49 GMT;Domain=theverge.com;Path=/;SameSite=Lax;Secure
+vary: Accept-Encoding, X-Vox-Duet-Beta-Cookie, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region
+cache-control: no-store,private
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="description" content="The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts."/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@verge"/><meta property="fb:app_id" content="549923288395304"/><meta property="og:descript

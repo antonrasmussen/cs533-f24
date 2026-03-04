@@ -1,0 +1,13 @@
+URL: http://zippyshare.com
+Final URL: http://zippyshare.com/
+Status Code: 200
+
+Headers:
+Server: nginx/1.10.3 (Ubuntu)
+Date: Fri, 01 Nov 2024 23:38:42 GMT
+Content-Type: text/html
+Content-Length: 4771
+Last-Modified: Thu, 25 May 2023 21:37:27 GMT
+Connection: keep-alive
+ETag: "646fd517-12a3"
+Accept-Ranges: bytes

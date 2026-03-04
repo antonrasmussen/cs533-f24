@@ -106,20 +106,20 @@ his course materials (although any errors are mine).
 
 * Week 11 - Local HTTP Server Security
     * [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://infosecwriteups.com/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
-    * [Class slides](https://docs.google.com/presentation/d/1onYeg9tRDaSFWs_bMqcUSwwzeoIfZGeBgZ34GZYeFbY/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1bY4q_uOauOXA65IcwxBpJmCCwUvcQQUh78kdp3l9JmU/edit)
 
 * Week 12 - DNS rebinding attacks
     * [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)
     * [Protecting Browsers from DNS Rebinding Attacks](https://crypto.stanford.edu/dns/dns-rebinding.pdf)
-    * [Class slides](https://docs.google.com/presentation/d/1sdp10RkKxUyqTtoDH4--UmKTPHQv8jSWu76EATDivhI/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1yH2gE2jwMF-ySg44qflwttsHh7rqFKepfdokYuySGS0/edit)
 
-* Week 13 - Thanksgiving -- no classes
-
-* Week 14 - UI Denial-of-service, Phishing, Side Channels
+* Week 13 - UI Denial-of-service, Phishing, Side Channels
     * [The Annoying Site](https://github.com/feross/theannoyingsite.com)
     * [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/)
     * [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/)
-    * [Class slides](https://docs.google.com/presentation/d/1tFVuMX7r1FDp4ogX1y5hQilBKxfn40hIhB4dQW4Tizc/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1yLOAAMgyweGspggK9R7ZlDBH11G7VRu5yT19QOgPYAA/edit)
+
+* Week 14 - Thanksgiving -- no classes
 
 * Week 15 - Rehosting, Web Archiving
     * [Rewriting History: Changing the Archived Web from the Present](https://rewritinghistory.cs.washington.edu/) ([slides](slides/Lerner-ACM-CCS-2017.pdf), [video](https://www.youtube.com/watch?v=Pn65m3l0Zw8), [DSHR blog post](https://blog.dshr.org/2017/09/attacking-users-of-wayback-machine.html))
@@ -145,10 +145,10 @@ his course materials (although any errors are mine).
    * [Due: November 1](/assignments/assignment-4.md)
 
 * Assignment 5: Same-origin Policy, CORS, CSP
-   * [Due: November 15](/assignments/assignment-5.md)
+   * [Due: November 22](/assignments/assignment-5.md)
 
 * Assignment 6: Fingerprinting
-   * Due: [November 29](/assignments/assignment-6.md)
+   * Due: [December 2](/assignments/assignment-6.md)
 
 * Assignment 7: Phishing
    * Due: [December 13](/assignments/assignment-7.md)

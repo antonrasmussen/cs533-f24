@@ -1,0 +1,26 @@
+URL: https://com.com
+Final URL: https://com.com/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:43 GMT
+content-type: text/html; charset=UTF-8
+transfer-encoding: chunked
+connection: keep-alive
+set-cookie: XYZSRV=wtc2-a-4; path=/
+cf-cache-status: DYNAMIC
+vary: accept-encoding
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=NzQjHQ8wFak3tUAbbRwlGDoZcvgltn7jAhNtji3yVX0nLf5zTEutYwrEFTYnunI7ZRA%2FJVw%2F9EHhVw9YmAYRa5D4ykCNHFq2QNNL35LkuzvBbenYw8UZR%2Fh9HdPCOyCpWvA47Rs%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 8db110df3a95d68b-IAD
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>com.com - owned and operated since 1995</title>
+	<style>
+		/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progr

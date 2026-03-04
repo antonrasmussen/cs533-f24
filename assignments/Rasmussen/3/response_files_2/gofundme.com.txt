@@ -1,0 +1,21 @@
+URL: http://gofundme.com
+Final URL: https://www.gofundme.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Date: Fri, 01 Nov 2024 23:35:06 GMT
+Server: nginx
+Set-Cookie: visitor={"locale":"en_US","shimLocale":"en_US","country":"US"}; path=/; domain=.gofundme.com
+Cache-Control: max-age=120, s-maxage=120, stale-while-revalidate=3600, stale-if-error=86400
+ETag: "16w16dzximqgz3m"
+Content-Encoding: gzip
+Content-Security-Policy-Report-Only: frame-ancestors gofundme.com *.gofundme.com *.hopin.com;
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 3d0c14144ce4a7fd9b3fd5f94407ec7e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD61-P4
+X-Amz-Cf-Id: r6N0B6a120S289789UE1lFxkEaSeI93JGhCYZ_2dgfInX4tzxJN9ng==
+Age: 57

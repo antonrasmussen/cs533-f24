@@ -1,0 +1,25 @@
+URL: https://playstation.com
+Final URL: https://www.playstation.com/en-us/
+Status Code: 200
+
+Headers:
+server: Apache
+content-type: text/html;charset=utf-8
+set-cookie: country=US; expires=Thu, 31-Oct-2024 16:57:50 GMT; path=/; secure,sbsd_ss=ab8e18ef4e; Secure; SameSite=None; Domain=.playstation.com; Path=/; HttpOnly; Max-Age=3600,sbsd=sUPB37lbZqdPZS5dAVRZJDcEpkaTMZuYug8/dcOd3RzAviK/3wSAeuOWr4VIpX7gL+JM7CABYFLm+yYEI4N/ShXDt+KmHEEzzt/5nzvywgrkS8kqhLO//J79aF0dZnoo1V/1vgQH1AVqRn1dRj9eLbwswAuyBw2j76APQEoEGalQpjUUUOO9H2xmj1TNxJTSf; Secure; SameSite=None; Domain=.playstation.com; Path=/; HttpOnly; Max-Age=2678400,sbsd_o=FC5E496B7A61D949C2BFFF50DF73CD567876388EBB98504FA7C013834D56B6E4~sZpgvcUoe7N/OItGj75RKHnPLB/cEjfT6NrVPG+coRSQFcWeJL0OExpa8Segn+/lwEr9XFr8sFdrqMKv6C6jJ6TGUXSj4eWwu9w7RMjOH7p4MG+iJLh+JXCaTX4N3N3uw5Lk63iK/espJmh2LbSkkTbfqHqIM9ABmLKT4VRmz/J2WztYf65jXalBpZcusUwCZmbio4MCiTjNYy+jTsXTmmr5CaSkDUtZVwUBf1X9pMQ5VxhvSp0YRe0UXCE/2PDtz; Secure; SameSite=None; Domain=.playstation.com; Path=/; Max-Age=86400,AKA_A2=A; expires=Thu, 31-Oct-2024 05:57:50 GMT; path=/; domain=playstation.com; secure; HttpOnly,country=US; expires=Thu, 31-Oct-2024 16:57:50 GMT; path=/; secure,AKA_A2=A; expires=Thu, 31-Oct-2024 05:57:50 GMT; path=/; domain=playstation.com; secure; HttpOnly,country=US; expires=Thu, 31-Oct-2024 16:57:50 GMT; path=/; secure,AKA_A2=A; expires=Thu, 31-Oct-2024 05:57:50 GMT; path=/; domain=playstation.com; secure; HttpOnly,country=US; expires=Thu, 31-Oct-2024 16:57:50 GMT; path=/; secure,AKA_A2=A; expires=Thu, 31-Oct-2024 05:57:50 GMT; path=/; domain=playstation.com; secure; HttpOnly
+strict-transport-security: max-age=63072000; includeSubdomains; preload;
+link: <https://static.playstation.com>;rel="preconnect",<https://c.evidon.com>;rel="preconnect",<https://assets.adobedtm.com>;rel="preconnect",<https://fast.fonts.net>;rel="preconnect",<https://static.ads-twitter.com>;rel="preconnect",<https://connect.facebook.net>;rel="preconnect",<https://social.playstation.com>;rel="preconnect", <https://web-toolbar.playstation.com>;rel="preconnect",<https://www.youtube.com>;rel="preconnect",<https://cdn.evgnet.com>;rel="preconnect",<https://cdn.decibelinsight.net>;rel="preconnect",<https://web-commerce-anywhere.playstation.com>;rel="preconnect"
+vary: Accept-Encoding
+x-akamai-transformed: 9 - 0 pmb=mTOE,1
+x-vhost: publish
+x-frame-options: SAMEORIGIN
+x-dispatcher: dispatcher3euwest2-b80
+x-content-type-options: nosniff
+expires: Thu, 31 Oct 2024 04:57:50 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Thu, 31 Oct 2024 04:57:50 GMT
+transfer-encoding: chunked
+connection: keep-alive, Transfer-Encoding
+
+Content Snippet (first 500 characters):
+<!DOCTYPE HTML><html lang="en-US" xml:lang="en-US" dir="ltr"><head><link rel="preload" media="(min-width: 768px) and (max-width: 1023px)" href="https://gmedia.playstation.com/is/image/SIEPDC/psvr2-homepage-hero-banner-mobile-02-en-24oct22?$1200px$" as="image"/><link rel="preload" media="(min-width: 1024px) and (max-width: 1366px)" href="https://gmedia.playstation.com/is/image/SIEPDC/psvr2-homepage-hero-banner-mobile-02-en-24oct22?$1600px$" as="image"/><link rel="preload" media="(min-width: 1367p

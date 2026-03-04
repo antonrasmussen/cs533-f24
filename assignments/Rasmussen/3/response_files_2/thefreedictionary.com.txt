@@ -1,0 +1,15 @@
+URL: http://thefreedictionary.com
+Final URL: https://www.thefreedictionary.com
+Status Code: 200
+
+Headers:
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 24790
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Content-Language: en
+Expires: -1
+Last-Modified: Fri, 01 Nov 2024 04:00:00 GMT
+Vary: Accept-Encoding
+Date: Fri, 01 Nov 2024 23:37:47 GMT

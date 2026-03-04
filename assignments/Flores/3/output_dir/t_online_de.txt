@@ -1,41 +1,43 @@
 HTTP/1.1 301 Moved Permanently
 content-length: 0
 location: https://t-online.de/
-x-request-id: 01926954-b83b-7c50-99f2-7acf856230f1
+x-request-id: 0192e575-cf2a-73fa-8621-8aef042d75fb
 cache-control: public,max-age=300
 
 HTTP/2 301 
 content-length: 0
 location: https://www.t-online.de/
-x-request-id: 01926954-b95e-721e-96c5-5f94035745a5
+x-request-id: 0192e575-d093-7550-a7be-a77a7dfaa4ca
 cache-control: public,max-age=300
 
 HTTP/2 200 
 content-type: text/html; charset=utf-8
-content-length: 1260222
-date: Mon, 07 Oct 2024 23:33:14 GMT
+content-length: 1271671
+date: Fri, 01 Nov 2024 02:01:35 GMT
 cache-control: max-age=90, stale-while-revalidate=30, stale-if-error=86400
 x-envoy-upstream-service-time: 0
 server: envoy
-x-varnish: 31335036 17420590
-x-varnish: 17420665 31626251
-via: 1.1 ip-10-0-64-198.eu-west-1.compute.internal (Varnish/7.5), 1.1 ip-10-0-64-198.eu-west-1.compute.internal (Varnish/7.5), 1.1 aabff76d9515c67bc2758117b3e68446.cloudfront.net (CloudFront)
-etag: W/"vetagb4ac4b988600762052f5563f67b54cdac0fe0d5cdd424eace5312731b8b8323a"
+x-varnish: 68070600 74156365
+x-varnish: 72651408 71408536
+via: 1.1 ip-10-0-61-70.eu-west-1.compute.internal (Varnish/7.5), 1.1 ip-10-0-61-70.eu-west-1.compute.internal (Varnish/7.5), 1.1 dffe9476e426d3cb9c316316cb30d40e.cloudfront.net (CloudFront)
+etag: W/"vetag991843ac617190c6fcb9028cbb77acce06be775eb5adc4f129120640dc47a4af"
 accept-ranges: bytes
-hits: 16
-x-ttl: 77.204
+hits: 2
+x-ttl: 87.953
 x-grace: 30.000
 x-keep: 128.000
 vary: Accept-Encoding
 x-cache: Hit from cloudfront
-x-amz-cf-pop: IAD66-C1
+x-amz-cf-pop: EWR53-C1
 alt-svc: h3=":443"; ma=86400
-x-amz-cf-id: EdtQIpec6JfvI_xUfby3RzNhSNfXna4RV7CVqs1-Ns_wiMSsl1KcJA==
-age: 31
+x-amz-cf-id: csLzAws4B3LxltsSSOsvLf1MYNk7AJgnCA4zBS_5zziXowZEu6TEaQ==
+age: 63
 x-xss-protection: 1; mode=block
 referrer-policy: strict-origin-when-cross-origin
 content-security-policy: frame-ancestors 'self' https://*.t-online.de;
 x-content-type-options: nosniff
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 vary: Origin
+server-timing: cdn-cache-hit,cdn-pop;desc="EWR53-C1",cdn-rid;desc="csLzAws4B3LxltsSSOsvLf1MYNk7AJgnCA4zBS_5zziXowZEu6TEaQ==",cdn-hit-layer;desc="Origin Shield",cdn-downstream-fbl;dur=122
 
+Final-URL: https://www.t-online.de/

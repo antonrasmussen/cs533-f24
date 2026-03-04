@@ -1,0 +1,28 @@
+URL: https://hindustantimes.com
+Final URL: https://www.hindustantimes.com/
+Status Code: 200
+
+Headers:
+content-type: text/html;charset=UTF-8
+server: nginx
+content-language: en-US
+x-server: ip-10-136-166-185.ap-south-1.compute.internal
+content-length: 103244
+cache-control: public, must-revalidate, max-age=30
+date: Thu, 31 Oct 2024 04:57:47 GMT
+connection: keep-alive
+vary: Accept-Encoding
+set-cookie: ht-location=US; path=/; domain=.hindustantimes.com,Meta-Geo=US--VA--NORFOLK; path=/; domain=.hindustantimes.com
+cachettl: 
+x-frame-options: SAMEORIGIN
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="max-image-preview:large">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+<link rel="apple-touch-icon" href="https://www.hindustantimes.com/res/images/icons/icon-57x57.png"/>
+<link rel="apple-touch-icon-57x57" href="https://www.hindustantimes.com/res/images/icons/icon-57x57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" hre

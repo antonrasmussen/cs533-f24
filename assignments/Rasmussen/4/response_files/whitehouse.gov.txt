@@ -1,0 +1,30 @@
+URL: https://whitehouse.gov
+Final URL: https://www.whitehouse.gov/
+Status Code: 200
+
+Headers:
+server: nginx
+date: Thu, 31 Oct 2024 04:57:49 GMT
+content-type: text/html; charset=UTF-8
+transfer-encoding: chunked
+connection: keep-alive
+vary: Accept-Encoding
+x-build-back-better: https://usds.gov/
+x-frame-options: DENY
+referrer-policy: strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=31536000;includeSubdomains;preload
+cache-control: max-age=300, must-revalidate
+accept-ranges: bytes
+x-cache: HIT
+x-rq: dca6 96 184 443
+
+Content Snippet (first 500 characters):
+<!doctype html>
+<html class="no-js alert__has-cookie" lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="google" content="notranslate">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:false},ajax:{deny_list:["bam.nr-data.net"]},session_trace:{sampling_rate:0.0,mode:"FIXED_RATE",enabled:true,error_sampling_rate:0.0}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-38cd91aea19ca6f246a",

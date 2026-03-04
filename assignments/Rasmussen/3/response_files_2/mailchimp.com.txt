@@ -1,0 +1,20 @@
+URL: http://mailchimp.com
+Final URL: https://mailchimp.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=UTF-8
+X-UA-Compatible: IE=edge,chrome=1
+X-Plums-Vary: Accept-Encoding, Accept-Language, Cookie
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=600, private, must-revalidate
+MPULSE_ORIGIN_TIME: 442
+MPULSE_CDN_CACHE: MISS
+X-EdgeConnect-MidMile-RTT: 0
+X-EdgeConnect-Origin-MEX-Latency: 442
+Content-Length: 88710
+Date: Fri, 01 Nov 2024 23:36:34 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Server-Timing: ak_p; desc="1730504194340_400321171_1311684242_3805_11393_19_22_-";dur=1

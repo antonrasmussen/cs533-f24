@@ -1,0 +1,28 @@
+URL: http://sina.com.cn
+Final URL: https://www.sina.com.cn/
+Status Code: 200
+
+Headers:
+Server: Tengine
+Content-Type: text/html
+Content-Length: 113858
+Connection: keep-alive
+Date: Fri, 01 Nov 2024 23:37:43 GMT
+Vary: Accept-Encoding
+ETag: "672565e2-5c383"V=5965C31
+X-Powered-By: shci_v1.13
+Expires: Fri, 01 Nov 2024 23:38:23 GMT
+Cache-Control: max-age=60
+Content-Encoding: gzip
+X-Via-SSL: ssl.61.sinag1.shx.lb.sinanode.com
+Edge-Copy-Time: 1730504243329
+Via: http/1.1 ctc.guangzhou.union.184 (ApacheTrafficServer/6.2.1 [cRs f ]), ens-cache6.l2us3[234,233,200-0,M], ens-cache6.l2us3[235,0], ens-cache14.us26[254,212,200-0,C], ens-cache4.us26[214,0]
+X-Via-CDN: f=aliyun,s=ens-cache4.us26,c=2600:8805:1729:2d00:d8ae:985c:6853:a904;f=sinaedge,s=cmcc.guangzhou.union.78.nb.sinaedge.com,c=163.181.67.154;f=Edge,s=ctc.guangzhou.union.184,c=172.16.174.78
+X-Via-Edge: 17305042632019a43b5a34eae10ac0cbc655e
+Age: 0
+Ali-Swift-Global-Savetime: 1730504263
+X-Cache: HIT TCP_MEM_HIT dirn:-2:-2
+X-Swift-SaveTime: Fri, 01 Nov 2024 23:37:43 GMT
+X-Swift-CacheTime: 60
+Timing-Allow-Origin: *
+EagleId: 0819529817305042633878418e

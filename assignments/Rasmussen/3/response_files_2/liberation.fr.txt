@@ -1,0 +1,21 @@
+URL: http://liberation.fr
+Final URL: https://www.liberation.fr/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=utf-8
+Content-Length: 1398730
+Server: openresty
+Content-Encoding: gzip
+ETag: W/"72e48b-AAK6NrdElNIpfQmM3JWtGBlagvA"
+x-arc-pb-mx-id: 00000000
+x-arc-pb-request-id: 1599cff5-51bc-498f-9e38-93afef206dea, b5711d48-ab01-48be-9dd5-a9aa80b03e92
+Last-Modified: Fri, 01 Nov 2024 23:35:36 GMT
+Vary: Accept-Encoding
+Cache-Control: private, max-age=60
+Expires: Fri, 01 Nov 2024 23:37:32 GMT
+Date: Fri, 01 Nov 2024 23:36:32 GMT
+Connection: keep-alive
+Content-Security-Policy: upgrade-insecure-requests
+x-arc-ttl: 120
+x-arc-request-id: 0.5cab3717.1730504192.1353c4b9

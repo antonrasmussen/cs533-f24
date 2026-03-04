@@ -1,0 +1,36 @@
+URL: https://cnil.fr
+Final URL: https://www.cnil.fr/fr
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:53 GMT
+content-type: text/html; charset=UTF-8
+transfer-encoding: chunked
+connection: keep-alive
+cache-control: must-revalidate, no-cache, private
+x-drupal-dynamic-cache: UNCACHEABLE
+x-ua-compatible: IE=edge
+content-language: fr
+x-content-type-options: nosniff
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-generator: Drupal 9 (https://www.drupal.org)
+vary: Accept-Encoding
+content-security-policy: default-src *.openstreetmap.org *.openlayers.org *.arcgisonline.com 'self' data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; script-src-elem 'self' data: 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net cdnjs.cloudflare.com *.openstreetmap.org *.openlayers.org *.cnil.fr; img-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr data:; font-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; object-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-ancestors 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr ; form-action 'self' *.signal-spam.fr *.cnil.fr *.economie.gouv.fr ; block-all-mixed-content; base-uri 'self'
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+referrer-policy: strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+x-varnish: 20473421
+age: 0
+via: 1.1 varnish (Varnish/6.5)
+cache-tags: MISS
+set-cookie: SERVERID=dvs84128.eva.produhost.net; path=/
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: 8db1110b4cb74fdb-ORF
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html  lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <

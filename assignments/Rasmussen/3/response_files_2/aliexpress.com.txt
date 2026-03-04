@@ -1,0 +1,23 @@
+URL: http://aliexpress.com
+Final URL: https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US
+Status Code: 200
+
+Headers:
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+P3P: CP="CAO PSA OUR"
+X-Application-Context: ae-fn-gateway-f:7001
+Content-Encoding: gzip
+Access-Control-Allow-Origin: https://hz.aliexpress.com
+Server: Tengine/Aserver
+EagleEye-TraceId: 210318c317305040893292798e99c6
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+Date: Fri, 01 Nov 2024 23:34:50 GMT
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: ali_apache_id=33.3.24.195.1730504089333.137250.9; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT, intl_common_forever=cv341svh7icKOne45Qasz1RkvwC8sr2H0Upra6vpwBzFz8meCiTrdA==; Domain=.aliexpress.us; Expires=Thu, 20-Nov-2092 02:48:56 GMT; Path=/; HttpOnly, intl_locale=en_US; Domain=.aliexpress.us; Path=/, xman_us_f=x_locale=en_US&x_l=0&x_c_chg=1; Domain=.aliexpress.us; Expires=Thu, 20-Nov-2092 02:48:56 GMT; Path=/; Secure; SameSite=None, xman_f=H9xGYhfKr8YsJdykSISgUq/3870Pgu4/0EgfkVeCWu0j//s6c1gEWplSxzg3GVtU; Domain=.aliexpress.us; Expires=Thu, 20-Nov-2092 02:48:56 GMT; Path=/; Secure; SameSite=None; HttpOnly, acs_usuc_t=x_csrf=13gy8r_wf5fh2&acs_rt=7ffb0e63584f465f8835f5dfac567175; Domain=.aliexpress.us; Path=/; Secure; SameSite=None, xman_t=wBErlaiX1+FlfTzbT4FKvaU2tfpzbsgdCvdClRcuCT17PGdmmD/3nvNCgO8mmeR2; Domain=.aliexpress.us; Expires=Thu, 30-Jan-2025 23:34:49 GMT; Path=/; Secure; SameSite=None; HttpOnly, aep_usuc_f=site=usa&c_tp=USD&region=US&b_locale=en_US; Domain=.aliexpress.us; Expires=Thu, 20-Nov-2092 02:48:56 GMT; Path=/; Secure; SameSite=None
+X-Akamai-Fwd-Auth-SHA: 547218C4A0178CB064167EBD895FBDA782626C428044078D7E139BAF0E689E61
+X-Akamai-Fwd-Auth-Data: 1830549931, 23.220.106.137, 1730504090, 98.183.222.96
+X-Akamai-Fwd-Auth-Sign: X43tHt0XYBt+9zlc679zlrvKNYqZx/lwzfs9u++NKfPDkblFof7nyLhJDr14ZWBTYeQ1W9tv0SSucm5G9R4ml+IkwdyOKwLtrtuiOy6OCPc=
+Server-Timing: ak_p; desc="1730504089281_400321161_2329239304_72391_11742_22_34_-";dur=1

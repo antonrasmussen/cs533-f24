@@ -1,0 +1,21 @@
+URL: http://offset.com
+Final URL: https://www.offset.com:443/
+Status Code: 200
+
+Headers:
+Content-Type: text/html
+Connection: keep-alive
+Date: Sat, 05 Oct 2024 21:30:30 GMT
+Last-Modified: Thu, 21 Mar 2024 16:04:14 GMT
+ETag: W/"e9bf427654715c36f8de2762d4ab3844"
+x-amz-server-side-encryption: AES256
+Cache-Control: public, max-age=31536000
+Server: AmazonS3
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 4715507645a6516d2df35cd342cb5be0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P3
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: Yhejux_xQBpsSg6XgbJoAM-SjX-XgnVM4fs-ak792oqCPy_Q__IiXA==
+Age: 2340412

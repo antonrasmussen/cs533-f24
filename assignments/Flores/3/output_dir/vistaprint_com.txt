@@ -1,53 +1,57 @@
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 07 Oct 2024 23:33:41 GMT
+Date: Fri, 01 Nov 2024 02:02:44 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Tue, 08 Oct 2024 00:33:41 GMT
+Expires: Fri, 01 Nov 2024 03:02:44 GMT
 Location: https://vistaprint.com/
-Set-Cookie: __cf_bm=xscCqpaE0FpQ0d5qErvmJmA55GAtLW.NqOFEoP91qi8-1728344021-1.0.1.1-ILgLCs9dtae2P_sZ5AIaRU3SxpH5L4DsJO9weiMJowYpajGuav9ldvu3f4cOTeN8jNO79Owtnm03Ffz9pDoB7g; path=/; expires=Tue, 08-Oct-24 00:03:41 GMT; domain=.vistaprint.com; HttpOnly
+Set-Cookie: __cf_bm=FZz0F74XGJ6EgXB9nY6Sh61_I.6RWprKbmaWKtyqBAQ-1730426564-1.0.1.1-.0BTvElWyrKloVDTcS11kA_FIfvNxa8wIJ_Kv.T_fY9qdMtasWCdhwFRqi2_D0z2nJvCpJUR6O_LX20l23Bxxg; path=/; expires=Fri, 01-Nov-24 02:32:44 GMT; domain=.vistaprint.com; HttpOnly
 Server: cloudflare
-CF-RAY: 8cf1b2940d5e19c7-EWR
+CF-RAY: 8db84dea7cd74fdf-ORF
+alt-svc: h3=":443"; ma=86400
 
 HTTP/2 301 
-date: Mon, 07 Oct 2024 23:33:41 GMT
+date: Fri, 01 Nov 2024 02:02:44 GMT
 content-type: text/html
 content-length: 167
 location: https://www.vistaprint.com/
 cache-control: max-age=3600
-expires: Tue, 08 Oct 2024 00:33:41 GMT
-set-cookie: __cf_bm=P_Yfn7GDrYb.yUGr4bOl32hIk4ZIMAjXhKV0JSiGZno-1728344021-1.0.1.1-W9lmUk71y752nBY0FyDe2gYGljzLKiCyRIpbB5wUDwrhhRnDb_XeLCG.BXS6PN7PQLyCXb8vKQi80Vl837237Q; path=/; expires=Tue, 08-Oct-24 00:03:41 GMT; domain=.vistaprint.com; HttpOnly; Secure; SameSite=None
+expires: Fri, 01 Nov 2024 03:02:44 GMT
+set-cookie: __cf_bm=UZplkTMGH6GQG6d61pfGK5kMbGN2k5Bw.3R6nkDZF8M-1730426564-1.0.1.1-x_mcM.niBn3ZS6oD38JjWi5l019DcvmTwg897q.md6Hcq.4vrg31hUdQuqVr8vbx.hTX9CbZqYzx6e.tdLvzKQ; path=/; expires=Fri, 01-Nov-24 02:32:44 GMT; domain=.vistaprint.com; HttpOnly; Secure; SameSite=None
 strict-transport-security: max-age=31536000
 server: cloudflare
-cf-ray: 8cf1b2947bbe0f74-EWR
+cf-ray: 8db84deb2d1c4fcc-ORF
+alt-svc: h3=":443"; ma=86400
 
 HTTP/2 200 
-date: Mon, 07 Oct 2024 23:33:41 GMT
+date: Fri, 01 Nov 2024 02:02:44 GMT
 content-type: text/html
-cf-ray: 8cf1b294dd77c356-EWR
+cf-ray: 8db84debce23505f-ORF
 cf-cache-status: DYNAMIC
-age: 66
+age: 67
 cache-control: no-cache, private, max-age=0
 expires: Thu, 01 Jan 1970 00:00:00 UTC
-set-cookie: userContext={%22ctc%22:{%22v1%22:[%22login_prompt_not_logged_in_customers%22%2C%22no_account%22%2C%22design_services_hub_inspiration%22%2C%22es_payment_before_brief_test%22%2C%22es__multi_step_brief%22%2C%22site_tagging_new_customer%22%2C%22new_user_registered_nonregistered%22%2C%22new_customer_fr_de_nl%22]}%2C%22userProfile%22:{%22v1%22:{%22culture%22:%22en-US%22}}}; path=/; domain=.vistaprint.com; expires=Tue, 08 Oct 2024 11:33:41 GMT
+set-cookie: userContext={%22ctc%22:{%22v1%22:[%22login_prompt_not_logged_in_customers%22%2C%22no_account%22%2C%22design_services_hub_inspiration%22%2C%22es_payment_before_brief_test%22%2C%22es__multi_step_brief%22%2C%22site_tagging_new_customer%22%2C%22new_user_registered_nonregistered%22%2C%22new_customer_fr_de_nl%22]}%2C%22userProfile%22:{%22v1%22:{%22culture%22:%22en-US%22}}}; path=/; domain=.vistaprint.com; expires=Fri, 01 Nov 2024 14:02:44 GMT
 strict-transport-security: max-age=31536000
 vary: Accept-Encoding
-via: 1.1 f0a9678a89ea6fb10debcb7507e49828.cloudfront.net (CloudFront)
+via: 1.1 264cb12aa5043fad64b302b378b99036.cloudfront.net (CloudFront)
 pragma: no-cache
+alt-svc: h3=":443"; ma=86400
 vp-ingress-route: Default
-x-amz-cf-id: Pg-XIf9W61DZyHFUy4DTRfZw_Pr3f9m7OaCckor2k13mjp2QtweFBQ==
+x-amz-cf-id: YX-axDC7jrDjWyqRznruyiVh0A5IC9S8DrR5x-sbV95PYO4X9fwcTw==
 x-amz-cf-pop: IAD12-P2
-x-amz-expiration: expiry-date="Tue, 15 Oct 2024 00:00:00 GMT", rule-id="NTFiMjNkZmYtN2ZlNS00OWQzLWI3MjYtZTFjOGZkNmE0NjVk"
-x-amz-meta-exclusive-hint: /page-data/en-us/hp_feature_tile_row_automation/control/camp/usoct7to10itemlevelbmsmdealslevel/page-data-bfd68ec9-63f5-41aa-9447-997dbf8d153e.json
+x-amz-expiration: expiry-date="Sat, 09 Nov 2024 00:00:00 GMT", rule-id="NTFiMjNkZmYtN2ZlNS00OWQzLWI3MjYtZTFjOGZkNmE0NjVk"
+x-amz-meta-exclusive-hint: /page-data/en-us/slim_banner_on_homepage/test/camp/naoct30tonov3dealspage/page-data-e4f500ba-c323-4bbe-9239-8886c8aae9a9.json
 x-amz-meta-hint-domain: /static/merch/home-page-vistaprint-na.prod
-x-amz-meta-shared-hint: /534f1d35-dc76a6030a1bda5551ee.js,/701-130d607492ab6ccc2a5d.js,/ajax-aggregate-b725f10e229642920a89.js,/app-e38ecd473314d2966de8.js,/async-api-dba8a9e359def5203939.js,/basic-spa-aggregate-f3eab0a8bce4526eaec1.js,/c8f7fe3b0e41be846d5687592cf2018ff6e22687-c589bd9f3e47297693ae.js,/commons-dc19617083eaf109f7bb.js,/component---src-pages-404-jsx-224a7371ab58a5dce51f.js,/component---src-pages-healthcheck-jsx-f5595e3c4b61d5fe7878.js,/component---src-templates-auth-page-layout-jsx-462bc773209e68d793b2.js,/component---src-templates-home-page-layout-jsx-4ff0b8320d2bf1989901.js,/compressor-f0d43c35f358b7bbb4de.js,/framework-8094427122681b7d0a75.js,/generic_events-aggregate-b1bb1c8b1d54ee426496.js,/jserrors-aggregate-2423f1382d3841ec28ce.js,/lazy-feature-loader-fe3f03e75c958f148ae5.js,/logging-aggregate-465c754a7eb6175bb4cf.js,/metrics-aggregate-a379cfbc349329143a8f.js,/page_view_event-aggregate-21617308ab53d65d7ac8.js,/page_view_timing-aggregate-7bb980d2b01151a594f6.js,/recorder-f28133ec4557cf202570.js,/session-manager-6ed65897dad8169ac569.js,/session_replay-aggregate-5f3685daf30166a9c6d2.js,/session_trace-aggregate-1c32bbb44503c24defe1.js,/spa-aggregate-66ad12be684e8fb082e8.js,/styles.8356188b33c7990b0c33.css,/webpack-runtime-60f2f6c014d67603ad68.js,/~partytown/partytown-atomics.js,/~partytown/partytown-media.js,/~partytown/partytown-sw.js,/~partytown/partytown.js,/~partytown/debug/partytown-atomics.js,/~partytown/debug/partytown-media.js,/~partytown/debug/partytown-sandbox-sw.js,/~partytown/debug/partytown-sw.js,/~partytown/debug/partytown-ww-atomics.js,/~partytown/debug/partytown-ww-sw.js,/~partytown/debug/partytown.js
+x-amz-meta-shared-hint: /534f1d35-dc76a6030a1bda5551ee.js,/701-130d607492ab6ccc2a5d.js,/ajax-aggregate-b725f10e229642920a89.js,/app-b961c5007a6154ef9b69.js,/async-api-dba8a9e359def5203939.js,/basic-spa-aggregate-f3eab0a8bce4526eaec1.js,/c8f7fe3b0e41be846d5687592cf2018ff6e22687-c589bd9f3e47297693ae.js,/commons-dc19617083eaf109f7bb.js,/component---src-pages-404-jsx-224a7371ab58a5dce51f.js,/component---src-pages-healthcheck-jsx-f5595e3c4b61d5fe7878.js,/component---src-templates-auth-page-layout-jsx-462bc773209e68d793b2.js,/component---src-templates-home-page-layout-jsx-aeb712d598a821da1edc.js,/compressor-f0d43c35f358b7bbb4de.js,/framework-8094427122681b7d0a75.js,/generic_events-aggregate-b1bb1c8b1d54ee426496.js,/jserrors-aggregate-2423f1382d3841ec28ce.js,/lazy-feature-loader-fe3f03e75c958f148ae5.js,/logging-aggregate-465c754a7eb6175bb4cf.js,/metrics-aggregate-a379cfbc349329143a8f.js,/page_view_event-aggregate-21617308ab53d65d7ac8.js,/page_view_timing-aggregate-7bb980d2b01151a594f6.js,/recorder-f28133ec4557cf202570.js,/session-manager-6ed65897dad8169ac569.js,/session_replay-aggregate-5f3685daf30166a9c6d2.js,/session_trace-aggregate-1c32bbb44503c24defe1.js,/spa-aggregate-66ad12be684e8fb082e8.js,/styles.8356188b33c7990b0c33.css,/webpack-runtime-c8e98b6bb02d6c9f939c.js,/~partytown/partytown-atomics.js,/~partytown/partytown-media.js,/~partytown/partytown-sw.js,/~partytown/partytown.js,/~partytown/debug/partytown-atomics.js,/~partytown/debug/partytown-media.js,/~partytown/debug/partytown-sandbox-sw.js,/~partytown/debug/partytown-sw.js,/~partytown/debug/partytown-ww-atomics.js,/~partytown/debug/partytown-ww-sw.js,/~partytown/debug/partytown.js
 x-cache: Hit from cloudfront
-set-cookie: ucSearchParams=%7B%7D; path=/; domain=.vistaprint.com; expires=Wed, 06 Nov 2024 23:33:41 GMT
-set-cookie: testUserId=_d68fdfdd-a947-49b7-bc9a-4c56d0ce7377; path=/; domain=.vistaprint.com; Max-Age=15552000
-set-cookie: optimizelyEndUserId=_d68fdfdd-a947-49b7-bc9a-4c56d0ce7377; path=/; domain=.vistaprint.com; Max-Age=15552000
+set-cookie: ucSearchParams=%7B%7D; path=/; domain=.vistaprint.com; expires=Sun, 01 Dec 2024 02:02:44 GMT
+set-cookie: testUserId=_d46fa543-1a6d-457e-b8be-ccca4cb2f3a6; path=/; domain=.vistaprint.com; Max-Age=15552000
+set-cookie: optimizelyEndUserId=_d46fa543-1a6d-457e-b8be-ccca4cb2f3a6; path=/; domain=.vistaprint.com; Max-Age=15552000
 set-cookie: expCtx=; path=/; domain=.vistaprint.com; Max-Age=0
 set-cookie: cf-ipcountry=US; Secure; Path=/; SameSite=None
-set-cookie: __cf_bm=uip7FxoA3qzEV4gUQzj7K1KqsCzR0qQidl219rApq9A-1728344021-1.0.1.1-O7RI_lVT3HGYkRzT8.m5nPx.AQzOFBNEdQCGxa579ikkFQWIMWdy.P1Mvn.C_AQxg.6qMNTF81bUQPyLU_tt2w; path=/; expires=Tue, 08-Oct-24 00:03:41 GMT; domain=.vistaprint.com; HttpOnly; Secure; SameSite=None
+set-cookie: __cf_bm=8tCKAOyCOH.q6.ZiM_Zh32180RAmm7PdC5MogJYwlgs-1730426564-1.0.1.1-QvfYoQxfIyNMq6up5KcIbhe_hCH_Dx3ig8ReUNtXr7Y_CEeuT4LRAk5s2MH2X8RTVDbDwM0ir._kafygiobVMw; path=/; expires=Fri, 01-Nov-24 02:32:44 GMT; domain=.vistaprint.com; HttpOnly; Secure; SameSite=None
 server: cloudflare
 
+Final-URL: https://www.vistaprint.com/

@@ -1,0 +1,14 @@
+URL: http://4shared.com
+Final URL: https://www.4shared.com
+Status Code: 200
+
+Headers:
+Server: 566
+Set-Cookie: day1host=h; Domain=.4shared.com; Expires=Sat, 02-Nov-2024 23:34:44 GMT; Path=/
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 79825
+Date: Fri, 01 Nov 2024 23:34:44 GMT

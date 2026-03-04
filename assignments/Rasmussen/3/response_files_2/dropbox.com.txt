@@ -1,0 +1,22 @@
+URL: http://dropbox.com
+Final URL: https://www.dropbox.com/
+Status Code: 200
+
+Headers:
+Content-Security-Policy: child-src https://www.dropbox.com/static/serviceworker/ blob: ; connect-src https://* ws://127.0.0.1:*/ws blob: wss://dsimports.dropbox.com/ ; frame-ancestors 'self' ; frame-src https://* carousel: dbapi-6: dbapi-7: dbapi-8: dropbox-client: itms-apps: itms-appss: ; script-src 'unsafe-eval' 'inline-speculation-rules' https://www.dropbox.com/static/api/ https://www.dropbox.com/pithos/* https://www.dropbox.com/page_success/ https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ https://accounts.google.com/gsi/client https://canny.io/sdk.js https://www.paypal.com/sdk/js 'nonce-LwLxbnrCDyqorcj2vMHhOv13qMg=' ; default-src 'none' ; base-uri 'self' ; worker-src https://www.dropbox.com/static/serviceworker/ https://www.dropbox.com/encrypted_folder_download/service_worker.js https://www.dropbox.com/service_worker.js blob: ; img-src https://* data: blob: ; report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-whitelist ; object-src 'self' https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ ; font-src https://* data: ; form-action 'self' https://www.dropbox.com/ https://dl-web.dropbox.com/ https://photos.dropbox.com/ https://paper.dropbox.com/ https://showcase.dropbox.com/ https://www.hellofax.com/ https://app.hellofax.com/ https://www.hellosign.com/ https://app.hellosign.com/ https://docsend.com/ https://www.docsend.com/ https://help.dropbox.com/ https://navi.dropbox.jp/ https://a.sprig.com/ https://selfguidedlearning.dropboxbusiness.com/ https://instructorledlearning.dropboxbusiness.com/ https://sales.dropboxbusiness.com/ https://accounts.google.com/ https://api.login.yahoo.com/ https://login.yahoo.com/ https://experience.dropbox.com/ https://pal-test.adyen.com https://2e83413d8036243b-Dropbox-pal-live.adyenpayments.com/ https://onedrive.live.com/picker ; style-src https://* 'unsafe-inline' 'unsafe-eval' ; media-src https://* blob:, report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-dynamic ; script-src 'unsafe-eval' 'strict-dynamic' 'nonce-LwLxbnrCDyqorcj2vMHhOv13qMg=' 'nonce-tKDfeyod5RJ16T6lAV/ZjlyjSzk='
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Referrer-Policy: strict-origin-when-cross-origin
+Set-Cookie: gvc=NDI2NjU0MzI3NjUzOTAyMjkxNDE4MDAzNDk1ODcxOTM3NTU5MjY=; Path=/; Expires=Wed, 31 Oct 2029 23:35:15 GMT; HttpOnly; Secure; SameSite=None, t=i2BTN--Y0Pt8WnI8vEVqvF43; Path=/; Domain=dropbox.com; Expires=Sat, 01 Nov 2025 23:35:15 GMT; HttpOnly; Secure; SameSite=None, __Host-js_csrf=i2BTN--Y0Pt8WnI8vEVqvF43; Path=/; Expires=Sat, 01 Nov 2025 23:35:15 GMT; Secure; SameSite=None, __Host-ss=9l4xNKZ9s4; Path=/; Expires=Sat, 01 Nov 2025 23:35:15 GMT; HttpOnly; Secure; SameSite=Strict, locale=en; Path=/; Domain=dropbox.com; Expires=Wed, 31 Oct 2029 23:35:15 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Date: Fri, 01 Nov 2024 23:35:15 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Server: envoy
+Cache-Control: no-cache, no-store
+Vary: Accept-Encoding
+X-Dropbox-Response-Origin: far_remote
+X-Dropbox-Request-Id: b466586440e141c5a78b8e3427c8b286
+Transfer-Encoding: chunked

@@ -1,0 +1,22 @@
+URL: http://forms.gle
+Final URL: https://forms.gle/
+Status Code: 400
+
+Headers:
+Connection: keep-alive
+Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/DurableDeepLinkUi/cspreport,script-src 'report-sample' 'nonce-Tlc-Ips4SNgXaTur7FoFcQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DurableDeepLinkUi/cspreport;worker-src 'self',script-src 'unsafe-inline' 'unsafe-eval' blob: data: 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com https://www.googleapis.com/appsmarket/v2/installedApps/;report-uri /_/DurableDeepLinkUi/cspreport/allowlist
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: unsafe-none
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+Pragma: no-cache
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:35:59 GMT
+X-Served-By: cache-iad-kiad7000078-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1730504160.716279,VS0,VE65
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site, x-fh-requested-host, accept-encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

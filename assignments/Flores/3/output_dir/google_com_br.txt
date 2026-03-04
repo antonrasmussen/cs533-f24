@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.com.br/
 Content-Type: text/html; charset=UTF-8
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-HhBgE_9VeNgr6gYYJUMfUA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
-Date: Mon, 07 Oct 2024 23:33:17 GMT
-Expires: Wed, 06 Nov 2024 23:33:17 GMT
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-qJp9mDqIgv3oJSfRAruc9w' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Fri, 01 Nov 2024 02:02:04 GMT
+Expires: Sun, 01 Dec 2024 02:02:04 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 222
@@ -12,15 +12,16 @@ X-Frame-Options: SAMEORIGIN
 
 HTTP/1.1 200 OK
 Content-Type: text/html; charset=ISO-8859-1
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-X8_4IcRuhsbWE1s46HfGcQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-5ldKLGPxuepX6bGA6HLABQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
 P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
-Date: Mon, 07 Oct 2024 23:33:17 GMT
+Date: Fri, 01 Nov 2024 02:02:04 GMT
 Server: gws
 X-XSS-Protection: 0
 X-Frame-Options: SAMEORIGIN
 Transfer-Encoding: chunked
-Expires: Mon, 07 Oct 2024 23:33:17 GMT
+Expires: Fri, 01 Nov 2024 02:02:04 GMT
 Cache-Control: private
-Set-Cookie: AEC=AVYB7crPIBb2N_ZVKbiiLHKfcrOrahuYJ-yi0f3NnOeDkq15NVCPEDVwaw; expires=Sat, 05-Apr-2025 23:33:17 GMT; path=/; domain=.google.com.br; Secure; HttpOnly; SameSite=lax
-Set-Cookie: NID=518=QXhEUysN55hmdAcNFh4zSwUbiQZ4gFMG5zAWK3Wh5DXdL5Nw6kAVTzhonNHPyeCEFeeh4hIQekDVT_TblP8Jz7_i9rcTB5oubfLqnrhFDy8_yVRT83flb9fLG5VuPmFOqC83hNZ2o9brViUAeAHXkeFNSl3gNZn5oDYxQiNGqZBNM1LdkB20dUBIETVk7VA; expires=Tue, 08-Apr-2025 23:33:17 GMT; path=/; domain=.google.com.br; HttpOnly
+Set-Cookie: AEC=AVYB7corTesEXnoqPo_SSCkS_jtrnrOI-0WqIk7AwM064tuwtb0ELdz9Sg; expires=Wed, 30-Apr-2025 02:02:04 GMT; path=/; domain=.google.com.br; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=518=Xk0XNRfZELN6385d4qz_kszowpiargMVOKs87P4UWXJ6ls1UvoUd1fu3X0SHU5lwupgKMCQcwGSGmOPlZCDhVf0p5W2CXzLWuUQWdsU2xXGLpJE-Ziw1orrrtRNG7fY3mXvJ5i-SZX2Wq4qcz5KExTastG_gBEnOSMe8t325N7Rt8Mp9c8w_QvWEmdvN9Wc; expires=Sat, 03-May-2025 02:02:04 GMT; path=/; domain=.google.com.br; HttpOnly
 
+Final-URL: http://www.google.com.br/

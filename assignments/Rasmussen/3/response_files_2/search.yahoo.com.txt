@@ -1,0 +1,23 @@
+URL: http://search.yahoo.com
+Final URL: https://search.yahoo.com/
+Status Code: 200
+
+Headers:
+date: Fri, 01 Nov 2024 23:37:41 GMT
+p3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+set-cookie: PROMO=ono_sc=1&ono_fts=1730504261&ltv_pid=&ltv_new=1&ltv_ts=1730504261&ltv_sts=1730504261&ltv_c=1; expires=Sat, 01-Nov-2025 23:37:41 GMT; Max-Age=31536000; path=/; domain=.search.yahoo.com
+secure_search_bypass: true
+x-frame-options: DENY
+content-security-policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-ZWSm/RQ93kRZxUdGeW6b6g==' 'unsafe-eval' https://*.yahoo.net https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com https://*.hereapi.com https://*.youtube.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://assets.video.yahoo.net https://*.yimg.com; img-src 'self' data: blob: https://*.aol.com https://s.aolcdn.com https://*.bing.net https://*.yimg.com https://s.ytimg.com yahoo.com https://*.yahoo.com https://*.bing.com https://bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com https://*.adaptv.advertising.com https://*.vidible.tv https://*.yahoo.net https://*.footprint.net https://*.akamaized.net https://*.cloudfront.net https://*.llnwd.net; frame-src 'self' https://*.yahoo.net https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com https://*.vidible.tv https://*.advertising.com https://fun.games.com/ https://interactives.ap.org; media-src * blob:; object-src *; connect-src * blob:; font-src * data:; child-src blob:;
+cache-control: private
+content-type: text/html; charset=UTF-8
+x-envoy-upstream-service-time: 137
+server: ATS
+Content-Encoding: gzip
+Content-Length: 0
+Age: 0
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Referrer-Policy: no-referrer-when-downgrade

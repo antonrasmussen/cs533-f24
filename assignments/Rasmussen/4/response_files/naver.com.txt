@@ -1,0 +1,20 @@
+URL: https://naver.com
+Final URL: https://www.naver.com/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=UTF-8
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=63072000; includeSubdomains
+referrer-policy: unsafe-url
+server: nfront
+date: Thu, 31 Oct 2024 04:57:50 GMT
+content-length: 45773
+connection: keep-alive
+vary: Accept-Encoding
+
+Content Snippet (first 500 characters):
+   <!doctype html> <html lang="ko" class="fzoom"> <head> <meta charset="utf-8"> <meta name="Referrer" content="origin"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=1190"> <title>NAVER</title> <meta name="apple-mobile-web-app-title" content="NAVER"/> <meta name="robots" content="index,nofollow"/> <meta name="description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/> <meta property="og:title" content="네이버"> <meta property="og:url" content="https://www.

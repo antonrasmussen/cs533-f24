@@ -1,0 +1,22 @@
+URL: http://cointernet.com.co
+Final URL: https://www.cointernet.com.co/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:35:10 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 27786
+Connection: keep-alive
+Server: nginx/1.20.1
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding
+x-nextjs-cache: HIT
+X-Powered-By: Next.js
+Cache-Control: s-maxage=31536000, stale-while-revalidate
+ETag: "sx9t0m5p6llak"
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+Content-Security-Policy: default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * blob: data: 'unsafe-inline';connect-src * 'unsafe-inline'; frame-src *
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload

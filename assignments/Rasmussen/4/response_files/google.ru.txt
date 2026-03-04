@@ -1,0 +1,24 @@
+URL: https://google.ru
+Final URL: https://www.google.ru/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:57:46 GMT
+expires: -1
+cache-control: private, max-age=0
+content-type: text/html; charset=UTF-8
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-FLyZmmRtjd6TndOuSzGZVQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+accept-ch: Sec-CH-Prefers-Color-Scheme, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Arch, Sec-CH-UA-Model, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64
+permissions-policy: unload=()
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+server: gws
+content-length: 66884
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: AEC=AVYB7crDEDt8XE3d3KnzpyJRX1qodSF2COFYqpphD9Nc8ijJmgeDzaohxQ; expires=Tue, 29-Apr-2025 04:57:46 GMT; path=/; domain=.google.ru; Secure; HttpOnly; SameSite=lax,NID=518=lxKeyUVUncdb9AApQEau-VxTnq9DM_NvQDNA74Pn7INBg2p9w9FzHOvD1erUTnBA5gkaIQVdxAMPGzNEAZ7X45_7bzkmgFcfWNs1XjTyAb9jaBDqbIXoGkraFDf6UU46XHjyvsTvEVTe5QzKJy_bxISZWrU21N5nfukRl3MmaTZPpV4czye0b2j9GQdw-lyIbqZQ; expires=Fri, 02-May-2025 04:57:46 GMT; path=/; domain=.google.ru; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+Content Snippet (first 500 characters):
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en"><head><meta charset="UTF-8"><meta content="origin" name="referrer"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="FLyZmmRtjd6TndOuSzGZVQ">window._hst=Date.now();performance&&performance.mark&&performance.mark("SearchHeadStart");</script><script nonce="FLyZmmRtjd6TndOuSzGZVQ">(function(){var _g={kEI:'Sg4jZ6LCNMSj5NoPs-3Q2Ag',kEXPI:'31'

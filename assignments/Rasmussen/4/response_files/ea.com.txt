@@ -1,0 +1,44 @@
+URL: https://ea.com
+Final URL: https://www.ea.com/
+Status Code: 200
+
+Headers:
+content-type: text/html; charset=UTF-8
+last-modified: Thu, 31 Oct 2024 04:47:43 UTC
+content-length: 27123
+cache-control: max-age=367
+expires: Thu, 31 Oct 2024 05:03:53 GMT
+date: Thu, 31 Oct 2024 04:57:46 GMT
+connection: keep-alive
+set-cookie: EDGESCAPE_COUNTRY=US; path=/,EDGESCAPE_REGION=VA; path=/,EDGESCAPE_TIMEZONE=EST; path=/,ealocale=en-us; expires=Fri, 31-Oct-2025 04:57:46 GMT; path=/; domain=.ea.com; secure
+vary: Accept-Encoding
+alt-svc: h3=":443"; ma=93600
+x-l-path: inert
+x-environment-context: prod
+x-application-context: eacom
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=15768000
+
+Content Snippet (first 500 characters):
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" wf-loading>
+    <head>
+        
+    
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+
+
+    <script>
+        window.newrelicAttributes = {
+            accountId: "1796917",
+            trustKey: "1796917",
+            agentId: "149134891",
+            licenseKey: "f701a6c63c",
+            applicationId: "149134891"
+        };
+    </sc

@@ -1,0 +1,35 @@
+URL: https://wikimedia.org
+Final URL: https://www.wikimedia.org/
+Status Code: 200
+
+Headers:
+date: Thu, 31 Oct 2024 04:25:42 GMT
+cache-control: s-maxage=3600, must-revalidate, max-age=0
+server: ATS/9.2.5
+etag: W/"4ae9-62484de1d2940"
+last-modified: Tue, 15 Oct 2024 14:35:41 GMT
+content-type: text/html
+vary: Accept-Encoding
+age: 1926
+x-cache: cp1114 hit, cp1114 hit/157
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1114"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=31-Oct-2024;Path=/;HttpOnly;secure;Expires=Mon, 02 Dec 2024 00:00:00 GMT,GeoIP=US:VA:Norfolk:36.89:-76.23:v4; Path=/; secure; Domain=.wikimedia.org,NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600
+x-client-ip: 2600:8805:1729:2d00:88f2:5fb0:d13f:d4a3
+accept-ranges: bytes
+content-length: 4718
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>Wikimedia</title>
+<meta name="description" content="Wikimedia is a global movement whose mission is to bring free educational content to the world.">
+<meta name="robots" content="index, follow">
+<link rel="apple-touch-icon" href="https://foundation.wikimedia.org/favicon.ico">
+<link rel="shortcut icon" href="https://foundation.wikimedia.org/favicon.ico">
+<link rel="copyright" href="https://creativecommons.org/licenses

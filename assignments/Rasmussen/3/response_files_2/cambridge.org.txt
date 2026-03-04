@@ -1,0 +1,25 @@
+URL: http://cambridge.org
+Final URL: https://www.cambridge.org:443/
+Status Code: 403
+
+Headers:
+Date: Fri, 01 Nov 2024 23:35:01 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+cf-mitigated: challenge
+cf-chl-out: RBIh5F1WY58yY9Gbuu4MB7AExcc7jEFKE/6H3XHjgaKfKs9NvfrI7bOC+9OmB6EeFzCb5E36bpFMX4IezHTlwxjQiwxIPYw4e5UFTYqcGwcAka3f8hxhcnHhU0dv+IpeIM7HFSt5yu/skLI5loLHbw==$JNMXLk+wTHe/p/Y4cINKFA==
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 8dbfb2eb0e674fe4-ORF

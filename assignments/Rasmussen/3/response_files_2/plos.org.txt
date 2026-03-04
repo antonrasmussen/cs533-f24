@@ -1,0 +1,25 @@
+URL: http://plos.org
+Final URL: https://plos.org/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:37:33 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+CF-Ray: 8dbfb6a039c1505d-ORF
+CF-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Link: <https://plos.org/wp-json/>; rel="https://api.w.org/", <https://plos.org/wp-json/wp/v2/pages/51>; rel="alternate"; title="JSON"; type="application/json", <https://plos.org/>; rel=shortlink
+Vary: Accept-Encoding
+ki-cache-type: None
+Ki-CF-Cache-Status: BYPASS
+ki-edge: v=20.2.8;mv=3.1.4
+ki-origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+x-kinsta-cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IguJR7mCoiKNdJlLp32iO3gblLbiKp51I9J7TfEWkB%2BC5pgF0ikFKhVQD9nYDJLLlWqfCsj6bSWANLjmCoqPYIDN9iD0qtNEOuLd8XvMW6a0FnS3%2Bwj4bMC5hpKw58hiFuDGV%2FnH"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400

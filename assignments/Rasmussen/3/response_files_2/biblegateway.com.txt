@@ -1,0 +1,18 @@
+URL: http://biblegateway.com
+Final URL: https://www.biblegateway.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Fri, 01 Nov 2024 23:13:54 GMT
+Server: nginx
+Strict-Transport-Security: max-age=7776000
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 44b13d2e12ad74e58c5a56d9c368da6c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD61-P3
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: Vzlhk4PSSx4YrkRMg9a9OkcPrvVpQ9VR7Yry1g76ACOdMkOLDARoEg==
+Age: 1262

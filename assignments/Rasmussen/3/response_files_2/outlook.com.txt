@@ -1,0 +1,34 @@
+URL: http://outlook.com
+Final URL: https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0
+Status Code: 440
+
+Headers:
+Content-Length: 154
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+request-id: 3772ae6a-0732-3938-0e7e-e010f192d792
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-CalculatedFETarget: MW4P220CU001.internal.outlook.com
+X-BackEndHttpStatus: 440, 440
+Set-Cookie: RoutingKeyCookie=; expires=Tue, 01-Nov-1994 23:37:22 GMT; path=/;SameSite=None; secure; HttpOnly, HostSwitchPrg=; expires=Tue, 01-Nov-1994 23:37:22 GMT; path=/;SameSite=None; secure; HttpOnly, OptInPrg=; expires=Tue, 01-Nov-1994 23:37:22 GMT; path=/;SameSite=None; secure; HttpOnly
+X-CalculatedBETarget: MW4PR03MB6491.namprd03.prod.outlook.com
+X-OWA-DiagnosticsInfo: 5;0;0;
+X-BackEnd-Begin: 2024-11-01T23:37:22.815
+X-BackEnd-End: 2024-11-01T23:37:22.830
+X-DiagInfo: MW4PR03MB6491
+X-BEServer: MW4PR03MB6491
+X-UA-Compatible: IE=EmulateIE7
+X-ResponseOrigin: OwaAppPool
+X-RUM-Validated: 1
+X-RUM-NotUpdateQueriedPath: 1
+X-RUM-NotUpdateQueriedDbCopy: 1
+X-Proxy-RoutingCorrectness: 1
+X-Proxy-BackendServerStatus: 440
+X-FEProxyInfo: BN9PR03CA0501.NAMPRD03.PROD.OUTLOOK.COM
+X-FEEFZInfo: LYH
+X-FEServer: MW4P220CA0026, BN9PR03CA0501
+Report-To: {"group":"NelOfficeUpload1","max_age":7200,"endpoints":[{"url":"https://exo.nel.measure.office.net/api/report?TenantId=&FrontEnd=Cafe&DestinationEndpoint=LYH&RemoteIP=2600:8805:1729::&Environment=MT"}],"include_subdomains":true}
+NEL: {"report_to":"NelOfficeUpload1","max_age":7200,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}
+Alt-Svc: h3=":443";ma=2592000,h3-29=":443";ma=2592000
+X-FirstHopCafeEFZ: LYH
+Date: Fri, 01 Nov 2024 23:37:22 GMT

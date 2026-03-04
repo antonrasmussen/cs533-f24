@@ -1,0 +1,26 @@
+URL: http://ikea.com
+Final URL: https://www.ikea.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html; charset=utf-8
+Content-MD5: NAaLpH0kaBnn8iHQWYd11w==
+Last-Modified: Thu, 31 Oct 2024 07:45:45 GMT
+Accept-Ranges: bytes
+ETag: "0x8DCF9800733A6BB"
+x-ms-request-id: 344f723d-401e-0015-0568-2b8a85000000
+x-ms-version: 2018-03-28
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=900
+Expires: Fri, 01 Nov 2024 23:51:17 GMT
+Date: Fri, 01 Nov 2024 23:36:17 GMT
+Content-Length: 14229
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Akamai-Cache-Status: Hit from child
+Akamai-GRN: 0.c99b3e17.1730504177.614dfbe
+Server: IKEA Server
+Set-Cookie: _abck=AA32575F787D2F4E5332D8DA8BB0AAE0~-1~YAAQyZs+F8/yA+iSAQAAjjgW6gz5Dd9crqN/6S0iE2vUed0xQnGyAS9pYcoYi1XzvACyQdwAOwvI4BdDkpcrzD0fla5boRZAElOF5yo+PykxMxRXcWRXkfhTln+nCfnBaYRMshe06VU4Zj+NYBzujOZ+tfyXyneM57Z4+MvW9Ze8eoTh0omtT+yGxhVVLqghGqyt600GE2FKRz+sGSk2GgMVQMu6TyKj/50dRJbPj/gG9oUQ36VodCB47xgzp/Zz6nfcPW1UW9jsp7CWazphMmZljwMyXRlMcy2bAJCT+no3odLQuWxIgoGFdWevQtG2sVBSAlk1UA9u5O7Zzk4JUpkfp8J+7zQ2/BfgitOuhOFUXFfPWJnAAopkti281lSiQYr6JovdiXRzjKR86oyhopukJRSsfq27ga4n~-1~-1~-1; Domain=.ikea.com; Path=/; Expires=Sat, 01 Nov 2025 23:36:17 GMT; Max-Age=31536000; Secure, bm_sz=E413F7682093545AF3D2F35865C7E49E~YAAQyZs+F9DyA+iSAQAAjjgW6hmUSMHweT0AbzTTYc2hqnS8b+n9tAAkD0VdwgsISAyAKhnO9rrMNDDLL3Dbv69UsHj3oJ0fXVhV5HrTl6pwsI9043j8mD8xRqVoWmywWbW3stYpo+ulo0nHkvoknReHYXfjLwZMFIQ8zeyuESpMnBsj53BHbl1fvdd1BXDyunrhzyw7Oc/SjrNEvzuhRveLSO//t8YU8TWq/Hm2S9ne9DBPqTBkqHpczclVk6hWtmXQp+bMlC+jsnrr/TX/nNmn4lW7bCOOX8KzTlj2zGRd1nPGjyrYC83m4VlPMLC03/uQdETjxZsMxrZ7VmAl0D2aYsUE8BtsdEobQIJiJ6GKoJMM1lDREFh5gZ/3W0TN7Ndc8nz3mw==~4339505~3420724; Domain=.ikea.com; Path=/; Expires=Sat, 02 Nov 2024 03:36:17 GMT; Max-Age=14400

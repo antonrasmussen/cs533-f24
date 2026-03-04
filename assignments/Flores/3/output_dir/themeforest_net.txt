@@ -1,17 +1,17 @@
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 07 Oct 2024 23:33:33 GMT
+Date: Fri, 01 Nov 2024 02:02:38 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Tue, 08 Oct 2024 00:33:33 GMT
+Expires: Fri, 01 Nov 2024 03:02:38 GMT
 Location: https://themeforest.net/
-Set-Cookie: __cf_bm=5FTXOWqfI5hYxRn8fJnCsOBGY5obApTjvPMG1MSx8jA-1728344013-1.0.1.1-TDu5GjVo9hfImH0B4czeSD7zPW77uDFDykO650_z_qHpOsiy5C34X2HeZAHEdlUwAX2YuVNoI8N47c4f1uxs4g; path=/; expires=Tue, 08-Oct-24 00:03:33 GMT; domain=.themeforest.net; HttpOnly
+Set-Cookie: __cf_bm=F5ZGF6a87UTPYBFh3ttDsjmtwYPyavtY_wPSNH9KlME-1730426558-1.0.1.1-gCgZunXkemE2IoTNgg0GOmJKzGnbU4LpoGPKmRkl6VXp5yAEDCnVkJr4QBx2tYnKZuTwclZLGSZhwxShvMjLqg; path=/; expires=Fri, 01-Nov-24 02:32:38 GMT; domain=.themeforest.net; HttpOnly
 Server: cloudflare
-CF-RAY: 8cf1b266ab3fde93-EWR
+CF-RAY: 8db84dc38f894fcf-ORF
 
 HTTP/2 200 
-date: Mon, 07 Oct 2024 23:33:33 GMT
+date: Fri, 01 Nov 2024 02:02:38 GMT
 content-type: text/html; charset=utf-8
 strict-transport-security: max-age=31536000
 x-frame-options: SAMEORIGIN
@@ -20,16 +20,17 @@ x-content-type-options: nosniff
 x-download-options: noopen
 x-permitted-cross-domain-policies: none
 referrer-policy: strict-origin-when-cross-origin
-link: <https://assets.market-storefront.envato-static.com/storefront/assets/styles-595949c0f59e5d90e4b1e2553aafe835be42dd1e69a9fbfa85046c509b60a251.css>; rel=preload; as=style; type=text/css,<https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/search-header-05971474482f1a21d041838addc1f022fa748078e6e4d40f6f728e743231b234.webp>; rel=preload; as=image,<https://assets.market-storefront.envato-static.com/storefront/assets/logos/themeforest-dd57a83e1947d49586491f03d1c3eedc4c6a438d2740328c5277e6b67bc46ad9.webp>; rel=preload; as=image,<https://assets.market-storefront.envato-static.com/storefront/assets/styles-595949c0f59e5d90e4b1e2553aafe835be42dd1e69a9fbfa85046c509b60a251.css>; rel=preload; as=style; nopush,<https://assets.market-storefront.envato-static.com/storefront/assets/datadog-0f381a234ccf226df39d69067b8336e5d4fcb94b910abd466a3c75d0a09cf70d.js>; rel=preload; as=script; crossorigin=anonymous; nopush,<https://assets.market-storefront.envato-static.com/storefront/assets/legacy-7ac1858737c31978aa27d5951ec17701bfb8ac1717fc6d0f9470590324cbd858.js>; rel=preload; as=script; crossorigin=anonymous; nopush
+link: <https://assets.market-storefront.envato-static.com/storefront/assets/styles-acb799ee1e865cab3104235aaabbbbf14380b5582fb2a07f2d7538878fda7a28.css>; rel=preload; as=style; type=text/css,<https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/search-header-05971474482f1a21d041838addc1f022fa748078e6e4d40f6f728e743231b234.webp>; rel=preload; as=image,<https://assets.market-storefront.envato-static.com/storefront/assets/logos/themeforest-dd57a83e1947d49586491f03d1c3eedc4c6a438d2740328c5277e6b67bc46ad9.webp>; rel=preload; as=image,<https://assets.market-storefront.envato-static.com/storefront/assets/styles-acb799ee1e865cab3104235aaabbbbf14380b5582fb2a07f2d7538878fda7a28.css>; rel=preload; as=style; nopush,<https://assets.market-storefront.envato-static.com/storefront/assets/datadog-ec395bd2189566b6e307ac2df1c2d19a95d85dfdc0ee86841e98131e05770c93.js>; rel=preload; as=script; crossorigin=anonymous; nopush,<https://assets.market-storefront.envato-static.com/storefront/assets/legacy-947e52c66b6c54d32e6af8842543dfc056ad6c8c8fd221c5febb01e577162e02.js>; rel=preload; as=script; crossorigin=anonymous; nopush
+vary: Accept
 cache-control: max-age=1800, public, stale-while-revalidate=300, stale-if-error=28800
-etag: W/"ea2a200a488d596da448b4c73cfe83e3"
-x-request-id: 0753dbf1-29b7-4d75-a40f-137cccb61cee
-x-runtime: 0.256025
-x-content-digest: 8b3a97f0aa2a56a9344a1a015e090d1cdfcb63ef
-x-rack-cache: fresh
+etag: W/"c01341ed8e19a63d1aa7232bfdebc631"
+x-request-id: ba6c91dd-5949-4a4a-8489-7f45027bc124
+x-runtime: 0.268903
+x-content-digest: 51e9af7a1adf1acba32d94db3885334120bdbca2
+x-rack-cache: stale, invalid, store
 cf-cache-status: HIT
-age: 240
-set-cookie: __cf_bm=N3DKqhvkR8UbPsKkS7uv.B_SqxDsfo9KIAk6Semm4Ok-1728344013-1.0.1.1-dfEPPKKJKI3VpEF_M0r45ZFKEBYRs8fDAdItpGwYBeh2_kwrddiAtob0hv1ruJXSD14KkeXVadPj56iGjj2ouA; path=/; expires=Tue, 08-Oct-24 00:03:33 GMT; domain=.themeforest.net; HttpOnly; Secure; SameSite=None
+set-cookie: __cf_bm=SUHGL98QUeb.k6OyOyvlf1c3mQWc_6FJLXSC6tbF4p0-1730426558-1.0.1.1-d8sBAC7vKv0JWxn3G3ONk0s9MR3l50mpx6E2ZUvlVF8PIU.Yjhqcdzze3CTWEpw_AfE1PIXLpHCf3Y9gZwvMAQ; path=/; expires=Fri, 01-Nov-24 02:32:38 GMT; domain=.themeforest.net; HttpOnly; Secure; SameSite=None
 server: cloudflare
-cf-ray: 8cf1b26729c37d05-EWR
+cf-ray: 8db84dc43f774fe1-ORF
 
+Final-URL: https://themeforest.net/

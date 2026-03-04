@@ -1,1 +1,44 @@
-<html><head><title>reuters.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script data-cfasync="false">var dd={'rt':'c','cid':'AHrlqAAAAAMAbhcYHKYzCJgAgFIQAg==','hsh':'2013457ADA70C67D6A4123E0A76873','t':'bv','s':43909,'e':'dbcbe2a0bdd26e055f4e1c64f01cb6a3e5a528a5e4f572714f0ea56b353508dd','host':'geo.captcha-delivery.com','cookie':'v6_fHy7rwdBESUdj364kB4ZYmVTqRotxxLZH4LdwOhZ5dGtWg5SlbYT636v3iLpxGUpECRjiS5IzEoJYjl9p~Az8HQgehoJBHhERut1f_rKNVpPL3uMHcGMDzqLrrOyl'}</script><script data-cfasync="false" src="https://ct.captcha-delivery.com/c.js"></script></body></html>
+HTTP/1.0 301 Moved Permanently
+Location: http://www.reuters.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 01 Nov 2024 02:02:17 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: close
+Location: https://www.reuters.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 fa3f15cd366c19b686cb5e8157aee206.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C2
+X-Amz-Cf-Id: FNOcxeUupJPUFNORnfDOwUZG3YW_FE6SaI-peomx1jb_zkDPtdWCkg==
+Content-Security-Policy: frame-ancestors 'self'; report-uri https://reuters.report-uri.com/r/t/csp/enforce; report-to report-uri
+Report-To: {"endpoints":[{"url":"https://reuters.report-uri.com/a/t/g"}],"group":"report-uri","include_subdomains":true,"max_age":31536000}
+
+HTTP/2 401 
+content-type: text/html;charset=utf-8
+content-length: 721
+server: CloudFront
+date: Fri, 01 Nov 2024 02:02:17 GMT
+x-datadome: protected
+accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+charset: utf-8
+cache-control: max-age=0, private, no-cache, no-store, must-revalidate
+pragma: no-cache
+access-control-allow-credentials: true
+access-control-expose-headers: x-dd-b, x-set-cookie
+access-control-allow-origin: *
+x-datadome-cid: AHrlqAAAAAMAphV-ukM3QykA-zqGnA==
+x-dd-b: 2
+set-cookie: datadome=wCa4Ug8NvOb29FJxVnkcYfYtP8ueqlIM8VukWW6~f1LiTIJ7ZK3h~XTUcdGgRzRS5cno6Twzvkst3sMdVXuiWjDK4Nld1xAwR0R5SgCzmlBu1v2BZzd8p0zrKLHjI53X; Max-Age=31536000; Domain=.reuters.com; Path=/; Secure; SameSite=Lax
+x-cache: LambdaGeneratedResponse from cloudfront
+via: 1.1 62b5a67033f9ddeb513aca6c5afc317e.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD66-C2
+x-amz-cf-id: ujhTXhr9fZfGzwSEJEtoi7x3uvHzhYUdxSukSsZP1R3NldRYFL6sBg==
+content-security-policy: frame-ancestors 'self'; report-uri https://reuters.report-uri.com/r/t/csp/enforce; report-to report-uri
+report-to: {"endpoints":[{"url":"https://reuters.report-uri.com/a/t/g"}],"group":"report-uri","include_subdomains":true,"max_age":31536000}
+
+Final-URL: https://www.reuters.com/

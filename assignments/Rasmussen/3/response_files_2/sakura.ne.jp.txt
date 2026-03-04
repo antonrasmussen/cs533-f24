@@ -1,0 +1,16 @@
+URL: http://sakura.ne.jp
+Final URL: https://rs.sakura.ad.jp/
+Status Code: 200
+
+Headers:
+Server: nginx
+Date: Fri, 01 Nov 2024 23:37:37 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: User-Agent
+Cache-Control: max-age=0, must-revalidate, s-maxage=60, public
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=15768000
+Content-Encoding: gzip

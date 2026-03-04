@@ -1,0 +1,29 @@
+URL: http://alibaba.com
+Final URL: https://www.alibaba.com/
+Status Code: 200
+
+Headers:
+Content-Type: text/html;charset=UTF-8
+Link: <https://s.alicdn.com>; rel=preconnect;
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+EagleId: 2101eeb517305040856225596e08dc
+Server-Timing: rt;dur=0.008,eagleid;desc=2101eeb517305040856225596e08dc, akamai;dur=19;desc=cache-miss
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE
+Access-Control-Allow-Credentials: true
+Date: Fri, 01 Nov 2024 23:34:45 GMT
+Content-Length: 0
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=8264FC4394EB93421EEF393D8582DC1F; Path=/; HttpOnly, cna=lVOsH/waS0YCAS/2gNV3mWsr; Domain=.alibaba.com; Path=/; Expires=Thu, 20-Nov-2092 02:48:52 GMT; Secure; SameSite=None, ug_se_c=organic_1730504085625; Domain=.alibaba.com; Expires=Tue, 11-Jul-2056 01:21:24 GMT; Path=/; Secure; SameSite=None
+Alt-Svc: h3=":443"; ma=2592000
+Object-Status: ttl=-1,age=0
+Edge-Type: akamai

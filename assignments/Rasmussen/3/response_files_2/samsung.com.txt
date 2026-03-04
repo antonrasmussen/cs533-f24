@@ -1,0 +1,15 @@
+URL: http://samsung.com
+Final URL: https://www.samsung.com/us/
+Status Code: 403
+
+Headers:
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 369
+Expires: Fri, 01 Nov 2024 23:37:40 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 01 Nov 2024 23:37:40 GMT
+Connection: keep-alive
+Set-Cookie: country_region=CA-ON; path=/; domain=.samsung.com, s_fpid=57f3be9a-4784-44d1-8fa9-e5266e869d85; expires=Sun, 01-Nov-2026 23:37:40 GMT; path=/; domain=.samsung.com; secure; HttpOnly, country_codes=us; path=/; domain=.samsung.com, device_type=pc; path=/; domain=.samsung.com
+Server-Timing: ak_p; desc="1730504260025_389073125_2225396407_14_113541_21_64_-";dur=1

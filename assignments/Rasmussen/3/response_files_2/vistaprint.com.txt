@@ -1,0 +1,29 @@
+URL: http://vistaprint.com
+Final URL: https://www.vistaprint.com/
+Status Code: 200
+
+Headers:
+Date: Fri, 01 Nov 2024 23:38:30 GMT
+Content-Type: text/html
+Connection: keep-alive
+CF-Ray: 8dbfb803ef884fdb-ORF
+CF-Cache-Status: DYNAMIC
+Age: 42
+Cache-Control: no-cache, private, max-age=0
+Expires: Thu, 01 Jan 1970 00:00:00 UTC
+Set-Cookie: userContext={%22ctc%22:{%22v1%22:[%22login_prompt_not_logged_in_customers%22%2C%22no_account%22%2C%22design_services_hub_inspiration%22%2C%22es_payment_before_brief_test%22%2C%22es__multi_step_brief%22%2C%22site_tagging_new_customer%22%2C%22new_user_registered_nonregistered%22%2C%22new_customer_fr_de_nl%22]}%2C%22userProfile%22:{%22v1%22:{%22culture%22:%22en-US%22}}}; path=/; domain=.vistaprint.com; expires=Sat, 02 Nov 2024 11:38:30 GMT, ucSearchParams=%7B%7D; path=/; domain=.vistaprint.com; expires=Sun, 01 Dec 2024 23:38:30 GMT, testUserId=_46e1dbd3-c5e6-4c0e-ab6f-282a16b5a74f; path=/; domain=.vistaprint.com; Max-Age=15552000, optimizelyEndUserId=_46e1dbd3-c5e6-4c0e-ab6f-282a16b5a74f; path=/; domain=.vistaprint.com; Max-Age=15552000, expCtx=; path=/; domain=.vistaprint.com; Max-Age=0, cf-ipcountry=US; Secure; Path=/; SameSite=None
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Via: 1.1 1389e3bf8be1906daa8019802b0774c8.cloudfront.net (CloudFront)
+Pragma: no-cache
+alt-svc: h3=":443"; ma=86400
+vp-ingress-route: Default
+x-amz-cf-id: q4uAYMK3_8TdH5dFlX81R5qfhEDjHN2WqPnmbd3Sz9ODvo1h96kzSw==
+x-amz-cf-pop: IAD89-P4
+x-amz-expiration: expiry-date="Sat, 09 Nov 2024 00:00:00 GMT", rule-id="NTFiMjNkZmYtN2ZlNS00OWQzLWI3MjYtZTFjOGZkNmE0NjVk"
+x-amz-meta-exclusive-hint: /page-data/en-us/slim_banner_on_homepage/test/camp/usnov1to3dealspage/page-data-83477d5a-2315-4625-8908-3055c39f1762.json
+x-amz-meta-hint-domain: /static/merch/home-page-vistaprint-na.prod
+x-amz-meta-shared-hint: /534f1d35-dc76a6030a1bda5551ee.js,/701-130d607492ab6ccc2a5d.js,/ajax-aggregate-b725f10e229642920a89.js,/app-b961c5007a6154ef9b69.js,/async-api-dba8a9e359def5203939.js,/basic-spa-aggregate-f3eab0a8bce4526eaec1.js,/c8f7fe3b0e41be846d5687592cf2018ff6e22687-c589bd9f3e47297693ae.js,/commons-dc19617083eaf109f7bb.js,/component---src-pages-404-jsx-224a7371ab58a5dce51f.js,/component---src-pages-healthcheck-jsx-f5595e3c4b61d5fe7878.js,/component---src-templates-auth-page-layout-jsx-462bc773209e68d793b2.js,/component---src-templates-home-page-layout-jsx-aeb712d598a821da1edc.js,/compressor-f0d43c35f358b7bbb4de.js,/framework-8094427122681b7d0a75.js,/generic_events-aggregate-b1bb1c8b1d54ee426496.js,/jserrors-aggregate-2423f1382d3841ec28ce.js,/lazy-feature-loader-fe3f03e75c958f148ae5.js,/logging-aggregate-465c754a7eb6175bb4cf.js,/metrics-aggregate-a379cfbc349329143a8f.js,/page_view_event-aggregate-21617308ab53d65d7ac8.js,/page_view_timing-aggregate-7bb980d2b01151a594f6.js,/recorder-f28133ec4557cf202570.js,/session-manager-6ed65897dad8169ac569.js,/session_replay-aggregate-5f3685daf30166a9c6d2.js,/session_trace-aggregate-1c32bbb44503c24defe1.js,/spa-aggregate-66ad12be684e8fb082e8.js,/styles.8356188b33c7990b0c33.css,/webpack-runtime-c8e98b6bb02d6c9f939c.js,/~partytown/partytown-atomics.js,/~partytown/partytown-media.js,/~partytown/partytown-sw.js,/~partytown/partytown.js,/~partytown/debug/partytown-atomics.js,/~partytown/debug/partytown-media.js,/~partytown/debug/partytown-sandbox-sw.js,/~partytown/debug/partytown-sw.js,/~partytown/debug/partytown-ww-atomics.js,/~partytown/debug/partytown-ww-sw.js,/~partytown/debug/partytown.js
+x-cache: Hit from cloudfront
+Server: cloudflare
+Content-Encoding: gzip

@@ -1,0 +1,25 @@
+URL: http://globo.com
+Final URL: https://www.globo.com/
+Status Code: 200
+
+Headers:
+date: Fri, 01 Nov 2024 23:36:01 GMT
+content-type: text/html; charset=UTF-8
+cache-control: max-age=10
+show-page-version: 0
+x-request-id: 1b30434b-99f8-47f5-aeb5-d435c45b2b82
+x-mobile: desktop
+x-served-from: Router Home PROD, BS Show Services
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+expires: Fri, 01 Nov 2024 23:36:11 GMT
+content-encoding: gzip
+x-location-rule: location-barra
+link: <https://s2-home-globo.glbimg.com>; rel="preconnect", <https://s3.glbimg.com>; rel="preconnect"
+age: 0
+vary: X-Forwarded-Proto, User-Agent, Accept-Encoding
+x-bip: 3661834 varnish-server
+via: 1.0 KubeCache
+accept-ranges: bytes
+transfer-encoding: chunked

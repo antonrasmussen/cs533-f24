@@ -1,32 +1,81 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<title>Ads Settings</title>
-<link href="/ads/preferences/css/static-styles.css"rel="stylesheet" type="text/css" charset="utf-8" />
-<meta name="description" content="Google aims to show you relevant ads based on your interests. Use this tool to select interest categories so that the ads we show you are more related to your interests." />
-</head>
-<body>
-<div class="g-doc">
-    <div class="g-section g-tpl-160 header">
-        <div class="g-unit g-first"> <a href="https://www.google.com/ads/preferences/"><img src="//www.google.com/images/logo_sm.gif" alt="Google" /></a> </div>
-        <div class="g-unit title">
-            <div>
-                <h1>Ads Settings</h1>
-            </div>
-        </div>
-    </div>
-    <div class="g-section g-tpl-160">
-        <div class="g-unit g-first"> &nbsp; </div>
-        <div class="g-unit">
-            <h2>Cookies are disabled</h2>
-            <p>Your browser's cookies seem to be disabled. Ads Settings will not
-                work until you enable cookies in your browser. <a href="https://www.google.com/cookies.html">How
-                do I enable cookies?</a></p>
-            <div class="footer"> ©2009 Google - <a href="https://www.google.com/">Home</a> - <a href="https://www.google.com/privacy.html">Privacy
-                    Policy</a> </div>
-        </div>
-    </div>
-</div>
-</body>
-</html>
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 01 Nov 2024 02:01:46 GMT
+Location: https://adssettings.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=518=HH-2f3kJvTUonvvDOX8PeGD_NqeW_FjXs_rxjpQxIuyHy6j3PeOJ5ItvH6gg-bUeKjadA-BGLbT4P-qRZw4gAKfRkRy1ZmwAG2hub9XS_9wc3_vxOInulPuvlOATkgx9jAruWgY6EYSwYlMKvxi82tmHquSeRdDt2LDq2AfvigcOC96vcrY; expires=Sat, 03-May-2025 02:01:46 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Fri, 01 Nov 2024 02:01:47 GMT
+location: https://www.google.com/ads/preferences?continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw%3D%3D
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+cross-origin-opener-policy: same-origin-allow-popups
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+content-security-policy: require-trusted-types-for 'script';report-uri /_/AdsSettingsUi/cspreport
+content-security-policy: script-src 'nonce-pSpFQH0FAlTFM62nbM7elQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AdsSettingsUi/cspreport;worker-src 'self'
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+cross-origin-resource-policy: same-site
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=518=Z_iKnlendAwb6DPth-lGFCTf46YaOaxFUikbYB8nImtE3_ccUbsavQr8jxfQLKpoYbgK5ZUzZRn_GjcRqwUU9-uc5_pPxdmfRHyC7ETAOug5gOMZRv4X1YD9yH6BJgrB21EwV950nVScCHLQ3d6bFfe2xYtJ2WI4T_6p0K0VkqxdD1Epih8; expires=Sat, 03-May-2025 02:01:47 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: https://www.google.com/ads/preferences/checkgoog?continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw==&hl=en
+date: Fri, 01 Nov 2024 02:01:47 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+server: content-ads-prefmgr
+content-length: 321
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: pm_sess=ACi0TCjHWcGLpnETkVTSXMzxYH_kaYslwCg75wBOE6HgVsfXYwed8Pknh6KW1rh3T1Uv7qFH2VGW; expires=Fri, 01-Nov-2024 02:31:47 GMT; path=/ads/preferences; domain=.google.com; Secure
+set-cookie: pm_sess=ACi0TCjHWcGLpnETkVTSXMzxYH_kaYslwCg75wBOE6HgVsfXYwed8Pknh6KW1rh3T1Uv7qFH2VGW; expires=Fri, 01-Nov-2024 02:31:47 GMT; path=/anonymous; domain=.google.com; Secure
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: https://www.google.com/ads/preferences/html/blocked-cookies.html
+cache-control: private
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Fri, 01 Nov 2024 02:01:47 GMT
+server: content-ads-prefmgr
+content-length: 261
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html
+last-modified: Mon, 12 Jun 2017 11:45:51 GMT
+date: Fri, 01 Nov 2024 02:01:47 GMT
+expires: Fri, 01 Nov 2024 02:01:47 GMT
+cache-control: private, max-age=3600
+x-content-type-options: nosniff
+server: content-ads-prefmgr
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Accept-Encoding
+
+Final-URL: https://www.google.com/ads/preferences/html/blocked-cookies.html

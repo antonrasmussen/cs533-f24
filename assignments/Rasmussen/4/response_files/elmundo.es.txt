@@ -1,0 +1,23 @@
+URL: https://elmundo.es
+Final URL: https://www.elmundo.es/
+Status Code: 200
+
+Headers:
+connection: keep-alive
+content-length: 114904
+content-type: text/html; charset=iso-8859-15
+referrer-policy: unsafe-url
+cache-control: s-maxage=60
+x-backend: CONTENT
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:47 GMT
+age: 8
+x-served-by: cache-ams2100138-AMS, cache-iad-kiad7000098-IAD
+x-cache: MISS, HIT
+x-cache-hits: 0, 1
+x-timer: S1730350667.109450,VS0,VE2
+vary: Accept-Encoding, User-Agent
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html><html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15"/><meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"/><meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0"><meta name="cXenseParse:une-kicker" content=""/><title data-ue-u="title" data-ue-c="innerHTML">
+EL MUNDO - Diario online l�der de informaci�n en espa�ol </title><link rel="preload" href="https://e00.uecdn.es/fonts/Mundo/Mundo-Regular.wof

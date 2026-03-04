@@ -1,4 +1,0 @@
-Min cookies: 0
-Max cookies: 3
-Mean cookies: 0.30
-Median cookies: 0.0

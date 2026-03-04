@@ -1,0 +1,26 @@
+URL: http://ign.com
+Final URL: https://www.ign.com/
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+Content-Length: 56592
+content-type: text/html; charset=utf-8
+cache-control: max-age=10
+etag: "dggbkfjbk27efx"
+content-encoding: gzip
+X-UA: desktop
+X-Hash: authfalse:
+Accept-Ranges: bytes
+Date: Fri, 01 Nov 2024 23:36:17 GMT
+Age: 22
+X-Served-By: cache-iad-kiad7000109-IAD, cache-iad-kiad7000164-IAD
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1730504177.330131,VS0,VE1
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT
+Access-Control-Allow-Headers: Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Authorization
+Vary: Accept-Encoding
+Set-Cookie: geoCC=US; path=/
+Strict-Transport-Security: max-age=300

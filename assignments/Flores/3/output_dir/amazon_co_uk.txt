@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: Server
-Date: Mon, 07 Oct 2024 23:33:02 GMT
+Date: Fri, 01 Nov 2024 02:01:51 GMT
 Content-Type: text/html
 Content-Length: 163
 Connection: keep-alive
@@ -8,7 +8,7 @@ Location: https://amazon.co.uk/
 
 HTTP/1.1 301 Moved Permanently
 Server: Server
-Date: Mon, 07 Oct 2024 23:33:03 GMT
+Date: Fri, 01 Nov 2024 02:01:52 GMT
 Content-Type: text/html
 Connection: keep-alive
 Location: https://www.amazon.co.uk/
@@ -17,8 +17,8 @@ HTTP/2 405
 content-type: text/html;charset=UTF-8
 content-length: 0
 server: Server
-date: Mon, 07 Oct 2024 23:33:03 GMT
-x-amz-rid: X56FXX2SZQH4P4K9K9HZ
+date: Fri, 01 Nov 2024 02:01:52 GMT
+x-amz-rid: MCKBQNKXZZKHRX9PP4YW
 cache-control: no-cache
 pragma: no-cache
 expires: -1
@@ -27,8 +27,9 @@ vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,User-Agent
 strict-transport-security: max-age=47474747; includeSubDomains; preload
 x-frame-options: SAMEORIGIN
 x-cache: Error from cloudfront
-via: 1.1 16566ccd260decf98d0fe88645f0314c.cloudfront.net (CloudFront)
-x-amz-cf-pop: IAD61-P5
+via: 1.1 c9bef6d423a5d23e0ca5e2af8503331c.cloudfront.net (CloudFront)
+x-amz-cf-pop: EWR53-C1
 alt-svc: h3=":443"; ma=86400
-x-amz-cf-id: QZC6jCNZ78-C5LjlvUDEoUmBVm5g6K71ubAK78-O0b_CpDjzM1RIfA==
+x-amz-cf-id: MlBHKsQ5GzJ082S5X8kbhxDfqgeR24EWWj5aQuIeVwVsF7rBGWzWZg==
 
+Final-URL: https://www.amazon.co.uk/

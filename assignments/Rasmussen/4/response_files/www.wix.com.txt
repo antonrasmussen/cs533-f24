@@ -1,0 +1,44 @@
+URL: https://www.wix.com
+Final URL: https://www.wix.com/
+Status Code: 200
+
+Headers:
+content-length: 207633
+content-type: text/html; charset=UTF-8
+link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+html-cacheable: true
+etag: W/"f58540ae1d7a6489124692b2528a25fb"
+x-meta-site-is-wix-site: 1
+content-language: en-US
+referrer-policy: no-referrer-when-downgrade
+cache-control: public,max-age=0,must-revalidate
+strict-transport-security: max-age=31536000
+server: Pepyaka
+x-content-type-options: nosniff
+accept-ranges: bytes
+date: Thu, 31 Oct 2024 04:57:45 GMT
+age: 60557
+x-served-by: cache-iad-kiad7000105-IAD
+x-cache: HIT
+vary: Accept-Encoding
+server-timing: cache;desc=hit, varnish;desc=hit_hit, dc;desc=fastly_g
+set-cookie: ssr-caching=cache#desc=hit#varnish=hit_hit#dc#desc=fastly_g; max-age=20,_wixCIDX=19704d6e-cb59-4b58-b81c-bac2821dbdf1; Max-Age=7776000; Expires=Wed, 29 Jan 2025 04:57:45 GMT; Path=/; Domain=.wix.com; Secure; SameSite=None,_wixUIDX=null-user-id; Max-Age=7776000; Expires=Wed, 29 Jan 2025 04:57:45 GMT; Path=/; Domain=.wix.com; Secure; SameSite=None
+x-wix-request-id: 1730350665.847706494738877251
+x-seen-by: yvSunuo/8ld62ehjr5B7kA==
+via: 1.1 google
+glb-x-seen-by: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+Content Snippet (first 500 characters):
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <meta charset='utf-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1" id="wixDesktopViewport" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Wix.com Website Builder"/>
+
+  <link rel="icon" sizes="192x192" href="https://www.wix.com/favicon.ico" type="image/x-icon"/>
+  <link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon"/>
+  <link rel="apple-touch-icon" h

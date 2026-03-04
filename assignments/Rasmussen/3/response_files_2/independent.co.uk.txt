@@ -1,0 +1,36 @@
+URL: http://independent.co.uk
+Final URL: https://www.independent.co.uk/us
+Status Code: 200
+
+Headers:
+Connection: keep-alive
+Content-Length: 61569
+Content-Type: text/html; charset=utf-8
+Cache-Tag: independent.co.uk,v8.15.0,us,section_1741
+Content-Encoding: gzip
+Content-Language: en
+Etag: W/"52134-ARdmNKAedfA6eiOtHiRifnIJlC4-gzip"
+Speculation-Rules: /speculationrules.json
+Strict-Transport-Security: max-age=63072000;  preload
+X-Head-Hash: 
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+Age: 100
+Set-Cookie: gdpr=0 ; Path=/ ;, subscriber_origin=us ; Path=/ ;, _pc_subscriber_origin=us ; Path=/ ;, feat__support_now_donate_copy=false ; Path=/ ; Secure ; HttpOnly ; Expires=Tue, 26 Nov 2024 23:36:19 GMT ;, feat__pubx_integration=true ; Path=/ ; Secure ; HttpOnly ; Expires=Tue, 31 Dec 2024 23:36:19 GMT ;, esi-uuid=97bd293e-3f06-4606-8acf-f291e6cc59b2 ; Path=/ ; Secure; HttpOnly; Expires=Sat, 01 Nov 2025 23:36:19 GMT ;, esi-permutive-id=97bd293e-3f06-4606-8acf-f291e6cc59b2; Path=/ ; Secure ;, gdpr=0 ; Path=/ ;, subscriber_origin=us ; Path=/ ;, _pc_subscriber_origin=us ; Path=/ ;, feat__support_now_donate_copy=false ; Path=/ ; Secure ; HttpOnly ; Expires=Tue, 26 Nov 2024 23:36:19 GMT ;, feat__pubx_integration=true ; Path=/ ; Secure ; HttpOnly ; Expires=Tue, 31 Dec 2024 23:36:19 GMT ;, esi-uuid=97bd293e-3f06-4606-8acf-f291e6cc59b2 ; Path=/ ; Secure; HttpOnly; Expires=Sat, 01 Nov 2025 23:36:19 GMT ;, esi-permutive-id=97bd293e-3f06-4606-8acf-f291e6cc59b2; Path=/ ; Secure ;
+Access-Control-Allow-Origin: *
+Cache-control: no-cache, no-store, max-age=0, must-revalidate
+Date: Fri, 01 Nov 2024 23:36:19 GMT
+canary: 1
+X-Backend: flow-us
+Content-Security-Policy: default-src https: 'unsafe-inline' data: blob:; frame-src https: data:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; media-src https: 'unsafe-inline' data: blob:; img-src https: http: data: blob:; frame-ancestors https:
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+X-Served-By: cache-lga21936-LGA, cache-iad-kiad7000031-IAD
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1730504179.340236,VS0,VE10
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

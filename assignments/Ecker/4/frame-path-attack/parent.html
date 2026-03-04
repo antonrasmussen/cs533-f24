@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parent Page</title>
+</head>
+<body>
+    <h1>Parent Page</h1>
+    <p>This page contains an iframe that sets a cookie on a specific path.</p>
+    <iframe src="http://localhost:4000/iframe" width="400" height="200"></iframe>
+
+    <h2>Attempting to Access Cookie</h2>
+    <button onclick="readCookie()">Read Cookie</button>
+    <p id="cookieValue"></p>
+
+    <script>
+        function readCookie() {
+            // Attempt to read cookies from document.cookie
+            const cookieValue = document.cookie
+                .split('; ')
+                .find(row => row.startsWith('sensitiveCookie='))
+                ?.split('=')[1];
+
+            document.getElementById('cookieValue').innerText = 
+                cookieValue ? `Cookie Value: ${cookieValue}` : 'Cookie not found';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+URL: https://feedburner.com
+Final URL: https://feedburner.com/
+Status Code: 200
+
+Headers:
+accept-ranges: bytes
+vary: Accept-Encoding
+content-type: text/html
+content-security-policy: script-src 'nonce-mqyZ2bVLJlbG_5yvtdcY-g' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/pichu-static; base-uri 'none', require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/pichu-static
+cross-origin-opener-policy: same-origin; report-to="pichu-static"
+report-to: {"group":"pichu-static","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/pichu-static"}]}
+x-frame-options: deny
+date: Thu, 31 Oct 2024 04:57:43 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+last-modified: Tue, 17 Sep 2024 03:08:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+transfer-encoding: chunked
+
+Content Snippet (first 500 characters):
+<!doctype html><html lang="en-US"><head><title>Feedburner</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Google+Sans:300,400,500|Oswald:300,400,500|Material+Icons" nonce="mqyZ2bVLJlbG_5yvtdcY-g"><link rel="icon" href="https://feedburner.google.com/fb/images/favicon.ico"><base href="/" target="_blank"><meta name="viewport" content="width=device-width, initial-scale=1"><script nonce="mqyZ2bVLJlbG_5yvtdcY-g">window.gaiaBase = "https:\/\/accounts.googl
